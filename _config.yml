@@ -22,8 +22,8 @@ title: Planty Archives
 email: info@planty.green
 description: >- # this means to ignore newlines until "baseurl:"
   Hier sind alle Erfahrungen, die ich über meine Obst- und Gemüsepflanzen gesammelt habe.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "PlantyArchives" # the subpath of your site, e.g. /blog
+url: "https://veronikasedlackova.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
