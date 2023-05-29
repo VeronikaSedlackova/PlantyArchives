@@ -5,12 +5,14 @@
 layout: page
 ---
 
-<h1>Meine Pflanzen 2023</h1>
+<h1>Meine Pflanzen</h1>
 
 <ul>
     {% for plant in site.plants %}
         <li>
-            <h2><a href="{{ plant.url | relative_url }}">{{ plant.title }}</a></h2>
+            <h2>{{ plant.title }}</h2>
+            <p><a href="{{ plant.url | relative_url }}">Übersicht</a></p>
+            <h3>{{ plant.year }}</h3>
             {% if plant.image %}
             <img src="{{ plant.image | relative_url }}">
 

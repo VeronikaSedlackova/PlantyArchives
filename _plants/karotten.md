@@ -2,7 +2,9 @@
 layout: page
 title: Karotten
 permalink: /karotten
-summary: Ich habe hier Karotten
+year: 2023
+summary: 
+    Sperli Bio-Möhren (Jeanette/Nantasie, Einzelpreis 3,99 €)
 ---
 
 Hier kommen infos zu meinen Karotten.

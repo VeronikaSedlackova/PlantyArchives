@@ -2,7 +2,9 @@
 layout: page
 title: Gurken
 permalink: /gurken
-summary: Ich habe hier Gurken
+year: 2023
+summary: 
+    Freilandgurke (Cucumis sativus, Dehner, Stückpreis todo)
 ---
 
 Hier kommen infos zu meinen Gurken.
