@@ -5,7 +5,7 @@ image: /plants/pfluecksalat/2023-05-29-102122.jpeg
 permalink: /pfluecksalat
 ---
 
-Hier kommen infos zu meinen Erdbeeren.
+Hier kommen infos zum Pflücksalat.
 
 ## Einpflanzen
 

@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<h1>Meine Pflanzen</h1>
+<h1>Meine Pflanzen 2023</h1>
 
 <ul>
     {% for plant in site.plants %}
