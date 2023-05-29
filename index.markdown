@@ -10,9 +10,9 @@ layout: page
 <ul>
     {% for plant in site.plants %}
         <li>
-            <h2><a href="{{ plant.url }}">{{ plant.title }}</a></h2>
+            <h2><a href="{{ plant.url | relative_url }}">{{ plant.title }}</a></h2>
             {% if plant.image %}
-            <img src="./plants/{{ plant.image }}">
+            <img src="{{ site.baseurl }}/plants/{{ plant.image }}">
 
             {% endif %}
             <p>{{ plant.summary | markdownify }}</p>
