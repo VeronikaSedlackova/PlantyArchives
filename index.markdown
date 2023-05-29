@@ -12,7 +12,7 @@ layout: page
         <li>
             <h2>{{ plant.title }}</h2>
             <p><a href="{{ plant.url | relative_url }}">Übersicht</a></p>
-            <h3>{{ plant.year }}</h3>
+            <p>{{ plant.year }}</p>
             {% if plant.image %}
             <img src="{{ plant.image | relative_url }}">
 
