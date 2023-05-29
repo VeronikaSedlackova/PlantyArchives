@@ -2,7 +2,16 @@
 layout: page
 title: Erdbeeren
 permalink: /erdbeeren
-summary: Ich habe hier kleine Erdbeeren
+summary: 
+    Sorten
+    Corona (6 Stück, Obi), 
+    Senga Sengana (Fragaria x Ananassa, Dehner),
+    Toscana (Fragaria x Ananassa, Dehner)
 ---
 
-Hier kommen infos zu meinen Erdbeeren.
+# Erde
+
+# Standort
+
+# Gießen
+
