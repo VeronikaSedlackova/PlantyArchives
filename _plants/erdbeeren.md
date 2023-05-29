@@ -2,7 +2,7 @@
 layout: page
 title: Erdbeeren
 permalink: /erdbeeren
-summary: 
+summary: |
     Sorten
     Corona (6 Stück, Obi), 
     Senga Sengana (Fragaria x Ananassa, Dehner),
