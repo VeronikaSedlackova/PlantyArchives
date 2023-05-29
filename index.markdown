@@ -12,7 +12,7 @@ layout: page
         <li>
             <h2><a href="{{ plant.url | relative_url }}">{{ plant.title }}</a></h2>
             {% if plant.image %}
-            <img src="{{ site.baseurl }}/plants/{{ plant.image }}">
+            <img src="{{ plant.image | relative_url }}">
 
             {% endif %}
             <p>{{ plant.summary | markdownify }}</p>
