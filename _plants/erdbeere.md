@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Erdbeeren
-permalink: /erdbeeren
+title: Erdbeere
+permalink: /erdbeere
 ---
 
 # Erde

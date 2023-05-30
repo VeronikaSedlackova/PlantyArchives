@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tomaten
-permalink: /tomaten
+title: Tomate
+permalink: /tomate
 summary: Ich habe hier Tomaten
 ---
 
