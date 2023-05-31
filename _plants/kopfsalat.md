@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1*1 für Kopfsalate
+title: Kopfsalat
 permalink: /kopfsalat
 ---
 

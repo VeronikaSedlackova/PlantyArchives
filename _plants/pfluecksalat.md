@@ -1,31 +1,28 @@
 ---
 layout: page
 title: Pfücksalat
-image: /plants/pfluecksalat/2023-05-29-102122.jpeg
 permalink: /pfluecksalat
 ---
 
-# 1*1 für Pflücksalate
-
-## Sorte
+# Sorte
 - Red Salad Bowl (Dehner) TODO: bewerten + bilder
 
-## Direktsaat
+# Direktsaat
 März/April
 
-### Saattiefe
+## Saattiefe
 1cm (Nicht zu tief, da sonst das Herz fault)
 
-### Nährstoffe 
+## Nährstoffe 
 Schwach-/Mittelzehrer
 
-### Standort
+## Standort
 Halbschattig bis sonnig
 
-### Abstand
+## Abstand
 25 - 30 cm
 
-### Nachbarn
+## Nachbarn
 | gute Nachbarn | schlechte Nachbarn | 
 |---------------|--------------------|
 | Bohnen        | Sellerie           |
@@ -38,8 +35,8 @@ Halbschattig bis sonnig
 | Zwiebeln      |                    |
 
 
-## Ernte
+# Ernte
 Nach ca 10 Wochen
 
-### Tipp
+## Tipp
 Herz beim Ernten stehen lassen, damit neue Blätter nachwachsen
