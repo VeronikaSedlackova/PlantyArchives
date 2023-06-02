@@ -37,6 +37,8 @@ sass:
   quiet_deps: true
 
 collections:
+  experience:
+    output: true
   plants:
     output: true
 

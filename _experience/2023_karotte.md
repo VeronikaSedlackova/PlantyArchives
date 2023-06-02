@@ -16,5 +16,5 @@ year: 2023
     - Obi, Stückpreis: 1,79€
     - Saatmenge: TODO:
 
-# Erfahrungsbericht 
+# Erfahrungsbericht
 

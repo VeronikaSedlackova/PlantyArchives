@@ -19,4 +19,4 @@ year: 2023
 ## 02. Juni
 Es sind erste kleine Früchte zu sehen bei beiden gekauften Pflanzen.
 
-<img src="./plants/images/gurke/02-06-2023_erste_früchte.jpeg" width="500">
+![Erste Früchte]({{ '/plants/images/gurke/02-06-2023_erste_fruechte.jpeg' | relative_url }}){: width="600" }

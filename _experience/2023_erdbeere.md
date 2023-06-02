@@ -5,7 +5,7 @@ permalink: /erdbeere/2023
 year: 2023
 ---
 
-# Sorten
+## Sorten
 
 - **Corona** (6 Pflanzen)
     - Obi, Stückpreis TODO:
@@ -17,11 +17,8 @@ year: 2023
     - Dehner, Stückpreis TODO:
 
 
-# Erfahrungsbericht
-## 02. Juni
+## Erfahrungsbericht
+### 02. Juni
 Es sind erste kleine Früchte bei den gekauften Pflanzen zu sehen.
 
-something something ![Das ist ein Bild](../plants/images/erdbeere/02-06-2023_erste_fruechte.jpeg){: width="500" }
-something something ![Das ist ein Bild]({{ '/plants/images/erdbeere/02-06-2023_erste_fruechte.jpeg' | relative_url }}){: width="500" }
-
-
+![Erste Früchte]({{ '/plants/images/erdbeere/02-06-2023_erste_fruechte.jpeg' | relative_url }}){: width="600" }
