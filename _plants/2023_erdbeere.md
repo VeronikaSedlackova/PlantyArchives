@@ -30,6 +30,6 @@ something something ![Das ist ein Bild](./plants/images/erdbeere/02-06-2023_erst
 <img src="_plants/images/erdbeere/02-06-2023_erste_fruechte.jpeg" width="500">
 
 4
-something something ![](./plants/gurke/02-06-2023_erste_fruechte.jpeg)
+something something ![Das ist ein Bild](./plants/pfluecksalat/2023-05-29-102122.jpeg)
 
 
