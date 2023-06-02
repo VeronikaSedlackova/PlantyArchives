@@ -21,4 +21,4 @@ year: 2023
 ## 02. Juni
 Es sind erste kleine Früchte bei den gekauften Pflanzen zu sehen.
 
-<img src="/images/erdbeere/02-06-2023_erste_fruechte.jpeg" width="500">
+<img src="/plants/images/erdbeere/02-06-2023_erste_fruechte.jpeg" width="500">
