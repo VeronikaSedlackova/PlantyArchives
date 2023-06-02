@@ -12,3 +12,6 @@ year: 2023
 - **Snack Paprika** (1 Pflanze)
     - Gattung: capsicum annuum (rot)
     - Dehner, Stückpreis TODO:
+
+
+# Erfahrungsbericht 

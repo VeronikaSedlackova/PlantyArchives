@@ -14,4 +14,9 @@ year: 2023
     - Obi, Stückpreis: 2,99€
     - Saatmenge: TODO:
 
-## Vorkultur
+
+# Erfahrungsbericht
+## 02. Juni
+Es sind erste kleine Früchte zu sehen bei beiden gekauften Pflanzen.
+
+<img src="./plants/images/gurke/02-06-2023_erste_früchte.jpeg" width="500">

@@ -15,3 +15,10 @@ year: 2023
 - **Toscana** (1 Pflanze)
     - Gattung: Fragaria x Ananassa
     - Dehner, Stückpreis TODO:
+
+
+# Erfahrungsbericht
+## 02. Juni
+Es sind erste kleine Früchte bei den gekauften Pflanzen zu sehen.
+
+<img src="./plants/images/erdbeere/02-06-2023_erste_früchte.jpeg" width="500">
