@@ -14,5 +14,4 @@ year: 2023
     - Obi, Stückpreis: 2,99€
     - Saatmenge: TODO:
 
-
 ## Vorkultur
