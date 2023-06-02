@@ -4,39 +4,41 @@ title: Pfücksalat
 permalink: /pfluecksalat
 ---
 
-# Sorte
+## Sorte
 - Red Salad Bowl (Dehner) TODO: bewerten + bilder
 
-# Direktsaat
+## Direktsaat
 März/April
 
-## Saattiefe
-1cm (Nicht zu tief, da sonst das Herz fault)
+### Saattiefe
+1cm 
+-> nicht zu tief, da sonst das Herz fault
 
-## Nährstoffe 
+### Nährstoffe 
 Schwach-/Mittelzehrer
 
-## Standort
+### Standort
 Halbschattig bis sonnig
 
-## Abstand
+### Abstand
 25 - 30 cm
 
-## Nachbarn
+### Nachbarn
+
 | gute Nachbarn | schlechte Nachbarn | 
-|---------------|--------------------|
+| ------------- |:------------------:| 
 | Bohnen        | Sellerie           |
 | Erbsen        |                    |
 | Grünkohl      |                    |
-| Erdbeeren     |                    |
-| Gurke         |                    |
-| Möhren        |                    |
-| Tomaten       |                    |
-| Zwiebeln      |                    |
+| Erdbeeren     |                    | 
+| Gurke         |                    | 
+| Möhren        |                    | 
+| Tomaten       |                    | 
+| Zwiebeln      |                    | 
 
 
-# Ernte
+## Ernte
 Nach ca 10 Wochen
 
-## Tipp
+### Tipp
 Herz beim Ernten stehen lassen, damit neue Blätter nachwachsen

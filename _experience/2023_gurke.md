@@ -5,7 +5,10 @@ permalink: /gurke/2023
 year: 2023
 ---
 
-# Sorten
+Das sind meine Erfahrungen zu Gurken, die ich in 2023 gesammelt habe.
+
+<u>Folgende Sorten habe ich angebaut:</u>
+
 - **Freilandgurke** (2 Pflanzen)
     - Gattung: Cucumis sativus
     - Dehner, Stückpreis TODO:
@@ -14,9 +17,10 @@ year: 2023
     - Obi, Stückpreis: 2,99€
     - Saatmenge: TODO:
 
+<br>
 
-# Erfahrungsbericht
-## 02. Juni
+## Protokoll
+#### <b>02. Juni</b>
 Es sind erste kleine Früchte zu sehen bei beiden gekauften Pflanzen.
 
-![Erste Früchte]({{ '/plants/images/gurke/02-06-2023_erste_fruechte.jpeg' | relative_url }}){: width="600" }
+![Erste Früchte]({{ '/experience/images/gurke/02-06-2023_erste_fruechte.jpeg' | relative_url }}){: width="600" }

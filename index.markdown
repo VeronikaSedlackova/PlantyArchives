@@ -5,20 +5,23 @@
 layout: page
 ---
 
-<h1>Meine Pflanzen</h1>
-
+<h1><b>Summary</b></h1>
 <ul>
     {% for plant in site.plants %}
         <li>
-            <h2>{{ plant.title }}</h2>
-            <p><a href="{{ plant.url | relative_url }}">Übersicht</a></p>
-            <p>{{ plant.year }}</p>
-            {% if plant.image %}
-            <img src="{{ plant.image | relative_url }}">
-
-            {% endif %}
-            <p>{{ plant.summary | markdownify }}</p>
+            <h4><a href="{{ plant.url | relative_url }}">{{ plant.title }}</a></h4>
         </li>
     {% endfor %}
 
+</ul>
+
+<br>
+<h1><b>Erfahrungsberichte</b></h1>
+<ul>
+    {% for protocol in site.experience %}
+        <li>
+            <h4>{{ protocol.title }}</h4>
+            <p><a href="{{ protocol.url | relative_url }}">{{ protocol.year }}</a></p>
+        </li>
+    {% endfor %}
 </ul>
