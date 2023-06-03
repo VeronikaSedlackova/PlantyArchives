@@ -4,8 +4,12 @@ title: Pfücksalat
 permalink: /pfluecksalat
 ---
 
-## Sorte
-- Red Salad Bowl (Dehner) TODO: bewerten + bilder
+## Sorten
+__Red Salad Bowl__
+
+![Red Salad Bowl]({{ '/experience/images/pfluecksalat/Red_salad_bowl_Sorte.jpeg' | relative_url }}){: width="200" }
+
+<hr>
 
 ## Direktsaat
 März/April
@@ -14,8 +18,11 @@ März/April
 1cm 
 -> nicht zu tief, da sonst das Herz fault
 
+### Keimdauer
+Bis aus dem Samen die erste kleine Pflanze wird dauert es i.d.R 6-12 Tage. Während dieser Zeit muss reichlich gegossen werden. Die Saat darf nicht austrocknen
+
 ### Nährstoffe 
-Schwach-/Mittelzehrer
+Schwachzehrer
 
 ### Standort
 Halbschattig bis sonnig
@@ -36,9 +43,12 @@ Halbschattig bis sonnig
 | Tomaten       |                    | 
 | Zwiebeln      |                    | 
 
+<hr>
 
 ## Ernte
 Nach ca 10 Wochen
+
+<hr>
 
 ### Tipp
 Herz beim Ernten stehen lassen, damit neue Blätter nachwachsen
