@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paprika
+title: Paprika TODO
 permalink: /paprika/2023
 year: 2023
 ---

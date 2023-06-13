@@ -17,6 +17,10 @@ Das sind meine Erfahrungen zum Pflücksalat, die ich 2023 gesammelt habe.
 <br>
 
 ## Protokoll
+Ich habe 6 Pflücksalate ist in einem kleinen Hochbeet (75x35x30) gepflanzt. Die mittleren 2 ausgesäten Salate sind nicht gekommen. An dessen Stelle habe ich Kopfsalat ausgesät. Es gibt nur 2 Schichten in dem Hochbeet:
+ 1. Schicht: Kompost
+ 2. Schicht: Pflanzenerde
+
 #### <b>09. Mai</b>
 ![Erste Früchte]({{ '/experience/images/pfluecksalat/09-05-2023.jpeg' | relative_url }}){: width="600" }
 

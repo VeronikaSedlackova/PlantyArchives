@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kopfsalat
+title: Kopfsalat TODO Vorkultur
 permalink: /kopfsalat/2023
 year: 2023
 ---
@@ -17,6 +17,16 @@ Das sind meine Erfahrungen zum Kopfsalat, die ich 2023 gesammelt habe.
 <br>
 
 ## Protokoll
+Ich habe Kopfsalat vorkultiviert allerdings ist es nicht gut aufgegangen und schlussendlich am Boden zermatscht.
+
+2 Kopfsalat habe ich dann in einem kleinen Hochbeet (75x35x30) ausgesät. Es gibt nur 2 Schichten in dem Hochbeet:
+
+ 1. Schicht: Kompost
+ 2. Schicht: Pflanzenerde
+
+
+TODO: Bilder von Vorkultur + Ergebnisse
+
 #### <b>19. Mai</b>
 Vor ungefähr einer Woche habe ich die Kopfsalat Samen direkt in das Hochbeet gesät. 
 

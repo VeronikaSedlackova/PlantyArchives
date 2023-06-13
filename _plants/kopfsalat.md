@@ -4,14 +4,14 @@ title: Kopfsalat
 permalink: /kopfsalat
 ---
 
-## Sorten
+## __Sorten__
 __Dynamite__
 
 ![Kopfsalat]({{ '/experience/images/kopfsalat/Kopfsalat_Sorte.jpeg' | relative_url }}){: width="200" }
 
 <hr>
 
-## Direktsaat
+## __Direktsaat__
 Ab April bis Mitte Juni alle 2 Wochen
 
 ### Saatmenge
@@ -22,17 +22,18 @@ Ab April bis Mitte Juni alle 2 Wochen
 
 <hr>
 
-## Vorkultur
+## __Vorkultur__
 Ab Ende Januar werden die Pflanzen fürs Frühbeet, ab Ende Februar die fürs Freiland herangezogen.
 
 Kopfsalat keimt am Besten bei 15°. Bei mehr als 20° keimt er schlechter.
 
-## Auspflanzen
+<hr>
+
+
+## __Auspflanzen__
 Ende März/Anfang April kann die Jungpflanze ins Freiland gepflanzt werden.
 
 Mitte März kann die Jungpflanze schon unterm Flies in Freiland.
-
-<hr>
 
 ### Nährstoffe 
 Schwachzehrer, weswegen er eine gute Kombi mit Starkzehrern im Beet ist
@@ -60,5 +61,5 @@ Halbschattig bis sonnig
 
 <hr>
 
-## Ernte
+## __Ernte__
 Nach 5-7 Wochen (ab Jungpflanze)

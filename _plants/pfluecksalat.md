@@ -4,14 +4,14 @@ title: Pfücksalat
 permalink: /pfluecksalat
 ---
 
-## Sorten
+## __Sorten__
 __Red Salad Bowl__
 
 ![Red Salad Bowl]({{ '/experience/images/pfluecksalat/Red_salad_bowl_Sorte.jpeg' | relative_url }}){: width="200" }
 
 <hr>
 
-## Direktsaat
+## __Direktsaat__
 März/April
 
 ### Saattiefe
@@ -45,10 +45,8 @@ Halbschattig bis sonnig
 
 <hr>
 
-## Ernte
+## __Ernte__
 Nach ca 10 Wochen
-
-<hr>
 
 ### Tipp
 Herz beim Ernten stehen lassen, damit neue Blätter nachwachsen
