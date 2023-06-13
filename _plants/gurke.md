@@ -6,31 +6,53 @@ permalink: /gurke
 
 
 ## __Sorte__
+TODO
 
 <hr>
 
-## __Direktsaat__
+## __Vorkultur__
+Ab April können Gurken drinnen vorkultiviert werden. 
+Ab Ende April können sie draußen abgehärtet werden (bei <6° reinholen)
 
 ### Saattiefe
+- Samen hochkant in kleine Anzuchttöpfe  
+- 1,5cm mit Erde bedecken 
 
 ### Nährstoffe 
+TODO
 
 ### Standort
+TODO
 
 ### Abstand
+TODO
 
 ### Nachbarn
+
+| gute Nachbarn | schlechte Nachbarn | 
+| ------------- |:------------------:| 
+| Basilikum     | Tomaten            |
+| Dill          | Kürbis             |
+|               | Zucchini           |
+
 
 <hr>
 
 ## __Gießen__
-- Mit lau- oder umgebungswarmen Wasser (am Besten Regenwasser) gießen 
-- Sie bestehen aus der sehr viel Wasser, weshalb sie selber auch viel benötigen
-- Lieber morgens statt abends gießen
+- Mit lau- oder umgebungswarmen Wasser gießen, am Besten Regenwasser (sonst werden Gurken bitter)
+- Sie sind Flachwurzler, weshalb sie sehr viel Wasser benötigen
+- Lieber morgens statt abends gießen (von unten gießen, mögen kein Wasser auf den Blättern)
+
+### Gießring
+Eine Vertiefung von 0,5cm und eine Mauer von 1cm um die Pfanze anlegen
 
 <hr>
 
 ## __Pflege__
+TODO
+
+### Düngen
+TODO
 
 ### Krumme Gurke
 Mögliche Ursachen:
@@ -41,6 +63,14 @@ Mögliche Ursachen:
 <hr>
 
 ## __Ernte__
+Am Stiel in der Mitte abschneiden, nicht abreißen!
+
+### Merkmale
+Wenn Schale glatt, gleichmäßig gefärbt und das Ende stumpf ist. 
+Wird die Gurke mit einer Länge von 20-30cm geenrtet, regt das zu einem stärkere Wachstum und somit zu einer größeren Ernte an.
+
+### Tageszeit
 Die beste Tageszeit zum Ernten ist morgens, da die Gurken über den Tage an Wasser verlieren. Sie sind dann knackiger und länger haltbar.
 
 ### Tipp
+TODO
