@@ -55,6 +55,14 @@ TODO
 
 <hr>
 
+## Schädlinge
+
+### schwarze Blattläuse
+TODO BILD 
+TODO WAS HILFT
+
+<hr>
+
 ## __Ernte__
 TODO
 
