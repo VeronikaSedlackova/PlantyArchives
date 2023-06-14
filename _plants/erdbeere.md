@@ -1,15 +1,64 @@
 ---
 layout: page
-title: Erdbeere TODO
+title: Erdbeere
 permalink: /erdbeere
 ---
 
-# Erde
+## __Sorte__
+TODO
 
-# Standort
+<hr>
+
+## __Vorkultur__
+TODO
+
+### Saattiefe
+TODO
+<hr>
+
+## __Einpflanzen__
+
+### Zeitpunkt
+TODO
+
+### Abstand
+TODO
+
+### Erde
+TODO
+
+### Zehrer 
+TODO
+
+### Standort
 Je mehr Sonnenlicht Erdbeeren bekommen, desto süßer werden sie.
 
-# Gießen
-viel
+### Nachbarn
+TODO
 
-# Düngen
+
+<hr>
+
+## __Gießen__
+TODO
+
+### Gießring
+TODO
+<hr>
+
+## __Pflege__
+
+### Düngen
+TODO
+
+<hr>
+
+## __Ernte__
+TODO
+
+### Merkmale
+TODO
+
+### Tageszeit
+TODO
+

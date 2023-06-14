@@ -1,7 +1,65 @@
 ---
 layout: page
-title: Paprika TODO
+title: Paprika
 permalink: /paprika
 ---
 
-Hier kommen infos zu meinen Paprika.
+
+
+## __Sorte__
+TODO
+
+<hr>
+
+## __Vorkultur__
+TODO
+
+### Saattiefe
+TODO
+<hr>
+
+## __Einpflanzen__
+
+### Zeitpunkt
+TODO
+
+### Abstand
+TODO
+
+### Erde
+TODO
+
+### Zehrer 
+TODO
+
+### Standort
+TODO
+
+### Nachbarn
+TODO
+
+
+<hr>
+
+## __Gießen__
+TODO
+
+### Gießring
+TODO
+<hr>
+
+## __Pflege__
+
+### Düngen
+TODO
+
+<hr>
+
+## __Ernte__
+TODO
+
+### Merkmale
+TODO
+
+### Tageszeit
+TODO
