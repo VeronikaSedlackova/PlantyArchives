@@ -35,7 +35,7 @@ Ende März/Anfang April kann die Jungpflanze ins Freiland gepflanzt werden.
 
 Mitte März kann die Jungpflanze schon unterm Flies in Freiland.
 
-### Nährstoffe 
+### Zehrer 
 Schwachzehrer, weswegen er eine gute Kombi mit Starkzehrern im Beet ist
 
 ### Standort

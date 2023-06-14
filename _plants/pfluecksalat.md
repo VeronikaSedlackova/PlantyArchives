@@ -21,7 +21,7 @@ März/April
 ### Keimdauer
 Bis aus dem Samen die erste kleine Pflanze wird dauert es i.d.R 6-12 Tage. Während dieser Zeit muss reichlich gegossen werden. Die Saat darf nicht austrocknen
 
-### Nährstoffe 
+### Zehrer 
 Schwachzehrer
 
 ### Standort

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gurke TODO
+title: Gurke
 permalink: /gurke
 ---
 
@@ -18,14 +18,29 @@ Ab Ende April können sie draußen abgehärtet werden (bei <6° reinholen)
 - Samen hochkant in kleine Anzuchttöpfe  
 - 1,5cm mit Erde bedecken 
 
-### Nährstoffe 
-TODO
+<hr>
 
-### Standort
-TODO
+## __Einpflanzen__
+1. Pflanze ohne Topf in Wasser bis keine Luftblasen mehr aufsteigen
+2. Boden auflockern & glatt harken
+3. Loch größer als Wurzelballen graben
+4. Oberkante Wurzelballen mit Erdoberkante auf gleicher Höhe
+
+### Zeitpunkt
+Nach Eisheiligen
 
 ### Abstand
+50cm
+
+### Erde
 TODO
+
+### Zehrer 
+Starkzehrer
+
+### Standort
+windgeschützt und sonnig
+
 
 ### Nachbarn
 
@@ -49,10 +64,12 @@ Eine Vertiefung von 0,5cm und eine Mauer von 1cm um die Pfanze anlegen
 <hr>
 
 ## __Pflege__
-TODO
 
 ### Düngen
 TODO
+
+### Rankhilfe
+Je nach Sorte können Gurken z.B. vom Hochbeet runter wachsen oder benötigten eine Rankhilfe zum nach oben wachsen
 
 ### Krumme Gurke
 Mögliche Ursachen:
@@ -72,5 +89,3 @@ Wird die Gurke mit einer Länge von 20-30cm geenrtet, regt das zu einem stärker
 ### Tageszeit
 Die beste Tageszeit zum Ernten ist morgens, da die Gurken über den Tage an Wasser verlieren. Sie sind dann knackiger und länger haltbar.
 
-### Tipp
-TODO
