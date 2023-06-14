@@ -16,7 +16,7 @@ Tomaten sollten eine Höhe von ca 30cm erreicht haben, um ins Beet eingepflanzt 
 <hr>
 
 ## __Einpflanzen__
-TODO
+Die untersten Blätter einer Tomate abmachen. So kommt kein Gießwasser auf die Pflanze und es verringert die Gefahr von ?
 
 ### Zeitpunkt
 - Nach Eisheiligen ins Freiland
