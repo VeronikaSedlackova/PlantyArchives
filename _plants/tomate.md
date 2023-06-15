@@ -80,7 +80,11 @@ Herrscht Windstille oder sind wenige Bestäuber unterwegs kann es passieren, das
 
 
 ### Ausgeizen
-TODO
+Triebe die zwischen dem Haupt- und Seitentrieb herauswachsen sollen entfernen werden, um der Pflanze mehr Kraft zu geben. Dadurch bilden sich mehr und größere Tomaten.
+
+![Tomaten Geiztrieb]({{ '/experience/images/tomate/15-06-2023_geiztrieb_tomate.jpeg' | relative_url }}){: width="400" }
+
+
 
 ### Düngen
 TODO
