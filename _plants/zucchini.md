@@ -72,7 +72,22 @@ TODO
 
 ## Schädlinge
 
-### schwarze Blattläuse
+### schwarze Blattläuse/Blattläuse mit Flügeln
+Blattläuse verstehen:
+
+Blattläuse sondern einen Zuckersaft ab und sagen an der Pflanze. Kommen jetzt noch Ameisen ins Spiel, die diesen Zuckersaft lieben wird es ganz bunt. Die Ameisen verteilen um die Blattläuse einen Stoff der sie benommen macht. Teilweise beißen sie sogar deren Flügel ab, damit sie nicht mehr wegfliegen können. Ameisen töten wiederum aber auch Marienkäferlarven, was sie Abtötund der Blattläuse schwieriger macht.
+
+Was tun?:
+1. Lebensraum für Tiere schaffen die Blattläuse essen wie z.B. Marienkäfer
+2. Mischkulturen! Beetränder z.B. mit Kräutern bepflanzen. Gegen Blattläuse helfen: Thymian, Oregano, Lavendel und Bohnenkraut
+3. Kapuzinerkresse pflanzen. Nummer 1 für Blattläuse. Sie stürzen sich drauf und lassen dafür andere Pflanzen in Ruhe
+4. Junge Brenneseljauche: Pro Liter Wasser/100g Brenneseln über Nacht in Wasser ziehen und dann absieben und unverdient auf Pflanzen sprühen (Junge Jauche da sie sonst zu stark für dir Pflanzen ist).
+
+Das alle paar Tage wiederholen. Nach einer Woche sollte man weniger bis keine Blattläuse mehr sehen. Ein paar Blattläuse sind auch in Ordnung und tragen der natürlichen Kultur im Garten bei, sind es jedoch viel zu viele sollte man was gegen sie unternehmen.
+
+Tipp: Urgesteinsmehl in die Jauche mit rein, damit es nicht so stinkt
+
+
 TODO BILD 
 TODO WAS HILFT
 
