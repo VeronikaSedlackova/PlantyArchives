@@ -15,7 +15,7 @@ Tomaten sollten eine Höhe von ca 30cm erreicht haben, um ins Beet eingepflanzt 
 
 <hr>
 
-## __Einpflanzen__
+## __Auspflanzen__
 Die unteren Blätter der Jungpflanze entfernen und ein Loch graben das genauso tief ist wie der erste Pflanzenstiel. Die Tomate wird etwas tiefer als nur bis zum Wurzelballen gepflanzt, damit sie mehr Wurzeln bilden kann und somit stabiler ist. Anschließend kommen etwa 2 Hände voller Kompost ins Erdloch. 
 
 Nach einer Neubepflanzung soll die Pflanze dazu angeregt werden, tiefere Wurzeln zu bilden. Damit das gelingt, wird das Erdloch für 7-10 Sekunden durchgehend gegossen. Anschließend wird die Pflanze eingesetzt und die Ränder etwas mit Kompost befüllt. Die restliche Pflanzenerde wird um die Tomate gedrückt. Die Tomate wird nun fest angedrückt, um später stabil zu stehen und dann wird ca 3 Sekunden nochmal gegossen. Nun wird für 7-10 Tage __nicht__ gegossen. Das soll die Pflanze anregen tiefere Wurzeln zu bilden.
@@ -104,6 +104,9 @@ TODO
 TODO
 
 ### Tageszeit
+TODO
+
+### Lagern
 TODO
 
 

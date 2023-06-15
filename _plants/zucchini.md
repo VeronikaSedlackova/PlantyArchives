@@ -4,51 +4,66 @@ title: Zucchini
 permalink: /zucchini
 ---
 
-
-
 ## __Sorte__
-TODO
+- Black Jack (noch nicht ausprobiert)
+- Diamant (noch nicht ausprobiert)
+- Golden Delight (noch nicht ausprobiert)
 
 <hr>
 
 ## __Vorkultur__
-TODO
+Start: Mittel April - Mitte Mai (30 Tage vor dem Eisheiligen)
 
 ### Saattiefe
-TODO
+Samen hochkant (nicht flach!) einzeln in Anzuchttöpfe 2cm tief aussäen.
 <hr>
 
-## __Einpflanzen__
+## __Auspflanzen__
+1. Pflanze ohne Topf in Wasser bis keine Luftblasen mehr aufsteigen
+2. Boden auflockern & glatt harken
+3. Loch größer als Wurzelballen graben
+4. Oberkante Wurzelballen mit Erdoberkante auf gleicher Höhe
 
 ### Zeitpunkt
-TODO
+Nach Eisheiligen
 
 ### Abstand
-TODO
+mindestens 1 Meter zwischen einzelnen Pflanzen
 
 ### Erde
 TODO
 
 ### Zehrer 
-TODO
+Starkzehrer
 
 ### Standort
-TODO
+sonnig
 
 ### Nachbarn
-TODO
+
+| gute Nachbarn | schlechte Nachbarn | 
+| ------------- |:------------------:| 
+| Mais          | Tomate             |
+| Bohnen        | Gurke              |
+| Zwiebeln      | Kartoffeln         |
+| Mangold       |                    | 
+| Erbsen        |                    | 
 
 
 <hr>
 
 ## __Gießen__
-TODO
+- brauchen viel Wasser da sonst bitter
+- je nach Wetter täglich/2-3 mal wöchentlich gießen
+- nicht Blüten/Blätter gießen!
 
 ### Gießring
-TODO
+Eine Vertiefung von 0,5cm und eine Mauer von 1cm um die Pfanze anlegen
+
 <hr>
 
 ## __Pflege__
+Blüten sollten nicht auf dem Boden liegen. Es besteht eine Fäulnisgefahr (Boden mit Holzwolle oder Stroh bedecken)
 
 ### Düngen
 TODO
@@ -64,10 +79,16 @@ TODO WAS HILFT
 <hr>
 
 ## __Ernte__
-TODO
+Nach 6-8 Wochen nach dem Auspflanzen kann geerntet werden. Zucchini rausdrehen oder mit einem scharfen Messer 1-2 cm nach der Spitze abschneiden.
 
 ### Merkmale
-TODO
+- Bei einer Länge von 15-18cm ernten. So sind zu zarter und knackiger und setzen mehr neue Früchte an
+- Blüte muss verblüht sein
 
 ### Tageszeit
-TODO
+Die beste Tageszeit zum Ernten ist morgens, da die Zucchinis über den Tage an Wasser verlieren. Sie sind dann knackiger und länger haltbar.
+
+### Lagern
+Am besten an einen kühlen, luftigen und dunklen Ort wie z.B. Speisekammer, Keller für 1-2 Wochen lagern (zwischen 10-15°).
+
+Nicht neben Tomaten und Äpfen lagern, da sie sonst schneller runzlig werden

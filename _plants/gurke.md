@@ -20,7 +20,7 @@ Ab Ende April können sie draußen abgehärtet werden (bei <6° reinholen)
 
 <hr>
 
-## __Einpflanzen__
+## __Auspflanzen__
 1. Pflanze ohne Topf in Wasser bis keine Luftblasen mehr aufsteigen
 2. Boden auflockern & glatt harken
 3. Loch größer als Wurzelballen graben
@@ -89,3 +89,5 @@ Wird die Gurke mit einer Länge von 20-30cm geenrtet, regt das zu einem stärker
 ### Tageszeit
 Die beste Tageszeit zum Ernten ist morgens, da die Gurken über den Tage an Wasser verlieren. Sie sind dann knackiger und länger haltbar.
 
+### Lagern
+TODO

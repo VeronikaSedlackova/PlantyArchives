@@ -26,7 +26,7 @@ Es sind auf 2 Dinge zu achten:
 
 <hr>
 
-## __Einpflanzen__
+## __Auspflanzen__
 
 ### Zeitpunkt
 Frühkartoffeln können ab Mitte März gepflanzt werden. Mittelfrühe und späte Sorten folgen von Mitte April bis Mitte Mai. 
@@ -58,3 +58,9 @@ Wenn das Laub anfängt zu welken und braun wird. Es soll bei trocknen Wetter gee
 
 **Achtung:** Wenn die Kartoffelhaut der Sonne ausgesetzt wird (z.B. schlecht eingegraben), kann sie später Giftstoffe (Solanin) enthalten. 
 
+
+### Tageszeit
+TODO
+
+### Lagern
+TODO

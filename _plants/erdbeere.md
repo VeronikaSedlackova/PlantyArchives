@@ -16,7 +16,7 @@ TODO
 TODO
 <hr>
 
-## __Einpflanzen__
+## __Auspflanzen__
 
 ### Zeitpunkt
 TODO
@@ -70,3 +70,5 @@ TODO
 ### Tageszeit
 TODO
 
+### Lagern
+TODO
