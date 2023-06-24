@@ -3,6 +3,7 @@ layout: page
 title: Tomate TODO
 permalink: /tomate/2023
 year: 2023
+plant: Tomate
 ---
 
 Das sind meine Erfahrungen zu Tomaten, die ich in 2023 gesammelt habe.

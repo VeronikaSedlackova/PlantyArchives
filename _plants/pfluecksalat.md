@@ -2,6 +2,7 @@
 layout: page
 title: Pfücksalat
 permalink: /pfluecksalat
+plant: Pfluecksalat
 ---
 
 ## __Sorten__

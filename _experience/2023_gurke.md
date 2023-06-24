@@ -3,6 +3,7 @@ layout: page
 title: Gurke TODO
 permalink: /gurke/2023
 year: 2023
+plant: Gurke
 ---
 
 Das sind meine Erfahrungen zu Gurken, die ich in 2023 gesammelt habe.

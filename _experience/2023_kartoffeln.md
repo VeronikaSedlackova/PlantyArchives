@@ -3,6 +3,7 @@ layout: page
 title: Kartoffeln TODO
 permalink: /kartoffeln/2023
 year: 2023
+plant: Kartoffel
 ---
 
 Das sind meine Erfahrungen zu Kartoffeln, die ich in 2023 gesammelt habe.

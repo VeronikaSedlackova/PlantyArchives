@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paprika
+plant: Paprika
 permalink: /paprika
 ---
 

@@ -3,6 +3,7 @@ layout: page
 title: Pflücksalat
 permalink: /pluecksalat/2023
 year: 2023
+plant: Pfluecksalat
 ---
 
 Das sind meine Erfahrungen zum Pflücksalat, die ich 2023 gesammelt habe.

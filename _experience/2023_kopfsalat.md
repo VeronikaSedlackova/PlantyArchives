@@ -3,6 +3,7 @@ layout: page
 title: Kopfsalat TODO Vorkultur
 permalink: /kopfsalat/2023
 year: 2023
+plant: Kopfsalat
 ---
 
 Das sind meine Erfahrungen zum Kopfsalat, die ich 2023 gesammelt habe.

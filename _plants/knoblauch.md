@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Knoblauch
+plant: Knoblauch
 permalink: /knoblauch
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Kartoffel
+plant: Kartoffel
 permalink: /kartoffel
+image: /experience/images/kartoffeln/Merida_Sorte.jpeg
 ---
 
 ## __Kauf von Kartoffeln__

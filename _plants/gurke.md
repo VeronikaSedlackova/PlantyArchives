@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Gurke
+plant: Gurke
 permalink: /gurke
+image: /experience/images/gurke/02-06-2023_erste_fruechte.jpeg
 ---
 
 

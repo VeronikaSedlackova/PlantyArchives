@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tomate
+plant: Tomate
 permalink: /tomate
 ---
 

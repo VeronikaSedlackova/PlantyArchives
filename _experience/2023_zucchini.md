@@ -3,6 +3,7 @@ layout: page
 title: Zucchini TODO
 permalink: /zucchini/2023
 year: 2023
+plant: Zucchini
 ---
 
 Das sind meine Erfahrungen zu Zucchinis, die ich in 2023 gesammelt habe.

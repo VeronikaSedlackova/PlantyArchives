@@ -5,22 +5,52 @@
 layout: page
 ---
 
-<h1><b>Zusammenfassung</b></h1>
-<ul>
-    {% for plant in site.plants %}
-        <li>
-            <h4><a href="{{ plant.url | relative_url }}">{{ plant.title }}</a></h4>
-        </li>
-    {% endfor %}
-</ul>
+<style>
+    .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+    ul.grid {
+        margin: 0;
+        list-style: none;
+    }
+    .list {
+        display: flex;
+        gap: 1rem;
+    }
+    ul.list {
+        margin: 0;
+        list-style: none;
+    }
+    .entry {
+        display: grid;
+        place-items: center;
+    }
+    .image-tile {
+        object-fit: cover;
+        border-radius: 1rem;
+        overflow: hidden;
+        height: 10rem;
+        width: 100%;
+    }
+</style>
 
-<br>
-<h1><b>Erfahrungsberichte</b></h1>
-<ul>
-    {% for protocol in site.experience %}
-        <li>
-            <h4>{{ protocol.title }}</h4>
-            <p><a href="{{ protocol.url | relative_url }}">{{ protocol.year }}</a></p>
+<h1><b>Zusammenfassung</b></h1>
+<ul class="grid">
+    {% for plant in site.plants %}
+        <li class="entry">
+            <img class="image-tile" src="{{ plant.image | relative_url }}" alt="{{ plant.title }}">
+            <h4><a href="{{ plant.url | relative_url }}">{{ plant.title }}</a></h4>
+            <ul class="list">
+                {% for experience in site.experience %}
+                {% if experience.plant contains plant.plant %}
+                    <li>
+                        <h4><a href="{{ experience.url | relative_url }}">{{ experience.year }}</a></h4>
+                    </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
         </li>
     {% endfor %}
 </ul>

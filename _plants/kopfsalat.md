@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Kopfsalat
+plant: Kopfsalat
 permalink: /kopfsalat
+image: /experience/images/kopfsalat/Kopfsalat_Sorte.jpeg
 ---
 
 ## __Sorten__

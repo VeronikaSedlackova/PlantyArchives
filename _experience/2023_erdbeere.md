@@ -3,6 +3,7 @@ layout: page
 title: Erdbeere TODO
 permalink: /erdbeere/2023
 year: 2023
+plant: Erdbeere
 ---
 
 Das sind meine Erfahrungen zu Erdbeeren, die ich in 2023 gesammelt habe.

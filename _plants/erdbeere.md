@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Erdbeere
+plant: Erdbeere
 permalink: /erdbeere
+image: /experience/images/erdbeere/02-06-2023_erste_fruechte.jpeg
 ---
 
 ## __Sorte__

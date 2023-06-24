@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Karotte
+plant: Karotte
 permalink: /karotte
+image: 
 ---
 
 

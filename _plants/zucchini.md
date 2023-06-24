@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Zucchini
+plant: Zucchini
 permalink: /zucchini
 ---
 

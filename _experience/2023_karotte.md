@@ -3,6 +3,7 @@ layout: page
 title: Karotte
 permalink: /karotte/2023
 year: 2023
+plant: Karotte
 ---
 
 Das sind meine Erfahrungen zu Karotten, die ich in 2023 gesammelt habe.
