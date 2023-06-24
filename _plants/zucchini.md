@@ -72,18 +72,9 @@ z.B. mit Brennesseljauche oder Kaffeesatz
 TODO mit Bildern der weiblichen und männlichen Blüte
 
 
-### Faulende Zucchinis
-Werden die Früchte schrumpelig und wechseln ihre farbe von grün zu gelb/braun kann es daran liegen, dass sie nicht genug bestäubt wurden. 
-
-_Tipp: Manuelle Bestäubung_
-
-![Faulende Früchte]({{ '/experience/images/zucchini/24-06-2023_faulende_fruechte.jpeg' | relative_url }}){: width="600" }
-
-
-
 <hr>
 
-## __Schädlinge__
+## __Krankheiten__
 
 ### schwarze Blattläuse/Blattläuse mit Flügeln
 Blattläuse verstehen:
@@ -103,6 +94,14 @@ Tipp: Urgesteinsmehl in die Jauche mit rein, damit es nicht so stinkt
 
 TODO BILD 
 TODO WAS HILFT
+
+### Faulende Zucchinis
+Werden die Früchte schrumpelig und wechseln ihre farbe von grün zu gelb/braun kann es daran liegen, dass sie nicht genug bestäubt wurden. 
+
+_Tipp: Manuelle Bestäubung_
+
+![Faulende Früchte]({{ '/experience/images/zucchini/19-06-2023_faulende_fruechte.jpeg' | relative_url }}){: width="600" }
+
 
 <hr>
 

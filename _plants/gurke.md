@@ -71,6 +71,8 @@ TODO
 ### Rankhilfe
 Je nach Sorte können Gurken z.B. vom Hochbeet runter wachsen oder benötigten eine Rankhilfe zum nach oben wachsen
 
+Der Nachteil wenn sie am Hochbeet runterwachsen, ist das die Gurken auf der Seite wo sie am Hochbeet liegen weniger grün werden. Demzufolge hat die Gurke keine gleichmäßig dunkel-grün Farbe.
+
 ### Krumme Gurke
 Mögliche Ursachen:
 - zu wenig Wasser (Sobald sich Früchte entwickeln sollte die Gurke reichlich mit Wasser versorgt werden)
