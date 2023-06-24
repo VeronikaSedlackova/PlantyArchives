@@ -39,9 +39,10 @@ Der Karton (Torfredzierte Erde + gekaufter Kompost (Kein Hornmehl)) zeigt das er
 ![Erste Früchte]({{ '/experience/images/kartoffeln/19-05-2023_kein_Hornmehl.jpeg' | relative_url }}){: width="400" }
 
 #### <b>03. Juni</b>
-Der Karton (Torfredzierte Erde + gekaufter Kompost (Kein Hornmehl)) hat ca 25cm hohes Kartoffelgrün. Es muss dringend angehäuft werden. Eventuell hat das Kartoffelgrün bereits zu viel Sonne bekommen. Gefahr von Giftstoffen in Kartoffeln
+Der Karton (Torfredzierte Erde + gekaufter Kompost (Kein Hornmehl)) hat ca 25cm hohes Kartoffelgrün. Es muss dringend angehäuft werden. Ich habe etwa 20cm einen Mix auf Komost und Pflanzenerde hinzugefügt.
 
 ![Erste Früchte]({{ '/experience/images/kartoffeln/03-06-2023_kein_Hornmehl.jpeg' | relative_url }}){: width="400" }
 
-
+#### <b>17. Juni</b>
+Das 2. und letzte mal Kartoffeln bis zum Kartonrand mit Pflanzenerde angehäuft.
 

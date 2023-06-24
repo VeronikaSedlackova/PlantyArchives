@@ -66,11 +66,24 @@ Eine Vertiefung von 0,5cm und eine Mauer von 1cm um die Pfanze anlegen
 Blüten sollten nicht auf dem Boden liegen. Es besteht eine Fäulnisgefahr (Boden mit Holzwolle oder Stroh bedecken)
 
 ### Düngen
-TODO
+z.B. mit Brennesseljauche oder Kaffeesatz
+
+### Manuelle Bestäubung
+TODO mit Bildern der weiblichen und männlichen Blüte
+
+
+### Faulende Zucchinis
+Werden die Früchte schrumpelig und wechseln ihre farbe von grün zu gelb/braun kann es daran liegen, dass sie nicht genug bestäubt wurden. 
+
+_Tipp: Manuelle Bestäubung_
+
+![Faulende Früchte]({{ '/experience/images/zucchini/24-06-2023_faulende_fruechte.jpeg' | relative_url }}){: width="600" }
+
+
 
 <hr>
 
-## Schädlinge
+## __Schädlinge__
 
 ### schwarze Blattläuse/Blattläuse mit Flügeln
 Blattläuse verstehen:

@@ -66,6 +66,9 @@ TODO
 
 ## __Pflege__
 
+### Blätter-Dichte
+Es sollte eine Balance entstehen. Zu viele Blätter sind schlecht für die Durchlüftung der Pflanze, zu wenige sind aber auch nicht gut. 
+
 ### Selbstbestäubung - Trillern
  
 Die Tomate hat anders zu anderen Gemüsesorten männliche und weibliche Geschlechtsteile. Damit sich sich allerdings selber bestäuben kann, muss die Blüte bewegt werden (z.B. durch Vibration).
@@ -93,6 +96,15 @@ TODO
 
 ### Rankhilfe
 TODO
+
+<hr>
+
+## Schädlinge
+
+### Gekräuselte Blätter
+Das kann mehrer Ursachen haben von Befall (z.B. Milben) bis falsche Düngung.
+
+Wurde die Pflanze erst kürzlich eingepflanzt und dabei frisch gedüngt, kann es an einer Überdüngerung liegen. Das kann einerseitz daran liegen, dass einfach zu viel gedüngt wurde. An anderer möglicher Grund ist, dass mit der richigen Menge gedüngt wurde, aber zu viele Blätter abgeschnitten wurden/ausgegeizt. Denn die Pflanze zieht sich den Wirkstoff gleichmäßig in die Blätter. Gibt es jetzt zu wenige Blätter, ziehen sie sich automatisch mehr Dünger und haben so einen Überschuss.
 
 
 <hr>
