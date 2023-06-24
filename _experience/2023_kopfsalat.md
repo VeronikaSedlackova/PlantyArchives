@@ -37,5 +37,3 @@ Vor ungefähr einer Woche habe ich die Kopfsalat Samen direkt in das Hochbeet ge
 Das Wachstum ist im Vergleich zum Pflücksalat was die Direktsaat angeht eher schlecht.
 
 ![Erste Früchte]({{ '/experience/images/kopfsalat/03-06-2023.jpeg' | relative_url }}){: width="600" }
-
-

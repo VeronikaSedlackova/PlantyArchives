@@ -33,3 +33,6 @@ Ich habe 6 Pflücksalate ist in einem kleinen Hochbeet (75x35x30) gepflanzt. Die
 #### <b>03. Juni</b>
 ![Erste Früchte]({{ '/experience/images/pfluecksalat/03-06-2023.jpeg' | relative_url }}){: width="600" }
 
+#### <b>19. Juni</b>
+Ich habe zum ersten mal Pflücksalat geerntet. Unter den Blätter waren viele Tiere weil nicht genügend Luft zirkuliert ist. Den Salat habe ich aber trotzdem verwenden in demm ich jedes Blatt ordentlich abgewaschen hab.
+![Erste Ernte]({{ '/experience/images/pfluecksalat/19-06-2023_erste_ernte.jpeg' | relative_url }}){: width="600" }

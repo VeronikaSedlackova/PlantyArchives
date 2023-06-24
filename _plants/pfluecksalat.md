@@ -45,6 +45,9 @@ Halbschattig bis sonnig
 
 <hr>
 
+## __Pflege__
+Darauf achten das genug Luft durch alle Salatblätter zirkulieren kann. Sonst ist die angestaute Wärme ein Paradies für jegliche Tiere. Deshalb regelmäßig ernten und ab und zu die Blätter durchschütteln.
+
 ## __Ernte__
 Nach ca 10 Wochen
 
