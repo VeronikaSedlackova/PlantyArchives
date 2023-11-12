@@ -7,9 +7,13 @@ image: /experience/images/erdbeere/02-06-2023_erste_fruechte.jpeg
 ---
 
 ## __Sorte__
-TODO
 
-<hr>
+| Korona    | Senga Sengana | Toscana |
+| --------  | -----------   | -----   |
+| ![]({{ '/experience/images/erdbeere/Sorte_Korona.jpeg' | relative_url }}){: width="200" } | ![]({{ '/experience/images/erdbeere/Sorte_Senga_Sengana.jpeg' | relative_url }}){: width="200" } | ![]({{ '/experience/images/erdbeere/Sorte_Toscana.jpeg' | relative_url }}){: width="200" } |
+| Obi | Dehner | Dehner |
+| - | Gattung: Fragaria x Ananassa | Gattung: Fragaria x Ananassa |
+
 
 ## __Vorkultur__
 TODO
@@ -50,6 +54,9 @@ TODO
 
 ## __Pflege__
 
+### Schnitt
+Gibt es einen hohen Rand im Hochbeet, müssen regelnmäßig die Blätter geschnitten werden damit die Luft gut zirkulieren kann. Andernfalls schafft das optimale warm/feuchte Bedingungen für Blattläuse.
+
 ### Düngen
 TODO
 
@@ -58,8 +65,12 @@ TODO
 ## __Schädlinge__
 
 ### Schwarze Blattläuse
-TODO BILD 
-TODO WAS HILFT
+- Brennesselsud (auf Ober- und Unterseite der Blätter besprühen)
+
+### weißes Etwas - Name unbekannt
+![]({{ '/experience/images/erdbeere/21-08-2023_weißes_etwas.jpeg' | relative_url }}){: width="300" }
+
+Ende August ist mir das aufgefallen. Soweit ich gesehen habe, hat es die Pflanzen nicht beschädigt. Aber genau kann ich das auch nicht sagen. Evtl ein Pilz?
 
 <hr>
 
