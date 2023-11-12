@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Erdbeere TODO
+title: Erdbeere
 permalink: /erdbeere/2023
 year: 2023
 plant: Erdbeere
@@ -57,3 +57,9 @@ Rückschnitt zur Überwinterung. Es müssen alle Blätter, vor allem die die den
 Am Herz und an ein paar Blätter habe ich immer noch schwarze Blattläuse finden können. Diese habe ich mit einem Pinsel abgemacht. 
 Die Ableger kamen nach dem Abschneiden in eine Schüssel mit Wasser, um anschließend die Läuse mit einem Pinsel auch abpinseln zu können.
 ![]({{ '/experience/images/erdbeere/21-10-2023.jpeg' | relative_url }}){: width="600" }
+
+### Fazit
+
+Die Blattläuse haben mir etwas den Spaß an den Erdbeeren genommen. Eigentlich waren die durchgängig da und haben die Erdbeeren geschwächt. Auch öfteres Besprühen mit Knoblauchsud, schwarzen Tee oder Brennesselsud hat nicht geholfen. Wobei ich hier aber auch nicht sehr gewissenhaft bei der Sache war. Evlt hätte eine regelmäßigeres Besprühen geholfen. 
+
+Ich würde hier trd eher mal auch eine Mischkultur mit Knoblauch setzen.

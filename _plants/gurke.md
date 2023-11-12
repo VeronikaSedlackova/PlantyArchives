@@ -8,7 +8,14 @@ image: /experience/images/gurke/02-06-2023_erste_fruechte.jpeg
 
 
 ## __Sorte__
-TODO
+
+| Kiepenkerl Salatgurke    | Freilandgurke |
+| -----------------------  | ------------  |
+| ![]({{ '/experience/images/gurke/Sorte_Tanja.jpeg' | relative_url }}){: width="300" } | ![]({{ '/experience/images/gurke/Sorte_Freilandgurke.jpeg' | relative_url }}){: width="300" }
+| Gattung: Tanja | Gattung: Cucumus sativus |
+| Obi, Saatgut: 2,99€ | Dehner |
+| Saatmenge: ca. 40 Stück | gekaufte Pflanze |
+| Fazit: naja (zu große Kerne) | lecker
 
 <hr>
 
@@ -82,6 +89,17 @@ Mögliche Ursachen:
 - die Zugabe von zu viel Stickstoffdünger 
 
 <hr>
+
+## __Schädlinge__
+
+### Mehltau 
+TODO
+
+### Sonnenbrand
+TODO
+
+### Schnecken
+TODO
 
 ## __Ernte__
 Am Stiel in der Mitte abschneiden, nicht abreißen!
