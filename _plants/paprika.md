@@ -3,6 +3,7 @@ layout: page
 title: Paprika
 plant: Paprika
 permalink: /paprika
+image: /experience/images/paprika/14-10-2023_paprika.jpeg
 ---
 
 

@@ -3,6 +3,7 @@ layout: page
 title: Pfücksalat
 permalink: /pfluecksalat
 plant: Pfluecksalat
+image: experience/images/pfluecksalat/03-06-2023.jpeg
 ---
 
 ## __Sorten__

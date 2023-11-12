@@ -3,6 +3,7 @@ layout: page
 title: Tomate
 plant: Tomate
 permalink: /tomate
+image: experience/images/tomate/21-07-2023_wachstum.jpeg
 ---
 
 ## __Sorte__

@@ -3,6 +3,7 @@ layout: page
 title: Zucchini
 plant: Zucchini
 permalink: /zucchini
+image: experience/images/zucchini/08-06-2023.jpeg
 ---
 
 ## __Sorte__

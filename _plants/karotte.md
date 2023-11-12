@@ -3,7 +3,7 @@ layout: page
 title: Karotte
 plant: Karotte
 permalink: /karotte
-image: 
+image: experience/images/karotte/18-10-2023_OneAndOnly_karottenernte.jpeg
 ---
 
 

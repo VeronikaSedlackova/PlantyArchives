@@ -3,6 +3,7 @@ layout: page
 title: Knoblauch
 plant: Knoblauch
 permalink: /knoblauch
+image: /experience/images/knoblauch/22-10-2023_deutscher_gekaufter_knoblauch.jpeg
 ---
 
 
