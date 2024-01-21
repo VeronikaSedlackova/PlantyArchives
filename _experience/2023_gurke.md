@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gurke TODO
+title: Gurke
 permalink: /gurke/2023
 year: 2023
 plant: Gurke

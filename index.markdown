@@ -64,3 +64,13 @@ layout: page
         </li>
     {% endfor %}
 </ul>
+
+<br>
+<h1><b>Utensilien</b></h1>
+<ul>
+    {% for utensils in site.equipment %}
+        <li>
+            <h4><a href="{{ utensils.url | relative_url }}">{{ utensils.title }}</a></h4>
+        </li>
+    {% endfor %}
+</ul>
