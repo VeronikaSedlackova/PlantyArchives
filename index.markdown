@@ -74,3 +74,13 @@ layout: page
         </li>
     {% endfor %}
 </ul>
+
+<br>
+<h1><b>Roadmap</b></h1>
+<ul>
+    {% for map in site.roadmap %}
+        <li>
+            <h4><a href="{{ map.url | relative_url }}">{{ map.title }}</a></h4>
+        </li>
+    {% endfor %}
+</ul>
