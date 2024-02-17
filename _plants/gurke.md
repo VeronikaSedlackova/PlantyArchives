@@ -113,3 +113,19 @@ Die beste Tageszeit zum Ernten ist morgens, da die Gurken über den Tage an Wass
 
 ### Lagern
 TODO
+
+<br>
+<hr>
+<hr>
+
+### Verzeichnis
+
+<ul class="list">
+    {% for experience in site.experience %}
+        {% if experience.plant contains page.plant %}
+            <li>
+                <a href="{{ experience.url | relative_url }}">{{ experience.year }}</a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>

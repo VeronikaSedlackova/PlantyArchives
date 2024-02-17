@@ -42,15 +42,6 @@ layout: page
         <li class="entry">
             <img class="image-tile" src="{{ plant.image | relative_url }}" alt="{{ plant.title }}">
             <h4><a href="{{ plant.url | relative_url }}">{{ plant.title }}</a></h4>
-            <ul class="list">
-                {% for experience in site.experience %}
-                {% if experience.plant contains plant.plant %}
-                    <li>
-                        <h4><a href="{{ experience.url | relative_url }}">{{ experience.year }}</a></h4>
-                    </li>
-                {% endif %}
-                {% endfor %}
-            </ul>
         </li>
     {% endfor %}
 </ul>
@@ -76,7 +67,7 @@ layout: page
 </ul>
 
 <br>
-<h1><b>Roadmap</b></h1>
+<h1><b>Vorbereitung</b></h1>
 <ul>
     {% for map in site.roadmap %}
         <li>
