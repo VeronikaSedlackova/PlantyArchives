@@ -1,31 +1,26 @@
 ---
 layout: page
-title: 2024
-permalink: /roadmap/2024
+title: 2023
+permalink: /roadmap/2023
 ---
 
 ## Must plant
 
 #### <u>Gemüse<u>
 
-- Blumenkohl
-- Brokkoli
-- Erbsen?
-- Gurke 1-2?
-- Ingwer
+- Gurke (4 Stück)
 - Karotten
 - Kartoffeln
 - Knoblauch Sommer
-- Paprika
-- Spinat?
-- Tomate
-- Zitronengrass
-- Zucchini 1-2?
-- Zwiebeln
+- Kopf/Pflücksalat
+- Paprika (2 Stück)
+- Tomate (2 Stück)
+- Zucchini (2 Stück)
 
 #### <u>Obst<u>
 
+- Erdeeren (9 Stück)
+
 #### <u>Kräuter<u>
 
-- Basilikum
-- Minze
+- Basilikum (6 Stück)
