@@ -55,3 +55,10 @@ Nach ca 10 Wochen
 
 ### Tipp
 Herz beim Ernten stehen lassen, damit neue Blätter nachwachsen
+
+<hr>
+<br>
+
+## __Erfahrungsbericht__
+
+- [2023]({% link _experience/2023_pfluecksalat.md %})

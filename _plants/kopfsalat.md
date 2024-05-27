@@ -65,3 +65,11 @@ Halbschattig bis sonnig
 
 ## __Ernte__
 Nach 5-7 Wochen (ab Jungpflanze)
+
+
+<hr>
+<br>
+
+## __Erfahrungsbericht__
+
+- [2023]({% link _experience/2023_kopfsalat.md %})

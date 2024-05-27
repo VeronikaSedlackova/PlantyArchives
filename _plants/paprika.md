@@ -68,3 +68,10 @@ TODO
 
 ### Lagern
 TODO
+
+<hr>
+<br>
+
+## __Erfahrungsbericht__
+
+- [2023]({% link _experience/2023_paprika.md %})

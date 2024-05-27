@@ -121,3 +121,11 @@ Die beste Tageszeit zum Ernten ist morgens, da die Zucchinis über den Tage an W
 Am besten an einen kühlen, luftigen und dunklen Ort wie z.B. Speisekammer, Keller für 1-2 Wochen lagern (zwischen 10-15°).
 
 Nicht neben Tomaten und Äpfen lagern, da sie sonst schneller runzlig werden
+
+
+<hr>
+<br>
+
+## __Erfahrungsbericht__
+
+- [2023]({% link _experience/2023_zucchini.md %})
