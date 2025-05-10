@@ -73,3 +73,4 @@ TODO
 ## __Erfahrungsbericht__
 
 - [2023]({% link _experience/2023/kartoffeln.md %})
+- [2025]({% link _experience/2025/kartoffeln.md %})
