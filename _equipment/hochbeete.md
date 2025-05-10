@@ -22,6 +22,13 @@ Wir haben 3 kleine Hochbeete mit Haube von Lidl Anfang des Jahres 2023 gekauft. 
 
 Wir haben 2023 außerdem 2 große Hochbeete bei Obi gekauft. Nachdem aufbauen haben wir ein Maschendrahtzaun im Boden des Hochbeetes ausgelegt und mit einer Noppenfolie im Innenraum ausgekleidet. 
 
+Ein Hochbeet braucht: 
+
+1. Schicht: Je nach Gemüse z.B. Kartoffeln dann saure Erde dafür Nadelholz oder Heckenschnitt für nicht sauren Boden
+2. Schicht: getrockneter Rasenschnitt, Blätter 
+3. Schicht: Kompost (3 Säcke/40 Liter)
+4. Schicht: Gartenerde (Menge?)
+
 ![]({{ '/equipment/images/großes_Hochbeet.jpeg' | relative_url }}){: width="400" }
 
 

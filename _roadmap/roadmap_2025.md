@@ -46,3 +46,14 @@ permalink: /roadmap/2025
 - Beerenminze
 - Erdbeer-Minze
 - Zitronenverbene
+
+## Kompost
+
+- Plantiflor BIO Pflanz-Kompost von Hellweg (torffrei)
+- Menge: 30x40 Liter Säcke (1.200 Liter)
+- 8,99€ pro Stück (0,22€/Liter)
+
+![]({{ '/roadmap/images/kompost_plantiflor.jpeg' | relative_url }}){: width="800" }
+
+## Gartenerde
+aus dem Garten mit Kompost aufgemischt

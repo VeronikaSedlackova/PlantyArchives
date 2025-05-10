@@ -24,3 +24,25 @@ permalink: /roadmap/2023
 #### <u>Kräuter<u>
 
 - Basilikum (6 Stück)
+
+
+## Kompost
+
+## Erde
+
+## Wühlmausgitter
+- Marke: Bellissa 
+- Einzelpreis: 17,99€
+- aus feuerverzinkten Draht
+- Maschenweite 6,3mm
+- Drahtstärke 0,55mm
+- Größe: 2,1 x 1,1mm
+- Gewicht: 1,5kg
+- LxBxH: 2,1mx1mmx1,1m
+
+## Noppenfolie
+- Marke: Bellissa
+- Einzelpreis: 22,99€
+- LxH: 6,5mx80cm
+- aus PEHD ohne Weichmacher
+
