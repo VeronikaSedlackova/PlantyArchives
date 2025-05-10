@@ -36,7 +36,7 @@ Frühkartoffeln können ab Mitte März gepflanzt werden. Mittelfrühe und späte
 ### Erde
 TODO
 
-### Standord
+### Standort
 sonnig
 
 <hr>
@@ -72,4 +72,4 @@ TODO
 
 ## __Erfahrungsbericht__
 
-- [2023]({% link _experience/2023_kartoffeln.md %})
+- [2023]({% link _experience/2023/kartoffeln.md %})

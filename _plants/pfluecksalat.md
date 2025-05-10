@@ -61,4 +61,4 @@ Herz beim Ernten stehen lassen, damit neue Blätter nachwachsen
 
 ## __Erfahrungsbericht__
 
-- [2023]({% link _experience/2023_pfluecksalat.md %})
+- [2023]({% link _experience/2023/pfluecksalat.md %})

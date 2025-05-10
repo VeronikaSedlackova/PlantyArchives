@@ -91,6 +91,6 @@ TODO
 
 ## __Erfahrungsbericht__
 
-- [2023]({% link _experience/2023_erdbeere.md %})
+- [2023]({% link _experience/2023/erdbeere.md %})
 
 

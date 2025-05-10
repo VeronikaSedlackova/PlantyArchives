@@ -72,4 +72,4 @@ Nach 5-7 Wochen (ab Jungpflanze)
 
 ## __Erfahrungsbericht__
 
-- [2023]({% link _experience/2023_kopfsalat.md %})
+- [2023]({% link _experience/2023/kopfsalat.md %})

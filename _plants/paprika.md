@@ -74,4 +74,4 @@ TODO
 
 ## __Erfahrungsbericht__
 
-- [2023]({% link _experience/2023_paprika.md %})
+- [2023]({% link _experience/2023/paprika.md %})

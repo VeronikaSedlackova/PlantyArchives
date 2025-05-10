@@ -8,24 +8,12 @@ permalink: /roadmap/2024
 
 #### <u>Gemüse<u>
 
-- Blumenkohl
-- Brokkoli
-- Erbsen?
-- Gurke 1-2?
-- Ingwer
-- Karotten
-- Kartoffeln
-- Knoblauch Sommer
-- Paprika
-- Spinat?
-- Tomate
-- Zitronengrass
-- Zucchini 1-2?
-- Zwiebeln
+- Tomate (2 Stück)
+- Zucchini (1 Stūck)
 
 #### <u>Obst<u>
+- Erdbeeren (vom Vorjahr)
 
 #### <u>Kräuter<u>
 
-- Basilikum
-- Minze
+- keine

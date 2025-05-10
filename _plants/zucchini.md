@@ -128,4 +128,4 @@ Nicht neben Tomaten und Äpfen lagern, da sie sonst schneller runzlig werden
 
 ## __Erfahrungsbericht__
 
-- [2023]({% link _experience/2023_zucchini.md %})
+- [2023]({% link _experience/2023/zucchini.md %})
