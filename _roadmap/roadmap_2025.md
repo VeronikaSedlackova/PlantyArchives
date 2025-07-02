@@ -9,19 +9,16 @@ permalink: /roadmap/2025
 #### <u>Großes Hochbeet (von Obi, links)<u>
 
 - Gurke (2 Stück) -> an Bogen
-- Erbsen? -> an Bogen
-- Karotten? -> mitte
+- Erbsen -> an Bogen
+- Karotten -> mitte
 - Salat -> hinten
 - Ringelblumen -> Ungezieferschutz
 
 #### <u>Großes Hochbeet (von Obi, rechts)<u>
 
-- Aubergine?
-- Paprika (1 Stück)
+- Paprika (2 Stück)
+- Zucchini (1)
 - Steckzwiebeln
-- Knobi?
-- Salat 
-- Spinat
 
 #### <u>Kleines Hochbeet (von Kleinanzeigen)<u>
 
@@ -29,9 +26,8 @@ permalink: /roadmap/2025
 
 #### <u>Tomatenbeet (selbstgebaut)<u>
 
-- Tomaten (4 Stück)
+- Tomaten (6 Stück)
 - Ringelblumen
-- Steckzwiebeln
 - Basilikum
 - Knobi
 
@@ -57,3 +53,13 @@ permalink: /roadmap/2025
 
 ## Gartenerde
 aus dem Garten mit Kompost aufgemischt
+
+
+## Fazit für 2026
+
+- mehr Blumen im/um Gemüsebeet Pflanzen für bessere Bestäubung
+- präventativ: Mischung 1:10 aus Milch und Wasser zur Vorbeugung gegen Mehltau
+- Knobi direkt schon im Winter pflanzen
+- mehr Erbsen Pflanzen (vllt fern von Gurken, da ich bisher immer Mehltau hatte und diese die Erbsen auch befallen können)
+- Präsentation gegen Ameisen: direkt ab Einpflanzung Zitrusschalen verstreuten 
+- Kein Gemüse mehr in Kübeln (außer Kartoffeln)
