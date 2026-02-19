@@ -59,7 +59,7 @@ aus dem Garten mit Kompost aufgemischt
 
 - mehr Blumen im/um Gemüsebeet Pflanzen für bessere Bestäubung
 - präventativ: Mischung 1:10 aus Milch und Wasser zur Vorbeugung gegen Mehltau
-- Knobi direkt schon im Winter pflanzen
+- Knobi direkt schon im Herbst pflanzen
 - mehr Erbsen Pflanzen (vllt fern von Gurken, da ich bisher immer Mehltau hatte und diese die Erbsen auch befallen können)
 - Präsentation gegen Ameisen: direkt ab Einpflanzung Zitrusschalen verstreuten 
 - Kein Gemüse mehr in Kübeln (außer Kartoffeln)

@@ -4,6 +4,8 @@ title: 2023
 permalink: /roadmap/2023
 ---
 
+![]({{ '/roadmap/images/planung_garten_2023.jpeg' | relative_url }}){: width="800" }
+
 ## Must plant
 
 #### <u>Gemüse<u>
@@ -46,3 +48,7 @@ permalink: /roadmap/2023
 - LxH: 6,5mx80cm
 - aus PEHD ohne Weichmacher
 
+
+## Fazit für 2026
+- Tomaten im Topf funktioniert bei mir nicht, lieber im Beet/Hochbeet
+- 4 Gurken sind zu viel für 2 Personen 
