@@ -7,6 +7,7 @@ image: /experience/images/paprika/14-10-2023_paprika.jpeg
 ---
 
 
+Nachtschattengewächse
 
 ## __Sorte__
 TODO
@@ -21,33 +22,38 @@ TODO
 <hr>
 
 ## __Auspflanzen__
+Pflanze im Wasserband geben bis keine Luftblasen mehr aufsteigen. Jungpflanze tief einpflanzen. Am Besten beim Einpflanen 1-1.2m langen Stab (z.B. aus Bastfasern) 30cm in die Erde neben Paprika stecken.
 
 ### Zeitpunkt
-TODO
+Nach Eisheiligen
 
 ### Abstand
-TODO
+Pflanzabstand 40cm & Reihenabstand 50-60cm
 
 ### Erde
 TODO
 
 ### Zehrer 
-TODO
+Stark
 
 ### Standort
-TODO
+Sonnig
 
 ### Nachbarn
-TODO
 
+| gute Nachbarn                                          | schlechte Nachbarn | 
+| ------------------------------------------------------ |:------------------:| 
+| Knobi (hilft bei Blattläusen, Pilz)                    | Tomaten            |
+| Basilikum & Zwiebeln (Weiße Fliege)                    | Kartoffeln         |
+| Ringelblume & Tagetes (Nematoden)                      | Aubergine          |
+| Thymian & Lavendel (Ameisen)                           | Fenchel            |
+| Möhren                                                 | Erbsen             |
 
 <hr>
 
 ## __Gießen__
-TODO
+Täglich mäßig nicht kräftig 
 
-### Gießring
-TODO
 <hr>
 
 ## __Pflege__
@@ -58,10 +64,10 @@ TODO
 <hr>
 
 ## __Ernte__
-TODO
+August - Oktober
 
 ### Merkmale
-TODO
+Terminalknospe enternen (Königsblüte = 1. Blüte die entsteht) für höheren Ertrag
 
 ### Tageszeit
 TODO

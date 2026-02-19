@@ -25,3 +25,6 @@ Jeweils 8 Steckzwiebeln pro schwarzen Kübel eingepflanzt (Erde: Kompost zu Erde
 ![Sorte]({{ '/experience/images/zwiebeln/04-05-2025_pflanzen.jpeg' | relative_url }}){: width="300" }
 ![Sorte]({{ '/experience/images/zwiebeln/04-05-2025_pflanzen2.jpeg' | relative_url }}){: width="300" }
 
+## Fazit 
+
+Naja, waren nicht besonders groß. Grund: Keine Ahnung

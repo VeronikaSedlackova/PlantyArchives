@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paprika TODO
+title: Paprika
 permalink: /paprika/2023
 year: 2023
 plant: Paprika
@@ -20,3 +20,4 @@ Das sind meine Erfahrungen zu Paprika, die ich in 2023 gesammelt habe.
 <br>
 
 ## Protokoll
+Blockpaprika hat nicht geschmeckt, war mit dunklen Spuren im Innenraum "befallen". Snackpaprika war besser hat auch auch nicht so geklappt. Grund: Vllt waren die Gurken kein guter Nachbar

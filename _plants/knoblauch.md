@@ -6,26 +6,24 @@ permalink: /knoblauch
 image: /experience/images/knoblauch/2023/22-10-2023_deutscher_gekaufter_knoblauch.jpeg
 ---
 
+Flachwurzler
 
 ## __Sorte__
 TODO
 
 <hr>
 
-## __Vorkultur__
-TODO
-
-### Saattiefe
-TODO
-<hr>
-
-## __Auspflanzen__
+## __Stecken__
+Mit Spitze nach oben stecken 
 
 ### Zeitpunkt
-TODO
+- Frühjahr (ab Mitte Februar - Mitte März) ab 18 Grad tagsüber
+- Herbst (Oktober - November)
 
-### Abstand
-TODO
+### Abstand/Tiefe
+- 5cm tief
+- Pflanzabstand 10cm 
+- Reihenabstand 20cm 
 
 ### Erde
 TODO
@@ -34,19 +32,27 @@ TODO
 TODO
 
 ### Standort
-TODO
+warm, sonnig, winding (vertreibt Knobifliege), regengeschützer Ort (gut aber kein Muss würde Zehe schützen)
 
 ### Nachbarn
-TODO
 
+| gute Nachbarn                                          | schlechte Nachbarn | 
+| ------------------------------------------------------ |:------------------:| 
+| Erdbeeren                                              | Erbse              |
+| Feldsalat                                              | Buschbohne         |
+| Gurke                                                  | Lauch              |
+| Himbeere                                               | Zwiebeln           |
+| Kartoffeln                                             | Stangenbohne       |
+| Möhre                                                  |                    |
+| Paprika                                                |                    |
+| Tomate                                                 |                    |
 
 <hr>
 
 ## __Gießen__
-TODO
+Eher wenig Wasser, Erde feucht nicht nass (Staunässe vermeiden). Bei beiden Jahreszeiten eher morgens gießen, nicht direkt auf Knolle. Wenn Blätter gelb werden nicht mehr gießen
 
-### Gießring
-TODO
+Winterknobi: Im Winter nicht gießen, erst ab März
 <hr>
 
 ## __Pflege__
@@ -57,16 +63,19 @@ TODO
 <hr>
 
 ## __Ernte__
-TODO
+- Frühling: Ende Juni/Mitte Juli 
+- Winter: ~ Mai
 
 ### Merkmale
-TODO
+Wenn sich 2/3 der Blätter gelb färben kann geerntet werden (bei beiden Jahreszeiten)
 
 ### Tageszeit
 TODO
 
 ### Lagern
-TODO
+- Nur ganze Knollen langern
+- trockener, luftiger, schattiger Ort 
+- Knollen im Bündekn mind 2 Wochen vorher zum Trocknen aufhängen
 
 <hr>
 <br>

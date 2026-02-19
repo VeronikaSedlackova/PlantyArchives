@@ -12,41 +12,30 @@ TODO
 
 <hr>
 
-## __Vorkultur__
-TODO
-
-### Saattiefe
-TODO
-<hr>
-
-## __Auspflanzen__
+## __Direktsaat__
+Saattiefe 1-2cm, Abstand 2.5cm, Keimdauer 3-4 Wochen, Reihenabstand 15-20cm
 
 ### Zeitpunkt
-TODO
-
-### Abstand
-TODO
+Ab April - Juni
 
 ### Erde
-TODO
+Keinen frischen Kompost (Mist zugeben). Am Besten mit Sand mischen für einen lockeren Boden. Mit Spaten 20cm tief und 3-4 cm breite Rinne ziehen und da Gemisch aus Sand, Erde und ggfs Dünger hinzufügen und reinsäen.
 
 ### Zehrer 
-TODO
+Mittelzehrer
 
 ### Standort
-TODO
+Sonnig & Windig
 
 ### Nachbarn
-TODO
+Gute Nachbarn: Zwiebeln 
 
 
 <hr>
 
 ## __Gießen__
-TODO
+Sparsam gießen
 
-### Gießring
-TODO
 <hr>
 
 ## __Pflege__
@@ -57,7 +46,7 @@ TODO
 <hr>
 
 ## __Ernte__
-TODO
+Ab 140-160 Tagen 
 
 ### Merkmale
 TODO

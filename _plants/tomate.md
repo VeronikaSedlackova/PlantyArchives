@@ -6,9 +6,22 @@ permalink: /tomate
 image: experience/images/tomate/21-07-2023_wachstum.jpeg
 ---
 
-## __Sorte__
-TODO
+## __Sorten__
 
+### Gärtnerei HG, 1 Stück: 4,20€ (2025)
+
+| Golden Currant                | Ruthje                       | Black Cherry                     | Philamina |
+| ----------------------------- | ---------------------------  | ---------------------------      | --------------------------- 
+| gelbe Cherrytomate            | rote Cocktailtomate          | dunkle Cherrytomate              | rote Cocktailtomate an Rispen
+| Fazit: leicht säuerlich (7/10)| Fazit: (7/10)                | Fazit: (8/10)                    | Fazit: (8/10) 
+
+### Allesladen, 1 Stück: ~ 2€ (2025)
+
+| Partytomate - Lycopersicon esculentum  | Harzfeuertomate - Solanum lycopersicum |
+| -------------------------------------- | ---------------------------            | 
+| relativ groß                           | relativ groß                           | 
+| Fazit: (6/10)                          | Fazit: (6/10)                          | 
+ 
 <hr>
 
 ## __Vorkultur__
@@ -129,6 +142,7 @@ TODO
 ## __Erfahrungsbericht__
 
 - [2023]({% link _experience/2023/tomate.md %})
+- [2025]({% link _experience/2025/tomate.md %})
 
 
 

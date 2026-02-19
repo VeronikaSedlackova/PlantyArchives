@@ -47,3 +47,8 @@ Die normalen Karotten wachsen eher schlecht. Es sind nur 2 Karottengrün zu erke
 
 ![Normale_Karotten]({{ '/experience/images/karotte/03-06-2023_normale_karotten.jpeg' | relative_url }}){: width="500" }
 
+
+
+### Fazit
+War ein fail. Grund: Evtl falsche Erde?
+

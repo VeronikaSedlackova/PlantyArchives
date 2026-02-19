@@ -16,6 +16,19 @@ permalink: /roadmap/2026
 - Beerenminze (falls sie vom letzen Jahr überlebt hat)
 - Erdbeer-Minze (falls sie vom letzen Jahr überlebt hat)
 
+## Vorkultivieren 
+
+Feburar: 
+- Bio Ingwer
+- Süßkartoffeln 
+- Kartoffeln 
+
+März: 
+- 
+
+April: 
+- 
+
 ## Erde
 
 In beiden Obi Hochbeeten sowie Tomatenbeet Erde aufstocken. Für Kartoffeln komplett Kompost nachkaufen. Die 2 länglichen Kleinanzeigen Hochbeete neu befüllen. 
@@ -24,6 +37,7 @@ In beiden Obi Hochbeeten sowie Tomatenbeet Erde aufstocken. Für Kartoffeln komp
 - Kompost: Stück ? 
 - Saure Erde (Heidelbeeren/Azaleen ph 4-5) für Kartoffeln: Stück ?
 - Sand (Karotten)
+
 
 ## Fazit für 2027
 
