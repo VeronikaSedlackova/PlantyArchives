@@ -93,7 +93,18 @@ Mögliche Ursachen:
 ## __Schädlinge__
 
 ### Mehltau 
-TODO
+Regelmäßiges gießen kann das Wachstum von Mehltau hemmen. 
+
+| Falscher Mehltau                                                                            | Echter Mehltau | 
+| -----------------------------------------------------------------------------------------   |:------------------:| 
+| Gelbliche Flecken auf der Blattoberseite deuten auf einen Befall hin. Auf der Blattunterseite meist grauer oder grauvioletter Pilzrasen | Befall meist als abwischbarer, weißlicher, später schmutzig-brauner Belag auf der Blattoberseite. Die betroffenen Blätter verfärben sich braun und vertrocknen schließlich |
+| Wächst gut bei einer feuchten und kühlen Witterung. Gedeiht besonders gut im Frühjahr sowie im Herbst, da hier weniger Sonne | Schönwetterpilz da er keinen Regen abkann. Er liebt heiße Tage, auf die kühle Nächte folgen. Dadurch bilden sich Tautropfen, die genug Feuchtigkeit zur Vermehrung des Pilzes bieten. Beim Befall setzt sich der Pilz auf der Oberfläche bzw. im Zellgewebe der Pflanze fest und sticht mit Saugorganen (bot. Haustorien) in die Pflanzenzellen. Auf diese Weise entzieht der Pilz dem Blatt Nährstoffe und versorgt sich selbst auf Kosten der Wirtspflanze |
+| ![]({{ '/plants/images/gurke/falscher_mehltau.png' | relative_url }}){: width="350" }       | ![]({{ '/plants/images/gurke/echter_mehltau.png' | relative_url }}){: width="350" } |
+| **Tipp:** ? Milchmischung hilft nicht| **Tipp:** Mischung aus Wasser und Milch, auf betroffenen Pflanzen spritzen (1:8 Roh- oder Vollmilch mit Wasser). Vorbeugend und bei leichten Befall mehrmals die Woche am Besten morgens |
+|| **Tipp:** Basilikum dicht neben der Gurke pflanzen. Ätherische Öle kann Mehltau, Blattläuse und Schnecken abwehren |
+|| **Tipp:** Sud aus Knoblauch. Nimm vier kleingeschnittene Knoblauchzehen und koche sie in einem Liter Wasser aus. Lass den Sud vollständig abkühlen und besprühe Deine befallene Pflanze damit. Knoblauch beinhaltet schwefelhaltige Stoffe, die Mehltau nicht ausstehen kann. Er ist damit perfekt als vorbeugendes Mittel gegen einen Befall geeignet. Bringe den Sud am besten frühmorgens oder abends auf, wenn keine direkte Sonne auf die Pflanze scheint. So verhinderst Du Brandlöcher auf der Pflanze.|
+
+
 
 ### Sonnenbrand
 TODO
@@ -120,3 +131,5 @@ TODO
 ## __Erfahrungsbericht__
 
 - [2023]({% link _experience/2023/gurke.md %})
+- [2025]({% link _experience/2025/gurke.md %})
+

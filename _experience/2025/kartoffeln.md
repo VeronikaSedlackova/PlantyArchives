@@ -6,7 +6,7 @@ year: 2025
 plant: Kartoffel
 ---
 
-Das sind meine Erfahrungen zu Kartoffeln, die ich in 2025 gesammelt habe.
+Das sind meine Erfahrungen, die ich in 2025 gesammelt habe.
 
 <u>Folgende Sorten habe ich angebaut:</u>
 - **Kartoffel Otolia, Wendy (aus Denns)**
@@ -48,4 +48,10 @@ Das sind meine Erfahrungen zu Kartoffeln, die ich in 2025 gesammelt habe.
 
 #### <b>10. Mai</b>
 In den obersten schwarzen aufeinander gestappelten Eimer eine Süßkartoffel aus dem Pflanzencenter gepflanzt. Erde war eine Mischung aus Kompost, Gartenerde und bisschen Hornspäne.
+
+
+##### <b>26. September</b>
+Ernte des gesamten Hochbeets. 
+
+![]({{ '/experience/images/kartoffeln/2025/26-09-2025_ernte.jpeg' | relative_url }}){: width="400" }
 

@@ -6,7 +6,7 @@ year: 2025
 plant: Tomate
 ---
 
-Das sind meine Erfahrungen zu Tomaten, die ich in 2025 gesammelt habe.
+Das sind meine Erfahrungen, die ich in 2025 gesammelt habe.
 
 <u>Folgende Sorten habe ich angebaut:</u>
 

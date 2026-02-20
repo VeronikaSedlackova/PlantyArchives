@@ -33,3 +33,26 @@ Ein Hochbeet braucht:
 
 
 ![]({{ '/equipment/images/großes_Hochbeet_Preis.jpeg' | relative_url }}){: width="400" }
+
+
+## Selbstgebautes Tomatenhochbeet 
+
+### Inspo 
+Von Pinterest.
+
+![]({{ '/equipment/images/tomatenhochbeet_inspo.jpeg' | relative_url }}){: width="400" }
+
+
+### Die Planung startet auf einem Pizzakarton
+
+Das Holz ist Douglasie und wurde 2 mal gebeizt. Kosten sind geschätzt irgendwo bei ~100€ (rein Hochbeet). Gebaut wurde es im Frühling 2025.
+
+Maß des Kasten: 1,5x1x0,5
+Die gesamt Höhe ist 1,8m statt 2m.
+
+![]({{ '/equipment/images/tomatenhochbeet_maße.jpeg' | relative_url }}){: width="400" }
+
+# Ergebnis
+Auf dem Dach sind noch 3 Plastikpanelle, um die Pflanzen vor Regen zu schützen (hier nicht auf dem Bild zu sehen). Es ist Platz für 6 Tomaten. 
+
+![]({{ '/equipment/images/tomatenhochbeet.jpeg' | relative_url }}){: width="400" }

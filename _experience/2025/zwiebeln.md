@@ -6,13 +6,13 @@ year: 2025
 plant: Zwiebeln
 ---
 
-Das sind meine Erfahrungen zu Zwiebeln, die ich in 2025 gesammelt habe.
+Das sind meine Erfahrungen, die ich in 2025 gesammelt habe.
 
 <u>Folgende Sorten habe ich angebaut:</u>
 
 - **Steckzwiebel Kiepenkerl Trio (Hellweg)**
     - regional, Deutschland
-    - 2,49€/kg
+    - 3,99€/kg
 
 ![Sorte]({{ '/experience/images/zwiebeln/steckzwiebeln_kiepenkerl.jpeg' | relative_url }}){: width="300" }
 ![Sorte]({{ '/experience/images/zwiebeln/steckzwiebeln_kiepenkerl_anleitung.jpeg' | relative_url }}){: width="300" }
