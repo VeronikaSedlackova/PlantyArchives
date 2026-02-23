@@ -44,44 +44,65 @@ permalink: /roadmap/2026
 ## Vorkultivieren & Direktsaat
 
 Feburar: 
-- Bio Ingwer keimen
-- Süßkartoffeln keimen
-- Kartoffeln keimen
+- [x] Bio Ingwer keimen
+- [x] Süßkartoffeln keimen
+- [x] Früh Kartoffeln keimen
 
 März: 
-- Salat vorziehen
-- Basilikum vorziehen [TODO: Samen kaufen](https://www.bingenheimersaatgut.de/de/bio-saatgut/kraeuter/basilikum/basilikum-grossblaettrig-k11)
-- Studentenblume & Ringelblume vorziehen
-- Tomaten aus Samen vom letzten Jahr vorziehen (Ende März)
-- Paprika aus Samen vom letzten Jahr vorziehen (Anfang März)
+- [ ] Laura Kartoffeln vorkeimen
+- [ ] Salat vorziehen
+- [ ] Basilikum vorziehen
+- [ ] Studentenblume & Ringelblume vorziehen
+- [ ] Tomaten aus Samen vom letzten Jahr vorziehen (Ende März)
+- [ ] Paprika aus Samen vom letzten Jahr vorziehen (Anfang März)
+- [ ] Phazelie vorziehen
+- [ ] Bohnenkraut vorziehen
+- [ ] Beide Erbsen im Hochbeet säen
 
 April: 
-- Zwiebeln stecken (von Oma)
-- Erbsen säen [TODO: Samen kaufen](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/erbsen.html?srsltid=AfmBOorgI-3tbWspBUQMPmKy-qX5ixaZuymxzOzrQRXAuvVCuN5FjSXA)
-- 1 Gurken vorziehen [TODO: Samen kaufen](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/gurken/salatgurken.html)
-- Möhren säen [TODO: Samen kaufen](https://www.bingenheimersaatgut.de/de/catalogsearch/result/?q=m%C3%B6hre)
-- [Borretsch Direktsaat](https://www.bingenheimersaatgut.de/de/bio-saatgut/kraeuter/borretsch/borretsch-k18) soll Geschmack von Kürbis verbessern
-
+- [ ] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad)
+- [ ] Salat auspflanzen 
+- [ ] Basilikum pflanzen (nach Eisheiligen)
+- [ ] Zwiebeln stecken (von Oma)
+- [ ] Möhren säen (geht auch ab März)
+- [ ] Borretsch Direktsaat: soll Geschmack von Kürbis verbessern
+- [ ] Persischer Klee Direktsaat
 Mai:
-- Buschbohne säen [Überlegung ob Hülsen zu kaufen](https://www.bingenheimersaatgut.de/de/catalogsearch/result/?q=Buschbohnen)
+- [ ] Alle Buschbohne säen
 
 ## Jungpflanzen kaufen 
-- 2 Zucchini (hier verschiedene Sorten)
-- weitere Paprikas nachkaufen
-- Kürbis (Hokkaido und Butternut)
-- 1 Gurke kaufen (andere Sorte)
-- Buschbohne (Platz für mind. 10 - 15) 
+- [ ] 2 Zucchini (hier verschiedene Sorten)
+- [ ] weitere Paprikas nachkaufen
+- [ ] Kürbis (Hokkaido und Butternut)
+- [ ] 2 Gurke kaufen (gegen Mehltau)
 
 ## Gründünger kaufen 
-- [Phazelie ab März](https://www.bingenheimersaatgut.de/de/bio-saatgut/gruenduengung/phazelie-d10) 
+- Phazelie ab März
 -> Lockt Bestäuber und Nützlinge (Marienkäfer, Florfliegen, Schlupfwespen). Blattläuse & andere Schädlinge werden reduziert
 -> kann als Lückenfüller zwischen Kulturen gepflanzt werden
 -> überall außer Kartoffelbeet, nicht direkt unter Rankpflanzen 
-- [Persischer Klee ab April](https://www.bingenheimersaatgut.de/de/bio-saatgut/gruenduengung/persischer-klee-d211) 
+- Persischer Klee ab April
 -> NICHT zu Erbsen & Bohnen
 -> Lockt Bestäuber und Nützlinge (Marienkäfer, Florfliegen, Schlupfwespen). Blattläuse & andere Schädlinge werden reduziert
 -> Bodendecker 
 
+## Einkaufsliste
+- [ ] [Kopfsalat](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/salat/kopfsalat/finja-g790)
+- [ ] [2x Kartoffeln](https://www.bingenheimersaatgut.de/de/bio-saatgut/pflanzgut/pflanzkartoffeln/laura-g002)
+- [ ] [Basilikum](https://www.bingenheimersaatgut.de/de/bio-saatgut/kraeuter/basilikum/basilikum-grossblaettrig-k11)
+- [ ] [Kletter Erbse, Sweet Horizon](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/erbsen/zuckererbse/sweet-horizon-g676): Rankhilfe, robust gegen Mehltau
+- [ ] [Zuckererbse Ambrosia](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/erbsen/zuckererbse/ambrosia-g161): Keine Rankhilfe
+- [ ] [La Diva - Gurke](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/gurken/salatgurken/la-diva-g680): Leider nicht verfügbar, ich brauche Gurke gegen Mehltau
+- [ ] [Möhren](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/moehren/robila-g281a): Saatband
+- [ ] [Bohnenkraut](https://www.bingenheimersaatgut.de/de/bio-saatgut/kraeuter/bohnenkraut/bohnenkraut-saturn-k15): Hilt der Laus Abwehr bei Bohnen
+- [ ] [Gefleckte Buschbohne](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/bohnen/buschbohne/sanguigno-2-g146): Trockenbohne
+- [ ] [Grüne Buschbohne](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/bohnen/buschbohne/marona-g124): Schoten früh ernten und blanchieren und einfrieren
+- [ ] [Feuerbohne](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/bohnen/feuerbohne/preisgewinner-g139b): Kann innen an der Rankhilfe wachsen, Trockenbohne
+- [ ] [Lila Buschbohne](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/bohnen/buschbohne/purple-teepee-g147): Früh ernten, blanchieren, einfrieren oder an der Pflanze trocknen lassen
+- [ ] [Gelbe Buschbohne](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/bohnen/buschbohne/helios-g132): Früh ernten, blanchieren, einfrieren oder an der Pflanze trocknen lassen
+- [ ] [Phazelie](https://www.bingenheimersaatgut.de/de/bio-saatgut/gruenduengung/phazelie-d10)
+- [ ] [Persischer Klee](https://www.bingenheimersaatgut.de/de/bio-saatgut/gruenduengung/persischer-klee-d211)
+- [ ] [Borretsch](https://www.bingenheimersaatgut.de/de/bio-saatgut/kraeuter/borretsch/borretsch-k18)
 
 <hr>
 
@@ -90,7 +111,7 @@ TODO
 
 So ab Juni/Juli Samen säen
 
-
+<hr>
 
 ## Erde
 
@@ -104,4 +125,4 @@ In beiden Obi Hochbeeten sowie Tomatenbeet Erde aufstocken. Für Kartoffeln komp
 
 ## Fazit für 2027
 
-Tbd
+- Vor dem Kompost pflanzen: https://blog.bingenheimersaatgut.de/eine-geniale-mischkultur-der-maya-mix (Mais, Stangenbohnen, Sweet Dumpling Kürbis)

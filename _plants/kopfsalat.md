@@ -14,7 +14,6 @@ __Dynamite__
 <hr>
 
 ## __Direktsaat__
-Ab April bis Mitte Juni alle 2 Wochen
 
 ### Saatmenge
 2-3 Saatkörner
@@ -25,17 +24,12 @@ Ab April bis Mitte Juni alle 2 Wochen
 <hr>
 
 ## __Vorkultur__
-Ab Ende Januar werden die Pflanzen fürs Frühbeet, ab Ende Februar die fürs Freiland herangezogen.
-
 Kopfsalat keimt am Besten bei 15°. Bei mehr als 20° keimt er schlechter.
 
 <hr>
 
-
 ## __Auspflanzen__
-Ende März/Anfang April kann die Jungpflanze ins Freiland gepflanzt werden.
-
-Mitte März kann die Jungpflanze schon unterm Flies in Freiland.
+Je nach Art, hier auf Beschreibung der Samentüte achten.
 
 ### Zehrer 
 Schwachzehrer, weswegen er eine gute Kombi mit Starkzehrern im Beet ist
