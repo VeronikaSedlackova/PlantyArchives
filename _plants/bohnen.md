@@ -8,7 +8,7 @@ image: /experience/images/confused-face.svg
 
 
 ## __Sorte__
-TODO
+Es wird typischerweise zwischen Buschbohnen (keine Rankhilfe) und Stangenbohnen (Rankhilfe) unterschieden.
 
 <hr>
 
@@ -19,8 +19,8 @@ TODO
 TODO
 <hr>
 
-## __Auspflanzen__
-TODO
+## __Direktsaat__
+__Stangenbohnen__: 6-8 Bohnen um die Rankhilfe kreisförmig aussäen.
 
 ### Zeitpunkt
 TODO
