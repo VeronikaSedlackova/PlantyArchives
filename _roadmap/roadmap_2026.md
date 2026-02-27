@@ -4,40 +4,43 @@ title: 2026
 permalink: /roadmap/2026
 ---
 
-<hr>
 
-- Die Zwiebeln werden statt mit der Gurke mit den Zucchinis gepflanzt. 
-- Neben der beiden Gurken werden dann Bohnen und Kohlrabi gepflanzt. Bei Platz kann dann noch neben der Gurke, Bohne und Kohlrabi Salate gepflanzt werden. 
+__Ursprünglicher Plan, aber weil Fruchtfolge nicht beachtet wird das nicht mehr so umgesetzt__
 ![]({{ '/roadmap/images/planung_garten_2026.jpeg' | relative_url }}){: width="800" }
 
-#### Rankbogen 1 
-→ Kürbis + Erbse (im Frühjahr Spinat) + Ringelblume, Oregano, Basilikum
-→ Kürbis jeweils an gegenüberliegender Seite
 
-#### Rankbogen 2 
-→ Gurke + Buschbohnen (+ Zwiebeln am Rand) + Ringelblume, Oregano, Basilikum
+<hr>
+<br>
 
-#### Beet 3 
-→ Paprika + Zwiebel + Karotte (Karotten und Zwiebeln nicht viel Dünger)) + Basilikum, Ringelblume, Studentenblumen, Schnittlauch
+#### __Rankbogen links__
+Brokkoli + Erbsen + Zwiebeln + Lauch + Ringelblumen + Phazelie
 
-#### Beet 4 
-→ Zucchini + Zwiebeln + dazwischen: Salat, Spinat + Basilikum, Ringelblume, Studentenblumen, Thymian
+#### __Rankbogen rechts__
+Bohnen + Bohnenkraut + Borretsch + Phazelie + Ringelblumen + (wenn evtl zu viel Tomaten)
 
-#### Beet 5 
-→ Tomate + Knoblauch 
+#### __Schmales Hochbeet rechts__
+Paprika + Karotte (wie geplant) + Basilikum + Zwiebeln + Ringelblumen + Studentenblumen + Thymian + Borretsch + Phazelie + Persischer Klee
 
-#### Beet 6 
-→ Kartoffel 
+#### __Schmales Hochbeet links__
+Gurke (braucht Rankhilfe) + Zwiebeln + Salat + Borretsch + Bohnenkraut + Ringelblume (hilft gegen Pilzkrankheiten) + Phazelie (nicht zu nah an Gurke, weil Licht wegnimmt) + Persischer Klee 
 
+#### __Tomatenbeet__
+Tomate + Knoblauch + Basilikum + Studentenblume + Ringelblume
 
-#### <u>Obst<u>
+#### __Kartoffelbeet__
+Kartoffel 
+
+#### __Obst__
 
 - Erdbeeren (vom Vorjahr)
 
-#### <u>Kräuter<u>
+#### __Kräuter__
 
 - Beerenminze (falls sie vom letzen Jahr überlebt hat)
 - Erdbeer-Minze (falls sie vom letzen Jahr überlebt hat)
+
+<hr>
+<br>
 
 ## Vorkultivieren & Direktsaat
 
@@ -107,15 +110,19 @@ __Juli:__
 - [ ] Phazelie vorziehen (für Gründüngung im Winter)
 
 August: 
-- Winterbrokkoli
+[ ] Winterbrokkoli?
 
-
+<hr>
+<br>
 
 ## Jungpflanzen kaufen 
 - [ ] 2 Zucchini (hier verschiedene Sorten)
 - [ ] weitere Paprikas nachkaufen
 - [ ] Kürbis (Hokkaido und Butternut)
 - [ ] 2 Gurke kaufen (gegen Mehltau)
+
+<hr>
+<br>
 
 ## Gründünger kaufen 
 - Phazelie ab März
@@ -126,6 +133,9 @@ August:
 -> NICHT zu Erbsen & Bohnen
 -> Lockt Bestäuber und Nützlinge (Marienkäfer, Florfliegen, Schlupfwespen). Blattläuse & andere Schädlinge werden reduziert
 -> Bodendecker 
+
+<hr>
+<br> 
 
 ## Einkaufsliste
 - [x] [Kopfsalat](https://www.bingenheimersaatgut.de/de/bio-saatgut/gemuese/salat/kopfsalat/finja-g790)
@@ -150,6 +160,7 @@ August:
 - [ ] Sand 
  
 <hr>
+<br>
 
 ## Erde
 
@@ -177,6 +188,8 @@ __Kartoffel Hochbeet__
 __Kübel__
 ?
 
+<hr>
+<br>
 
 ## Fazit für 2027
 
