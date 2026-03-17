@@ -21,6 +21,11 @@ Ab April - Juni
 ### Erde
 Keinen frischen Kompost (Mist zugeben). Am Besten mit Sand mischen für einen lockeren Boden. Mit Spaten 20cm tief und 3-4 cm breite Rinne ziehen und da Gemisch aus Sand, Erde und ggfs Dünger hinzufügen und reinsäen.
 
+z.B. bei 250l Volumen:
+150l Pflanzenerde nicht sauer (60 %)
+75l Sand (30 %)
+25l Kompost (10 %)
+
 ### Zehrer 
 Mittelzehrer
 

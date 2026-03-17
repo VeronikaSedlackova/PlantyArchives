@@ -158,6 +158,9 @@ August:
 - [ ] Pflanzenerde
 - [ ] Saure Erde
 - [ ] Sand 
+- [ ] Beize
+- [ ] Randsteine Hecke (Größe: )
+- [ ] Wühlmausgitter
  
 <hr>
 <br>
@@ -166,27 +169,43 @@ August:
 
 In beiden Obi Hochbeeten sowie Tomatenbeet Erde aufstocken. Für Kartoffeln komplett Kompost nachkaufen. Die 2 länglichen Kleinanzeigen Hochbeete neu befüllen. 
 
-- Pflanzenerde: Stück ? (358l + 210l + 150l + )
-- Kompost: Stück ? (268l +160l + )
-- Saure Erde (Heidelbeeren/Azaleen ph 4-5) für Kartoffeln: Stück ?
-- Sand (Karotten)
+- __Pflanzenerde:__ [__16 Stück__](https://www.hellweg.de/a/plantiflor-bio-pflanzerde-torffrei-60-l-840215) 
+    - 400l + 210l + 150l + 200l = 960l
+    - Kosten: ~ 224€
+- __Kompost:__ [__22 Stück__](https://www.hellweg.de/a/plantiflor-bio-pflanz-kompost-40-l-840429) 
+    - 300l +160l + 200l + 200l = 860l
+    - Kosten: ~ 198
+- __Saure Erde__ (Plantiflor Rhododendron- und Hortensienerde 40 L, ph4-5): [__12 Stück__](https://www.hellweg.de/a/plantiflor-rhododendron-und-hortensienerde-40-l-840224) 
+    - 300l + 200l = 500l
+    - Kosten: ~ 132€
+- __Sand__ (Karotten, Kartoffeln): [__4 Stück__](https://www.hellweg.de/a/spielsand-sahara-25-kg-279709) (100l)
+    - Kosten: ~ 16€
 
+_Gesamtkosten:_ 224 + 198 + 132 + 16 = 570€
+_Gesamtsäcke:_ 54
+
+<br>
 __Kleinanzeigen Schule (2): (K (134l) + FE(179l)) * 2__
-= Kompost: 268l
-= Pflanzenerde: 358l 
+- Kompost: 268l -> ~ 300l
+- Pflanzenerde: 358l -> ~400l
+- Sand: 100l
 
-__Obi Hochbeete (2): Nur Aufstocken 1/3__
-= Kompost: ~80l * 2 = 160l
-= Pflanzenerde: ~105l * 2 = 210l
+__Obi Hochbeete (2):__ Nur Aufstocken 1/3
+- Kompost: ~80l * 2 = 160l
+- Pflanzenerde: ~105l * 2 = 210l
 
-__Tomatenhochbeet: Nur Aufstocken 1/5__
-= Pflanzenerde: 150l
+__Tomatenhochbeet:__ Nur Aufstocken 1/5
+- Pflanzenerde: 150l
 
 __Kartoffel Hochbeet__
-? 
+- Kompost: 200l 
+- Saure Erde: 300l
 
-__Kübel__
-?
+__Kübel__ (4-5 Kübel + kleine Hochbeete aufstocken)
+- Kompost: 200l
+- Pflanzenerde: 200l
+- Saure Erde: 200l
+
 
 <hr>
 <br>
