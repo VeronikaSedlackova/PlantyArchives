@@ -15,7 +15,7 @@ TODO
 <hr>
 
 ## __Vorkultur__
-TODO
+Erde vorher anfeuchten und Samen auf Erde legen (Lichtkeimer). Ab März vorziehen im Haus.
 
 ### Saattiefe
 TODO

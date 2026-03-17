@@ -24,7 +24,9 @@ __Dynamite__
 <hr>
 
 ## __Vorkultur__
-Kopfsalat keimt am Besten bei 15°. Bei mehr als 20° keimt er schlechter.
+Erde vorher anfeuchten und Samen auf Erde legen (Lichtkeimer)
+
+Kopfsalat keimt am Besten bei 15°. Bei mehr als 20° keimt er schlechter
 
 <hr>
 

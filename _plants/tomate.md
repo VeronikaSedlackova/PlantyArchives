@@ -25,8 +25,9 @@ image: experience/images/tomate/21-07-2023_wachstum.jpeg
 <hr>
 
 ## __Vorkultur__
-Tomaten sollten eine Höhe von ca 30cm erreicht haben, um ins Beet eingepflanzt zu werden
+Erde vorher anfeuchten und Samen auf Erde legen (Lichtkeimer).
 
+Tomaten sollten eine Höhe von ca 30cm erreicht haben, um ins Beet eingepflanzt zu werden
 
 <hr>
 

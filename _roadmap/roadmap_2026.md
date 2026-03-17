@@ -50,17 +50,16 @@ __Februar__
 - [x] Früh Kartoffeln keimen
 
 __März:__
-- [ ] Laura Kartoffeln vorkeimen
-- [ ] Kopfsalat Finja vorziehen
-- [ ] Basilikum vorziehen
-- [ ] Studentenblume & Ringelblume vorziehen
-- [ ] Tomaten aus Samen vom letzten Jahr vorziehen (Ende März)
-- [ ] Paprika aus Samen vom letzten Jahr vorziehen 
-- [ ] Phazelie vorziehen
-- [ ] Bohnenkraut vorziehen
+- [x] Laura Kartoffeln vorkeimen
+- [x] Kopfsalat Finja vorziehen
+- [x] Basilikum vorziehen
+- [x] Studentenblume & Ringelblume vorziehen
+- [x] Tomaten aus Samen vom letzten Jahr vorziehen (Ende März)
+- [x] Paprika aus Samen vom letzten Jahr vorziehen 
+- [x] Phazelie vorziehen
+- [x] Bohnenkraut vorziehen
 - [ ] Beide Erbsen im Hochbeet säen
-- [ ] Zuckererbse Sweet Horizon vorziehen
-- [ ] Zuckererbse Ambrosia vorziehen 
+- [ ] Möhren säen
 
 __April:__
 - [ ] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Anfang April)
@@ -68,7 +67,7 @@ __April:__
 - [ ] Kopfsalat Finja auspflanzen 
 - [ ] Zwiebeln stecken (von Oma)
 - [ ] Möhren säen (geht auch ab März)
-- [ ] Borretsch Direktsaat: soll Geschmack von Kürbis verbessern
+- [ ] Borretsch Direktsaat
 - [ ] Persischer Klee Direktsaat
 - [ ] Kopfsalat Finja vorziehen (2.)
 - [ ] Basilikum vorziehen (2.)
@@ -133,6 +132,17 @@ August:
 -> NICHT zu Erbsen & Bohnen
 -> Lockt Bestäuber und Nützlinge (Marienkäfer, Florfliegen, Schlupfwespen). Blattläuse & andere Schädlinge werden reduziert
 -> Bodendecker 
+
+<hr>
+<br> 
+
+## Voranzucht im Haus
+
+
+### März
+- Kopfsalat Finja (Bingenheimer): 6 Samen (3 Samen pro Behälter)
+- Paprika aus eigenen Anbau: 6 Samen (1 Samen pro Behälter (2x) & 2 Samen pro Behälter (2x))
+- Tomaten aus eigen Anbau: 6 Samen je Sorte (1 Samen pro Behälter (2x) & 2 Samen pro Behälter (2x))
 
 <hr>
 <br> 
