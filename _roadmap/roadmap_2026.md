@@ -63,7 +63,7 @@ __März:__
 
 __April:__
 - [ ] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Anfang April)
-- [ ] Vorgekeimte Kartoffel Laure in Hochbeet pflanzen (Ende April)
+- [ ] Vorgekeimte Kartoffel Laura in Hochbeet pflanzen (Ende April)
 - [ ] Kopfsalat Finja auspflanzen 
 - [ ] Zwiebeln stecken (von Oma)
 - [ ] Möhren säen (geht auch ab März)
@@ -108,8 +108,8 @@ __Juli:__
 - [ ] Kopfsalat Finja vorziehen (5.)
 - [ ] Phazelie vorziehen (für Gründüngung im Winter)
 
-August: 
-[ ] Winterbrokkoli?
+__August:__ 
+- [ ] Winterbrokkoli?
 
 <hr>
 <br>
@@ -117,7 +117,6 @@ August:
 ## Jungpflanzen kaufen 
 - [ ] 2 Zucchini (hier verschiedene Sorten)
 - [ ] weitere Paprikas nachkaufen
-- [ ] Kürbis (Hokkaido und Butternut)
 - [ ] 2 Gurke kaufen (gegen Mehltau)
 
 <hr>
