@@ -13,7 +13,7 @@ __Ursprünglicher Plan, aber weil Fruchtfolge nicht beachtet wird das nicht mehr
 <br>
 
 #### __Rankbogen links__
-Brokkoli + Erbsen + Zwiebeln + Lauch + Ringelblumen + Phazelie
+Brokkoli + Erbsen + Möhren + Lauch + Ringelblumen + Phazelie
 
 #### __Rankbogen rechts__
 Bohnen + Bohnenkraut + Borretsch + Phazelie + Ringelblumen + (wenn evtl zu viel Tomaten)
