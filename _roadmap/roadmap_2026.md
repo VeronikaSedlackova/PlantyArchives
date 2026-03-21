@@ -167,9 +167,12 @@ __August:__
 - [ ] Pflanzenerde
 - [ ] Saure Erde
 - [ ] Sand 
-- [ ] Beize
-- [ ] Randsteine Hecke (Größe: )
+- [ ] Beize (Leinölfirnis)
+- [ ] 13 Randsteine Hecke (Größe: 10x19,5)
 - [ ] Wühlmausgitter
+- [ ] Rasenkante 
+- [ ] Pinsel für Beize
+- [ ] Hydrokultur Topf
  
 <hr>
 <br>
@@ -215,6 +218,56 @@ __Kübel__ (4-5 Kübel + kleine Hochbeete aufstocken)
 - Pflanzenerde: 200l
 - Saure Erde: 200l
 
+<hr>
+<br>
+
+## 2. und 3. Schicht im Hochbeet
+
+__2. Schicht immer: Kompost 0/15__
+
+Für die 3. Schicht jeweils diese Mischungen:
+
+### Rankboden links (Brokkoli + Erbsen + Möhren + Lauch)
+
+- 50% Oberboden-Kompost
+- 30% Oberboden
+- 10% Kompost 
+- 10% saure Erde
+
+### Rankboden rechts (Bohnen)
+
+- 40% Oberboden-Kompost
+- 40% Oberboden
+- 10% Sand
+- 10% saure Erde
+
+### Schmales Hochbeet rechts (Paprika + Karotte + Zwiebeln)
+
+- 40% Oberboden-Kompost 
+- 25% Oberboden
+- 25% Sand
+- 10% saure Erde
+
+### Schmales Hochbeet links (Gurke, Zwiebeln)
+
+- 55% Oberboden-Kompost
+- 25% Oberboden
+- 10% Kompost 
+- 10% saure Erde
+
+### Tomatenbeet
+
+- 55% Oberboden-Kompost 
+- 25% Oberboden
+- 10% Kompost 
+- 10% saure Erde
+
+### Kartoffelbeet
+
+- 60% Oberboden-Kompost 
+- 20% Oberboden
+- 10% Kompost
+- 10% Sand
 
 <hr>
 <br>
