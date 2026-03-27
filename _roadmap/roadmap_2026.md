@@ -18,10 +18,10 @@ Brokkoli + Erbsen + Möhren + Lauch + Ringelblumen + Phazelie
 #### __Rankbogen rechts__
 Bohnen + Bohnenkraut + Borretsch + Phazelie + Ringelblumen + (wenn evtl zu viel Tomaten)
 
-#### __Schmales Hochbeet rechts__
+#### __Schmales Hochbeet links__
 Paprika + Karotte (wie geplant) + Basilikum + Zwiebeln + Ringelblumen + Studentenblumen + Thymian + Borretsch + Phazelie + Persischer Klee
 
-#### __Schmales Hochbeet links__
+#### __Schmales Hochbeet rechts__
 Gurke (braucht Rankhilfe) + Zwiebeln + Salat + Borretsch + Bohnenkraut + Ringelblume (hilft gegen Pilzkrankheiten) + Phazelie (nicht zu nah an Gurke, weil Licht wegnimmt) + Persischer Klee 
 
 #### __Tomatenbeet__
@@ -163,16 +163,15 @@ __August:__
 - [x] [Phazelie](https://www.bingenheimersaatgut.de/de/bio-saatgut/gruenduengung/phazelie-d10)
 - [x] [Persischer Klee](https://www.bingenheimersaatgut.de/de/bio-saatgut/gruenduengung/persischer-klee-d211)
 - [x] [Borretsch](https://www.bingenheimersaatgut.de/de/bio-saatgut/kraeuter/borretsch/borretsch-k18)
-- [ ] Kompost 
-- [ ] Pflanzenerde
-- [ ] Saure Erde
-- [ ] Sand 
-- [ ] Beize (Leinölfirnis)
-- [ ] 13 Randsteine Hecke (Größe: 10x19,5)
-- [ ] Wühlmausgitter
-- [ ] Rasenkante 
-- [ ] Pinsel für Beize
-- [ ] Hydrokultur Topf
+- [x] Kompost 
+- [x] Pflanzenerde
+- [x] Saure Erde
+- [x] Sand 
+- [x] Beize (Leinölfirnis)
+- [x] 13 Randsteine Hecke (Größe: 10x19,5)
+- [x] Wühlmausgitter
+- [x] Rasenkante 
+- [x] Pinsel für Beize
  
 <hr>
 <br>
@@ -218,6 +217,8 @@ __Kübel__ (4-5 Kübel + kleine Hochbeete aufstocken)
 - Pflanzenerde: 200l
 - Saure Erde: 200l
 
+-> Wir haben Mutterboden und Kompost bei Kleinanzeigen liefern lassen. Jeweils 1m3 Pflanzenboden/Mutterboden mit bis zu 30% Kompostanteil (loses Schüttgut) für 50 Euro. Sowie Kompost 0/25 loses Schüttgut für 55 Euro. 
+
 <hr>
 <br>
 
@@ -229,45 +230,43 @@ Für die 3. Schicht jeweils diese Mischungen:
 
 ### Rankboden links (Brokkoli + Erbsen + Möhren + Lauch)
 
-- 50% Oberboden-Kompost
-- 30% Oberboden
-- 10% Kompost 
-- 10% saure Erde
+- 65% Mutterboden (flanzenboden/Mutterboden mit bis zu 30% Kompostanteil)
+- 25% Kompost (Kompost 0/25)
+- 5% Sand (Spielsand)
+- 5% saure Erde (Rhododendronerde)
 
 ### Rankboden rechts (Bohnen)
 
-- 40% Oberboden-Kompost
-- 40% Oberboden
+- 75% Mutterboden
+- 15% Kompost
 - 10% Sand
-- 10% saure Erde
 
-### Schmales Hochbeet rechts (Paprika + Karotte + Zwiebeln)
+### Schmales Hochbeet links (Paprika + Karotte + Zwiebeln)
 
-- 40% Oberboden-Kompost 
-- 25% Oberboden
-- 25% Sand
-- 10% saure Erde
+- 60% Mutterboden
+- 20% Kompost
+- 20% Sand
 
-### Schmales Hochbeet links (Gurke, Zwiebeln)
+### Schmales Hochbeet rechts (Gurke, Zwiebeln)
 
-- 55% Oberboden-Kompost
-- 25% Oberboden
-- 10% Kompost 
-- 10% saure Erde
+- 60% Mutterboden
+- 30% Kompost 
+- 5-10% Sand
+- 5% saure Erde
 
 ### Tomatenbeet
 
-- 55% Oberboden-Kompost 
-- 25% Oberboden
-- 10% Kompost 
-- 10% saure Erde
+- 55% Mutterboden
+- 30-35% Kompost 
+- 5-10% Sand
+- 5% saure Erde
 
 ### Kartoffelbeet
 
-- 60% Oberboden-Kompost 
-- 20% Oberboden
-- 10% Kompost
+- 55% Mutterboden
+- 35% Kompost
 - 10% Sand
+- 5% Saure Erde
 
 <hr>
 <br>
