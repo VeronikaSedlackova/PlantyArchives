@@ -58,8 +58,8 @@ __März:__
 - [x] Paprika aus Samen vom letzten Jahr vorziehen 
 - [x] Phazelie vorziehen
 - [x] Bohnenkraut vorziehen
-- [ ] Beide Erbsen im Hochbeet säen
-- [ ] Möhren säen
+- [ ] Beide Erbsen im Hochbeet säen -> noch zu kalt lieber im April
+- [ ] Möhren säen -> noch zu kalt lieber im April
 
 __April:__
 - [ ] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Anfang April)
@@ -217,7 +217,7 @@ __Kübel__ (4-5 Kübel + kleine Hochbeete aufstocken)
 - Pflanzenerde: 200l
 - Saure Erde: 200l
 
--> Wir haben Mutterboden und Kompost bei Kleinanzeigen liefern lassen. Jeweils 1m3 Pflanzenboden/Mutterboden mit bis zu 30% Kompostanteil (loses Schüttgut) für 50 Euro. Sowie Kompost 0/25 loses Schüttgut für 55 Euro. 
+-> Wir haben Mutterboden und Kompost bei Kleinanzeigen liefern lassen. Jeweils 1m3 Pflanzenboden/Mutterboden mit bis zu 30% Kompostanteil (loses Schüttgut) für 50 Euro. Sowie Kompost 0/25 loses Schüttgut für 55 Euro. Insgesamt 140 Euro gezahlt. 
 
 <hr>
 <br>
@@ -230,10 +230,18 @@ Für die 3. Schicht jeweils diese Mischungen:
 
 ### Rankboden links (Brokkoli + Erbsen + Möhren + Lauch)
 
-- 65% Mutterboden (flanzenboden/Mutterboden mit bis zu 30% Kompostanteil)
-- 25% Kompost (Kompost 0/25)
-- 5% Sand (Spielsand)
-- 5% saure Erde (Rhododendronerde)
+#### Kohl
+- 50-55% Mutterboden (Pflanzenboden/Mutterboden mit bis zu 30% Kompostanteil)
+- 35-40% Kompost (Kompost 0/25)
+- 5-10% Sand (Spielsand)
+- 0-5% saure Erde (Rhododendronerde)
+
+#### Erbsen
+
+- 75-80% Mutterboden
+- 10-15% Kompost 
+- 5-10% Sand 
+- 0% saure Erde
 
 ### Rankboden rechts (Bohnen)
 
@@ -243,16 +251,36 @@ Für die 3. Schicht jeweils diese Mischungen:
 
 ### Schmales Hochbeet links (Paprika + Karotte + Zwiebeln)
 
-- 60% Mutterboden
-- 20% Kompost
-- 20% Sand
+#### Paprika
+
+- 55-60% Mutterboden
+- 25-30% Kompost 
+- 5-10% Sand
+- 5-10% saure Erde
+
+#### Karotte 
+
+- 60-65% Mutterboden
+- 5-10% Kompost
+- 25-30% Sand
+- 0-5% saure Erde
 
 ### Schmales Hochbeet rechts (Gurke, Zwiebeln)
 
-- 60% Mutterboden
-- 30% Kompost 
+#### Gurke
+
+- 50-55% Mutterboden
+- 30-35% Kompost 
 - 5-10% Sand
-- 5% saure Erde
+- 5-10% saure Erde
+
+#### Zwiebeln
+
+- 70% Mutterboden
+- 20% Kompost 
+- 10% Sand
+- 0-5% saure Erde
+
 
 ### Tomatenbeet
 
