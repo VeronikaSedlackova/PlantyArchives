@@ -86,6 +86,9 @@ Nach der Ernte die Knollen zunächst einige Stunden abtrocknen lassen, bevor sie
 
 **Achtung:** Wenn die Kartoffelhaut der Sonne ausgesetzt wird (z.B. schlecht eingegraben, schlecht gelagert), kann sie später Giftstoffe (Solanin) enthalten. 
 
+### Frühkartoffeln
+Frühkartoffeln kommen meist frisch auf den Tisch, sie können gleich nach der Blüte nach Bedarf geerntet werden. Sie sind dann zwar noch nicht ganz ausgewachsen, dafür aber umso zarter und aromatischer.
+
 
 ### Tageszeit
 TODO

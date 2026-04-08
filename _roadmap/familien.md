@@ -22,7 +22,7 @@ permalink: /roadmap/familien
  - Kartoffeln
 
 
- # Hülsenfrüchtler: 5-6 Jahre Anbaupause (Schwachzehrer)
+ # Hülsenfrüchtler: 3-5 Jahre Anbaupause (Schwachzehrer)
  
  - Erbsen
  - Stangenbohne
@@ -54,11 +54,12 @@ permalink: /roadmap/familien
 - Wurzelpetersilie
 
 
-# Zwiebelgewächse: 5 Jahre Anbaupause
+# Liliengewächse: 5 Jahre Anbaupause
 
 - Knoblauch (Starkzehrer)
 - Lauch (Starkzehrer)
 - Schalotten, Zwiebel (Mittelzehrer)
+- Schnittlauch, Schnittknoblauch
 
 # Fuchsschwanzgewächse: 3 Jahre Anbaupause (Mittelzehrer)
 

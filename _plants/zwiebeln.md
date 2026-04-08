@@ -66,6 +66,7 @@ Frühlingssteckzwiebeln: August
 Wenn Blätter eintrocknen & 2/3 der Blätter einknicken.
 
 ### Tipps
+- Am Besten morgens stecken. Frühs feuchter Boden von Tau dadurch Wurzelbildung einfacher. Nachtfrost kann Pflanzen stressen
 - Einige Tage vor Ernte gar nicht mehr gießen (Je trockener desto länger haltbar)\
 - Zwiebeln vor dem Stecken über Nacht in zimmerwarmem Wasser einweichen, dann bilden sie früher Wurzeln aus und fassen im Beet schneller Fuß
 

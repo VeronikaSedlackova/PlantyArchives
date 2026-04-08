@@ -62,7 +62,7 @@ __März:__
 - [ ] Möhren säen -> noch zu kalt lieber im April
 
 __April:__
-- [ ] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Anfang April)
+- [ ] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Mitte April)
 - [ ] Vorgekeimte Kartoffel Laura in Hochbeet pflanzen (Ende April)
 - [ ] Kopfsalat Finja auspflanzen 
 - [ ] Zwiebeln stecken (von Oma)
