@@ -101,3 +101,4 @@ TODO
 ## __Erfahrungsbericht__
 
 - [2025]({% link _experience/2025/erbse.md %})
+- [2026]({% link _experience/2026/erbse.md %})

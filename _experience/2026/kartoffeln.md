@@ -49,3 +49,7 @@ Kartoffel Glorietta wird im Keller (~13 Grad, ca 60% Luftfeuchtigkeit) sowie im 
 Laura Saatkartoffeln (2kg) werden im Keller bei einer Temperatur von ~13 Grad (ca 60% Luftfeuchtigkeit) vorgekeimt. 
 
 ![]({{ '/experience/images/kartoffeln/2026/05-03-2026_laura_vorkeimen.jpeg' | relative_url }}){: width="400" }
+
+#### <b>12. April</b>
+Kartoffel Glorietta in Kübeln gepflanzt.
+

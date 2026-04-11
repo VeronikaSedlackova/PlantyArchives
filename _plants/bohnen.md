@@ -13,17 +13,23 @@ Es wird typischerweise zwischen Buschbohnen (keine Rankhilfe) und Stangenbohnen 
 <hr>
 
 ## __Vorkultur__
-TODO
+Etwa 3-4 Wochen vor der Pflanzung mit dem Vorziehen beginnen. 
+
+Samen über Nacht in lauwarmes Wasser geben. 
+
+4-5 Samen in einen kleinen Topf mit Erde geben und ihn gut während der Vorkultur feucht halten. Bei 20 Grad vorziehen. Vor dem Auspflanzen muss abgehärtet werden.
 
 ### Saattiefe
-TODO
+Etwa 2cm tief in die Anzuchterde
+
+Bei Rankbohnen direkt einen Stab mit in den Topf stecken 
 <hr>
 
 ## __Direktsaat__
 __Stangenbohnen__: 6-8 Bohnen um die Rankhilfe kreisförmig aussäen.
 
-### Zeitpunkt
-TODO
+### Auspflanzung
+Nach dem Ausheiligen
 
 ### Abstand
 TODO
@@ -32,16 +38,23 @@ TODO
 TODO
 
 ### Zehrer 
-TODO
+Schwachzehrer
 
 ### Standort
-TODO
+Buschbohnen: halbsonnig-sonnig
 
 ### Nachbarn
 
-| gute Nachbarn                                          | schlechte Nachbarn | 
-| ------------------------------------------------------ |:------------------:| 
+Buschbohnen:
 
+| gute Nachbarn         | schlechte Nachbarn | 
+| --------------------- |:------------------:| 
+| Erdbeeren             | Erbsen             | 
+| Gurken                | Knoblauch          |
+| Tomaten               | Zwiebeln           |
+| Salat                 | Fenchel            |
+| Sellerie              | Lauch.             |
+| Bohnenkraut (sehr gut)|                    |
 
 <hr>
 
@@ -52,15 +65,17 @@ TODO
 ## __Pflege__
 
 ### Düngen
-TODO
+Nicht notwendig. Binden Stickstoff aus der Luft. 
 
 <hr>
 
 ## __Ernte__
-TODO
+Etwa 2-3 Monate nach Aussat. Ob erntereif, Bohne einfach durchbrechen und schauen ob die Bohne glatt durchbricht und die Bruchstelle grün und saftig ist. Samen sollten nicht >1cm sein und sich nicht sichtbar in der Schote abzeichnen.
 
 ### Merkmale
 Einjähriges Bohnenkraut, zwischen den Buschbohnen Reihen ausgesät, wehrt Läuse ab und bringt das gewisse Etwas in Ihre Bohnengerichte (z.B. Bohnenkraut 'Saturn' von Bingenheimer Saatgut)
+
+__Bohnen sind roh giftig!__
 
 ### Tageszeit
 TODO
