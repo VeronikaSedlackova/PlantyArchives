@@ -43,6 +43,7 @@ Man kann Erbsen auch im Topf vorziehen, bei z.B. Schneckenbefall. Dafür 2 Woche
 ### Saattiefe
 
 - 2-3cm tief einpflanzen
+- 3-5cm in der Reihe
 - Reihenabstand: 30-40cm
 
 ### Rankhilfe
