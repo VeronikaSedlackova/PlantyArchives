@@ -31,7 +31,7 @@ Kopfsalat keimt am Besten bei 15°. Bei mehr als 20° keimt er schlechter
 <hr>
 
 ## __Auspflanzen__
-Je nach Art, hier auf Beschreibung der Samentüte achten.
+Je nach Art, hier auf Beschreibung der Samentüte achten. Aber tendenziell wenn Nächte stabil über ~5–6 °C und 3-5 echte Blätter
 
 ### Zehrer 
 Schwachzehrer, weswegen er eine gute Kombi mit Starkzehrern im Beet ist

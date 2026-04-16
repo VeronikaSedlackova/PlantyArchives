@@ -13,25 +13,33 @@ __Ursprünglicher Plan, aber weil Fruchtfolge nicht beachtet wird das nicht mehr
 <br>
 
 #### __Rankbogen links__
-Brokkoli + Erbsen + Möhren + Lauch + Ringelblumen + Phazelie
+- April: Erbsen, Möhren
+- Juni/Juli: Pastinaken (nach Erbsen) ?
+
+Brokkoli + Lauch + Ringelblumen + Phazelie
 
 #### __Rankbogen rechts__
 Bohnen + Bohnenkraut + Borretsch + Phazelie + Ringelblumen + (wenn evtl zu viel Tomaten)
 
 #### __Schmales Hochbeet links__
-Paprika + Karotte (wie geplant) + Basilikum + Zwiebeln + Ringelblumen + Studentenblumen + Thymian + Borretsch + Phazelie + Persischer Klee
+- April: Karotte, Zwiebeln
+- Mai: Paprika + Basilikum + Ringelblumen + Studentenblumen + Thymian + Borretsch + Phazelie + Persischer Klee ? 
 
 #### __Schmales Hochbeet rechts__
-Gurke (braucht Rankhilfe) + Zwiebeln + Salat + Borretsch + Bohnenkraut + Ringelblume (hilft gegen Pilzkrankheiten) + Phazelie (nicht zu nah an Gurke, weil Licht wegnimmt) + Persischer Klee 
+- April: Zwiebeln, Rote Rübe (Robuschka, am Rand der Gurken) 
+
+Gurke (braucht Rankhilfe) + Salat + Borretsch + Bohnenkraut + Ringelblume (hilft gegen Pilzkrankheiten) + Phazelie (nicht zu nah an Gurke, weil Licht wegnimmt) + Persischer Klee 
 
 #### __Tomatenbeet__
-Tomate + Knoblauch + Basilikum + Studentenblume + Ringelblume
+- Herbst 2025: Knoblauch
+- April: Erdbeeren
+
+Tomate + Basilikum + Studentenblume + Ringelblume
 
 #### __Kartoffelbeet__
 Kartoffel 
 
 #### __Obst__
-
 - Erdbeeren (vom Vorjahr)
 
 #### __Kräuter__
@@ -62,22 +70,25 @@ __März:__
 - [ ] Möhren säen -> noch zu kalt lieber im April
 
 __April:__
-- [ ] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Mitte April)
+- [x] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Mitte April)
 - [ ] Vorgekeimte Kartoffel Laura in Hochbeet pflanzen (Ende April)
-- [ ] Kopfsalat Finja auspflanzen 
-- [ ] Zwiebeln stecken (von Oma)
-- [ ] Möhren säen (geht auch ab März)
+- [x] Kopfsalat Finja auspflanzen 
+- [x] Zwiebeln stecken (von Oma)
+- [x] Möhren säen (geht auch ab März)
 - [ ] Borretsch Direktsaat
 - [ ] Persischer Klee Direktsaat
-- [ ] Kopfsalat Finja vorziehen (2.)
-- [ ] Basilikum vorziehen (2.)
-- [ ] Zuckererbse Sweet Horizon vorziehen
-- [ ] Zuckererbse Ambrosia vorziehen
-- [ ] Buschbohne Sanguigno 2 vorziehen
-- [ ] Buschbohne Marona vorziehen
-- [ ] Feuerbohne vorziehen
-- [ ] Buschbohne Purple Teepee vorziehen
-- [ ] Buschbohne Helios vorziehen
+- [x] Kopfsalat Finja vorziehen (2.)
+- [x] Basilikum vorziehen (2.)
+- [x] Zuckererbse Sweet Horizon säen
+- [x] Zuckererbse Ambrosia säen
+- [x] Buschbohne Sanguigno 2 vorziehen
+- [x] Buschbohne Marona vorziehen
+- [x] Feuerbohne vorziehen
+- [x] Buschbohne Purple Teepee vorziehen
+- [x] Buschbohne Helios vorziehen
+- [ ] Rotkohl Kalibos vorziehen
+- [ ] Rote Rübe säen
+
 
 
 __Mai:__
@@ -92,6 +103,8 @@ __Mai:__
 - [ ] Feuerbohne vorziehen
 - [ ] Buschbohne Purple Teepee vorziehen
 - [ ] Buschbohne Helios vorziehen
+- [ ] Rotkohl Kalibos vorziehen
+- [ ] Brokkoli Calinaro vorziehen (Pflanzung nach 1 Monat)
 
 
 __Juni:__
@@ -102,6 +115,9 @@ __Juni:__
 - [ ] Buschbohne Marona vorziehen
 - [ ] Buschbohne Purple Teepee vorziehen
 - [ ] Buschbohne Helios vorziehen
+- [ ] Rotkohl Kalibos vorziehen
+- [ ] Brokkoli Calinaro vorziehen (Pflanzung nach 1 Monat)
+- [ ] Pastinaken säen (nach Erbsen)
 
 
 __Juli:__
@@ -109,7 +125,12 @@ __Juli:__
 - [ ] Phazelie vorziehen (für Gründüngung im Winter)
 
 __August:__ 
-- [ ] Winterbrokkoli?
+- [ ] Feldsalat Verte de Cambrai säen
+
+__September:__
+- [ ] Feldsalat Verte de Cambrai säen
+
+
 
 <hr>
 <br>
