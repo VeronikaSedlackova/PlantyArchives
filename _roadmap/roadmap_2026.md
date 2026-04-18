@@ -92,7 +92,6 @@ __April:__
 
 
 __Mai:__
-- [ ] Alle Buschbohne säen im Hochbeet oder im April vorziehen
 - [ ] Basilikum pflanzen (nach Eisheiligen)
 - [ ] Kopfsalat Finja vorziehen (3.)
 - [ ] Zuckererbse Sweet Horizon säen
