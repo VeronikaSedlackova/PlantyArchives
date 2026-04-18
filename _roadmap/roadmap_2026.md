@@ -95,14 +95,10 @@ __Mai:__
 - [ ] Alle Buschbohne säen im Hochbeet oder im April vorziehen
 - [ ] Basilikum pflanzen (nach Eisheiligen)
 - [ ] Kopfsalat Finja vorziehen (3.)
-- [ ] Zuckererbse Sweet Horizon vorziehen
-- [ ] Zuckererbse Ambrosia vorziehen
+- [ ] Zuckererbse Sweet Horizon säen
+- [ ] Zuckererbse Ambrosia säen
 - [ ] Ggfs Möhre Robila irgendwo pflanzen für Winter
-- [ ] Buschbohne Sanguigno 2 vorziehen
-- [ ] Buschbohne Marona vorziehen
-- [ ] Feuerbohne vorziehen
-- [ ] Buschbohne Purple Teepee vorziehen
-- [ ] Buschbohne Helios vorziehen
+- [ ] Alle Bohnen säen
 - [ ] Rotkohl Kalibos vorziehen
 - [ ] Brokkoli Calinaro vorziehen (Pflanzung nach 1 Monat)
 
@@ -111,10 +107,7 @@ __Juni:__
 - [ ] Kopfsalat Finja vorziehen (4.)
 - [ ] Zuckererbse Sweet Horizon vorziehen
 - [ ] Zuckererbse Ambrosia vorziehen
-- [ ] Buschbohne Sanguigno 2 vorziehen
-- [ ] Buschbohne Marona vorziehen
-- [ ] Buschbohne Purple Teepee vorziehen
-- [ ] Buschbohne Helios vorziehen
+- [ ] Ggfs nochmal alle Bohnen säen
 - [ ] Rotkohl Kalibos vorziehen
 - [ ] Brokkoli Calinaro vorziehen (Pflanzung nach 1 Monat)
 - [ ] Pastinaken säen (nach Erbsen)
