@@ -15,5 +15,11 @@ TODO
 
 ## Protokoll
 #### <b>12. April</b>
-Direktsaat ins Hochbeet. 
+Direktsaat ins Hochbeet. Ich habe oben drauf ein Karton gelegt und mit Steinen befestigt, damit die Erde nicht so schnell austrocknet. 
+
+
+#### <b>3. Mai</b>
+
+Man sieht etwa 1cm Kartottengrün. Die Abdeckung habe ich abgenommen. 
+
 

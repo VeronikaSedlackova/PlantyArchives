@@ -88,3 +88,4 @@ TODO
 
 ## __Erfahrungsbericht__
 
+- [2026]({% link _experience/2026/bohnen.md %})

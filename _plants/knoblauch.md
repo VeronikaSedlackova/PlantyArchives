@@ -83,3 +83,4 @@ TODO
 ## __Erfahrungsbericht__
 
 - [2023]({% link _experience/2023/knoblauch.md %})
+- [2026]({% link _experience/2026/knoblauch.md %})

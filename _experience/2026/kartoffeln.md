@@ -51,5 +51,28 @@ Laura Saatkartoffeln (2kg) werden im Keller bei einer Temperatur von ~13 Grad (c
 ![]({{ '/experience/images/kartoffeln/2026/05-03-2026_laura_vorkeimen.jpeg' | relative_url }}){: width="400" }
 
 #### <b>12. April</b>
-Kartoffel Glorietta in Kübeln gepflanzt.
+Kartoffel Glorietta in Kübeln gepflanzt. Maximal 1-2 Triebe auf jeder Kartoffel. 
+
+Erde: 
+- 5 Muttererde
+- 4 Kompost
+- 1 Sand
+
+Sonst kein Dünger bei Pflanzung.
+
+![]({{ '/experience/images/kartoffeln/2026/12-04-2026_in_erde_gepflanzt.jpeg' | relative_url }}){: width="300" }
+
+
+#### <b>21. April</b>
+
+Ich habe die Laura Kartoffeln in kleine Stück mit einem Messer geschnitten. GROẞER FEHLER. Ich hab die anschließend wieder in den Keller gelegt ins direkte Sonnenlicht. Ich weiß Stand jetzt nicht was ich hätte besser machen sollen. Nicht direkt Sonne? Die Schnittfläche in Asche tunken? Auf jeden Fall sind mir die Kartoffeln verschimmelt (2 Tage später). 
+
+![]({{ '/experience/images/kartoffeln/2026/21-04-2026_aufgeschnitten.jpeg' | relative_url }}){: width="400" }
+
+
+
+#### <b>2. Mai</b>
+
+Das übrige 1/3 habe ich in Potato Paul gepflanzt. Hier jeweils eine halbe Hand Hornspäne in die Mulde wo die Kartoffel rein kommt & jeweils eine Hand ganz oben drauf auf die Erde. 
+
 

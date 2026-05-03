@@ -82,3 +82,4 @@ TODO
 
 - [2023]({% link _experience/2023/paprika.md %})
 - [2025]({% link _experience/2025/paprika.md %})
+- [2026]({% link _experience/2026/paprika.md %})
