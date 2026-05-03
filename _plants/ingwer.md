@@ -3,7 +3,8 @@ layout: page
 title: Ingwer
 permalink: /ingwer
 plant: Ingwer
-image: /experience/images/confused-face.svg
+image: /experience/images/ingwer/2026/03-05-2026_keimt.jpeg
+
 ---
 
 
@@ -14,3 +15,10 @@ Die richtige Methode hab ich noch nicht gefunden. Ich habe Ende Januar den Ingwe
 ## __Einpflanzen__
 
 Sobald man sieht das sich die Knospen entwickeln kann man den Ingwer in eine nährstoffreiche Erde drauflegen. Er braucht gut Dünger. Jede Woche einmal düngen, z.B. mit verdünnten Bokashi
+
+<hr>
+<br>
+
+## __Erfahrungsbericht__
+
+- [2026]({% link _experience/2026/ingwer.md %})

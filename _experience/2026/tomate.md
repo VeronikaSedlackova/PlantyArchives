@@ -43,5 +43,8 @@ TODO: Düngen mit Bokashi Saft
 #### <b>3. Mai</b>
 Wieder in größere Töpfe umgetopft. Die Anzuchterde hab ich mit Hornspänen versetzt. Seit dem 11. April hab ich einmal mit dem Bokashi Saft (1:200) gedüngt. Hätte öfters düngen sollen. Aber sehen trotzdem gut aus. 
 
+![]({{ '/experience/images/tomate/2026/03-05-2026_umgetopft.jpeg' | relative_url }}){: width="400" }
+
+
 
 

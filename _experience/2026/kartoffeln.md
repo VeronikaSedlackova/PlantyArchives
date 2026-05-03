@@ -69,6 +69,9 @@ Ich habe die Laura Kartoffeln in kleine Stück mit einem Messer geschnitten. GRO
 
 ![]({{ '/experience/images/kartoffeln/2026/21-04-2026_aufgeschnitten.jpeg' | relative_url }}){: width="400" }
 
+#### <b>23. April</b>
+
+![]({{ '/experience/images/kartoffeln/2026/23-04-2026_vergammelt.jpeg' | relative_url }}){: width="400" }
 
 
 #### <b>2. Mai</b>

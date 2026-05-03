@@ -12,6 +12,10 @@ plant: Bohnen
 
 Hier irgendwann habe ich die Bohnen jeweils 3 in eine Topf vorgezogen. Es ist abzuwarten, aber ich denke das nächste mal mache ich erst im Mai eine Direktsaat. 
 
+#### <b>21. April</b>
+
+![]({{ '/experience/images/bohnen/2026/21-04-2026_jungpflanzen.jpeg' | relative_url }}){: width="300" }
+
 
 #### <b>2. Mai</b>
 

@@ -17,6 +17,10 @@ Ich habe seit der Pflanzung letzes Jahr nicht gegossen.
 
 ![]({{ '/experience/images/knoblauch/2026/23-03-2026_waechst.jpeg' | relative_url }}){: width="400" }
 
+#### <b>21. April</b>
+Wächst. Bisher nur ab und zu sehr wenig gegoßen (ca 1x die Woche, je nach Wetter).
+
+![]({{ '/experience/images/knoblauch/2026/21-04-2026_waechst.jpeg' | relative_url }}){: width="400" }
 
 
 #### <b>3. Mai</b>
