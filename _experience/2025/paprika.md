@@ -10,7 +10,10 @@ Das sind meine Erfahrungen, die ich in 2025 gesammelt habe.
 
 <u>Folgende Sorten habe ich angebaut:</u>
 - **Blockpaprika**
-- **Snackpaprika**
+- Plantiflor Bio **Spitzpaprika** 
+    - Capsicum annuum 'Coronor'
+    - Von Hellweg
+    - 3,99€
 
 <br>
 <hr>
@@ -18,7 +21,7 @@ Das sind meine Erfahrungen, die ich in 2025 gesammelt habe.
 ## Protokoll
 
 #### <b>24. Mai</b>
-Im Hochbeet links Blockpaprika und rechts Snackpaprika eingepflanzt. 
+Im Hochbeet links Blockpaprika und rechts Spitzpaprika eingepflanzt. 
 
 ![]({{ '/experience/images/paprika/2025/24-05-2025_wachstum.jpeg' | relative_url }}){: width="308" }
 
@@ -30,4 +33,4 @@ Ernte der letzten Paprikas. Ich habe alles kleingeschnitten und eingefroren.
 
 
 ## Fazit
-Keine Blockpaprika mehr pflanzen. Snackpaprikas schmecken besser. 
+Keine Blockpaprika mehr pflanzen. Spitzpaprikas schmecken besser. 
