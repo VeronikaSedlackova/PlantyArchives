@@ -26,6 +26,10 @@ Direktsaat ins Hochbeet. In der hinteren Reihe zum Rankgitter habe ich Sweet Hor
 
 Man sieht schon ca 2cm von den Erbsen pflanzen. 
 
+#### <b>20. Mai</b>
+![]({{ '/experience/images/erbse/2026/20-05-2026.jpeg' | relative_url }}){: width="400" }
+
+
 
 #### <b>16. Juni</b>
 
