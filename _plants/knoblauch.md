@@ -73,9 +73,9 @@ Wenn sich 2/3 der Blätter gelb färben kann geerntet werden (bei beiden Jahresz
 TODO
 
 ### Lagern
-- Nur ganze Knollen langern
+- Nur ganze Knollen lagern
 - trockener, luftiger, schattiger Ort 
-- Knollen im Bündekn mind 2 Wochen vorher zum Trocknen aufhängen
+- Knollen im Bündel mind 2 Wochen vorher zum Trocknen aufhängen mit dem Kopf nach unten
 
 <hr>
 <br>

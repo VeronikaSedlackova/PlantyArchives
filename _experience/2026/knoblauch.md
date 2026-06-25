@@ -25,3 +25,27 @@ Wächst. Bisher nur ab und zu sehr wenig gegoßen (ca 1x die Woche, je nach Wett
 
 #### <b>3. Mai</b>
 Knoblauch entwickelt sich prächtig. Er hat jetzt leichte gelbe Blätter. Aber Oma meint das ist normal so. Ich gieße ab und zu, aber auch dann sehr wenig. 
+
+
+#### <b>20. Mai</b>
+
+![]({{ '/experience/images/knoblauch/2026/20-05-2026.jpeg' | relative_url }}){: width="400" }
+
+#### <b>16. Juni</b>
+Knoblauch kaum zu sehen, aber da. 
+
+![]({{ '/experience/images/knoblauch/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
+
+#### <b>24. Juni</b>
+Knoblauch geerntet, vermutlich etwas zu spät weil schon sehr viele Blätter vertrocknet waren. Zum Aufhängen vor die Haustür gehängt.
+
+![]({{ '/experience/images/knoblauch/2026/24-06-2026.jpeg' | relative_url }}){: width="400" }
+
+<br>
+<hr>
+<br>
+
+### Fazit
+
+- Knoblauch nicht mit Tomaten pflanzen, weil sie einen anderen Wasserbedarf haben. Ich hatte Angst, dass ich den Knoblauch übergieße. Zusätzlich gab es weniger Platz für die Tomaten, weswegen sie sehr eng stehen
+- Mehr bzw überhaupt düngen. Ich habe dieses Jahr gar nicht gedüngt
