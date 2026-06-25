@@ -45,6 +45,15 @@ Wieder in größere Töpfe umgetopft. Die Anzuchterde hab ich mit Hornspänen ve
 
 ![]({{ '/experience/images/tomate/2026/03-05-2026_umgetopft.jpeg' | relative_url }}){: width="400" }
 
+#### <b>20. Mai</b>
+In Erde eingepflanzt.
+
+![]({{ '/experience/images/knoblauch/2026/20-05-2026.jpeg' | relative_url }}){: width="400" }
+
+#### <b>16. Juni</b>
+
+![]({{ '/experience/images/knoblauch/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
+
 
 
 
