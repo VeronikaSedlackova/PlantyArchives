@@ -26,3 +26,20 @@ Direktsaat ins Hochbeet. In der hinteren Reihe zum Rankgitter habe ich Sweet Hor
 
 Man sieht schon ca 2cm von den Erbsen pflanzen. 
 
+
+#### <b>16. Juni</b>
+
+![]({{ '/experience/images/erbse/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
+
+
+#### <b>25. Juni</b>
+
+1.5 Schalen voller Erbsen geerntet. Dicke Erbsen habe ich gepullt und dünne Schotten klein geschnitten. Beides blanchiert und eingefroren.
+
+![]({{ '/experience/images/erbse/2026/25-06-2026.jpeg' | relative_url }}){: width="400" }
+
+
+
+### Fazit
+
+

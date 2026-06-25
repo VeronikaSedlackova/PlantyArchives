@@ -3,7 +3,7 @@ layout: page
 title: Erbse
 plant: Erbse
 permalink: /erbse
-image: /experience/images/confused-face.svg
+image: /plants/images/erbse/erbsen.jpeg
 ---
 
 ## __Sorte__
