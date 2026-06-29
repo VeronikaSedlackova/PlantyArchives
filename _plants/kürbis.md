@@ -17,6 +17,9 @@ Kürbissamen direkt in einen größeren Anzuchttopf vorziehen, sie mögen es nic
 ### Zeitpunkt
 TODO
 
+
+## Auspflanzen
+
 ### Erde
 TODO
 

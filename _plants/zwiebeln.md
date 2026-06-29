@@ -9,6 +9,12 @@ image: /experience/images/zwiebeln/steckzwiebeln_kiepenkerl.jpeg
 ## __Sorte__
 TODO
 
+## Ausprobieren
+
+- Robelja (dunkelrot)
+- Rijnsburger-5/Bingo (hellbraun)
+- Radar (Winterzwiebel, hellbraun)
+
 <hr>
 <br>
 
@@ -21,7 +27,10 @@ Wintersteckzwiebeln: Ende September/Anfang Oktober
 Frühlingssteckzwiebeln: Ende März/April (wenn Boden frostfrei) 
 
 ### Abstand
-10cm Abstand und zwischen den Reihen 20cm. Nicht du dicht pflanzen, um Mehltau zu verhindern. Nur so tief in die Erde drücken, dass 1/3 noch oben rausschaut
+Reihenabstand: 20cm
+In der Reihe: 5cm
+
+Nicht du dicht pflanzen, um Mehltau zu verhindern. Nur so tief in die Erde drücken, dass 1/3 noch oben rausschaut
 
 ### Erde
 Wintersteckzwiebeln: Vor dem Stecken eine gute Schicht Kompost oben verteilen. Tipp: Nur Zwiebeln, die vor dem Wintereinbruch bereits bleistiftdicke Blätter entwickelt haben, sind auch ausreichend frosthart, um den Winter zu überstehen
@@ -66,12 +75,19 @@ Wintersteckzwiebeln: Mai
 
 Frühlingssteckzwiebeln: August 
 
-Wenn Blätter eintrocknen & 2/3 der Blätter einknicken.
+Kann eig immer geerntet werden, je nach Bedarf. Für die Lagerung wenn 2/3 der Blätter umgeknickt und gelb sind 
+
+Àußerste Schicht entfernen bei der Ernte. Dann 2-5 Pflanzen zu einem Bündel zusammenbinden und trocknen lassen (luftig, nicht nass oder feucht). Sobald getrocknen ist, in z.B. Kisten an einen kühlen dunklen Ort lagern.
+
 
 ### Tipps
 - Am Besten morgens stecken. Frühs feuchter Boden von Tau dadurch Wurzelbildung einfacher. Nachtfrost kann Pflanzen stressen
 - Einige Tage vor Ernte gar nicht mehr gießen (Je trockener desto länger haltbar)\
 - Zwiebeln vor dem Stecken über Nacht in zimmerwarmem Wasser einweichen, dann bilden sie früher Wurzeln aus und fassen im Beet schneller Fuß
+
+
+## Vermehrung
+Sie können entweder über Steckzwiebeln (geerntete Zwiebeln) oder Samen vermehrt werden. Für die Samengewinnung ein paar Zwiebeln blühen lassen. Aus der Blütte bildet sich eine Samenkapsel. Diese kann man im Frühjahr vorziehen bis daraus haselnussgroße Stecklinge werden (diese werden dann einfach klein geerntet)
 
 ### Tageszeit
 TODO

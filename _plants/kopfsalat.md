@@ -15,6 +15,8 @@ __Dynamite__
 
 ## __Direktsaat__
 
+Lichtkeimer
+
 ### Saatmenge
 2-3 Saatkörner
 
@@ -61,6 +63,9 @@ Halbschattig bis sonnig
 
 ## __Ernte__
 Nach 5-7 Wochen (ab Jungpflanze)
+
+## Vermehren 
+Pflanze in die Blüte gehen lassen. Von unten immer wieder mal die welkenden Blätter entfernen. Die Samen sind etwa 12-24 Tage nach der Blüte reif.
 
 
 <hr>

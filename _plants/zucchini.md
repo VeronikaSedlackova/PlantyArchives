@@ -16,6 +16,8 @@ image: experience/images/zucchini/08-06-2023.jpeg
 ## __Vorkultur__
 Start: Mittel April - Mitte Mai (30 Tage vor dem Eisheiligen)
 
+Direkt in einem größeren Topf vorziehen, da sie empfindlich auf pikieren reagieren.
+
 ### Saattiefe
 Samen hochkant (nicht flach!) einzeln in Anzuchttöpfe 2cm tief aussäen.
 <hr>

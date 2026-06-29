@@ -23,6 +23,9 @@ image: /experience/images/gurke/02-06-2023_erste_fruechte.jpeg
 Ab April können Gurken drinnen vorkultiviert werden. 
 Ab Ende April können sie draußen abgehärtet werden (bei <6° reinholen)
 
+Direkt in einem größeren Topf vorziehen, da sie empfindlich auf pikieren reagieren.
+
+
 ### Saattiefe
 - Samen hochkant in kleine Anzuchttöpfe  
 - 1,5cm mit Erde bedecken 

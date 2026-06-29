@@ -17,6 +17,8 @@ TODO
 ## __Vorkultur__
 Erde vorher anfeuchten und Samen auf Erde legen (Lichtkeimer). Ab März vorziehen im Haus.
 
+2 Wochen nach dem Pikieren Paprikas stark verdünnt düngen.
+
 ### Saattiefe
 TODO
 <hr>

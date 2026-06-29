@@ -27,6 +27,8 @@ image: experience/images/tomate/21-07-2023_wachstum.jpeg
 ## __Vorkultur__
 Erde vorher anfeuchten und Samen auf Erde legen (Lichtkeimer).
 
+2 Wochen nach dem Pikieren Paprikas stark verdünnt düngen. 
+
 Tomaten sollten eine Höhe von ca 30cm erreicht haben, um ins Beet eingepflanzt zu werden
 
 <hr>
