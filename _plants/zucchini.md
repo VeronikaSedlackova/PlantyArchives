@@ -48,7 +48,7 @@ sonnig
 | Mais          | Tomate             |
 | Bohnen        | Gurke              |
 | Zwiebeln      | Kartoffeln         |
-| Mangold       |                    | 
+| Mangold       | Kürbis             | 
 | Erbsen        |                    | 
 
 

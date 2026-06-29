@@ -57,8 +57,14 @@ windgeschützt und sonnig
 | ------------- |:------------------:| 
 | Basilikum     | Tomaten            |
 | Dill          | Kürbis             |
-|               | Zucchini           |
-
+| Bohnen        | Zucchini           |
+| Kohl          | Radieschen         |
+| Zwiebeln      | Zucchini           |
+| Knoblauch     ||
+| Mais          ||
+| Paprika       ||
+| Sellerie      ||
+| Spinat        ||
 
 <hr>
 

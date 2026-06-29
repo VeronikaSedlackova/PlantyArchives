@@ -48,6 +48,8 @@ Sonnig
 | Ringelblume & Tagetes (Nematoden)                      | Aubergine          |
 | Thymian & Lavendel (Ameisen)                           | Fenchel            |
 | Möhren                                                 | Erbsen             |
+| Tomaten                                                ||
+| Kohl                                                   ||
 
 <hr>
 

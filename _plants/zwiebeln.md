@@ -34,11 +34,14 @@ Sonnig, luftigen Platz, nicht dunkle windstille Ecke
 
 ### Nachbarn
 
-| gute Nachbarn                                          | schlechte Nachbarn | 
-| ------------------------------------------------------ |:------------------:| 
-| Möhren                                                 | Bohnen             |
-| Rote Beete                                             | Kartoffeln         |
-| Salat                                                  |                    |
+| gute Nachbarn         | schlechte Nachbarn | 
+| ----------------------|:------------------:| 
+| Möhren                | Bohnen             |
+| Rote Beete            | Kartoffeln         |
+| Salat                 | Kohl               |
+| Kürbis                | Erbsen             |
+| Tomaten               | Lauch              |
+| Zucchini              ||
 
 <hr>
 

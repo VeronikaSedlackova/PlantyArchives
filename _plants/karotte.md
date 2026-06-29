@@ -33,8 +33,13 @@ Mittelzehrer
 Sonnig & Windig
 
 ### Nachbarn
-Gute Nachbarn: Zwiebeln 
 
+| gute Nachbarn | schlechte Nachbarn | 
+| ------------- |:------------------:| 
+| Zwiebeln      | Sellerie           |
+| Lauchgewächse ||
+| Erbsen        ||
+| Radiesschen   ||
 
 <hr>
 

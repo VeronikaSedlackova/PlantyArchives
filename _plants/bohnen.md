@@ -53,9 +53,12 @@ Buschbohnen:
 | Gurken                | Knoblauch          |
 | Tomaten               | Zwiebeln           |
 | Salat                 | Fenchel            |
-| Sellerie              | Lauch.             |
-| Bohnenkraut (sehr gut)|                    |
-
+| Sellerie              | Lauch              |
+| Bohnenkraut (sehr gut)||
+| Kohl                  ||
+| Kürbis                ||
+| Spargel               ||
+| Rhabarber             ||
 <hr>
 
 ## __Gießen__

@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Fenchel
-permalink: /fenchel
-plant: Fenchel
+title: Lauch
+permalink: /lauch
+plant: Lauch
 image: /experience/images/confused-face.svg
 ---
-
-
 
 ## __Sorte__
 TODO
@@ -29,12 +27,14 @@ TODO
 
 ### Nachbarn
 
-| gute Nachbarn        | schlechte Nachbarn | 
-| -------------------- |:------------------:| 
-| Gurken               | Bohnen             |
-| Erbsen               | Tomaten            |
-|                      | Paprika            |
-|                      | Kohlrabi           |
+| gute Nachbarn | schlechte Nachbarn | 
+| ------------- |:------------------:| 
+| Karotten      | Rote Beete         |
+| Schwarzwurzel | Bohnen             |
+| Kohlrabi      | Erbsen             |
+| Tomaten       | Zwiebeln           |
+| Pastinaken    | Knoblauch          |
+
 
 <hr>
 
@@ -64,8 +64,6 @@ TODO
 
 <hr>
 <br>
-
-
 
 ## __Erfahrungsbericht__
 

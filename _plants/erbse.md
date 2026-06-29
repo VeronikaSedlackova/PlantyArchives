@@ -63,10 +63,11 @@ Sonnig bis halbschattigen luftigen Standort
 
 | gute Nachbarn | schlechte Nachbarn | 
 | ------------- |:------------------:| 
-| TODO     | TODO            |
-| TODO          | TODO             |
-|               | TODO           |
-
+| Kohl          | Zwiebeln           |
+| Rhababer      | Lauchgewächse      |
+| Spargel       | Bohnen             |
+| Karotten      | Kartoffeln         |
+|               | Tomaten            |
 
 <hr>
 

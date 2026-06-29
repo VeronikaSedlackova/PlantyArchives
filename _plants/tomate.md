@@ -59,7 +59,7 @@ Starkzehrer sind generell schlechte Nachbarn, da es sonst einen Konkurrenzkampf 
 | gute Nachbarn                                          | schlechte Nachbarn | 
 | ------------------------------------------------------ |:------------------:| 
 | Radieschen                                             | Gurken             |
-| Kohlrabi                                               | Kartoffeln         |
+| Kohl                                                   | Kartoffeln         |
 | Knoblauch (hält Weiße Fliegen & Wühlmäuse fern)        | Erbsen             |
 | Salat (Lactuca sativa)                                 | Fenchel            |
 | Petersilie (hält Blattläuse fern)                      | Rotkohl            |
@@ -68,6 +68,9 @@ Starkzehrer sind generell schlechte Nachbarn, da es sonst einen Konkurrenzkampf 
 | Zwiebel (hält Weiße Fliegen & Wühlmäuse fern)          |                    |
 | Lauch (hält Weiße Fliegen & Wühlmäuse fern)            |                    |
 | Ringelblume (hält Nematoden fern & lockt Bestäuber an) |                    |
+| Sellerie                                               ||
+| Bohnen                                                 ||
+| Kamille                                                ||
 
 
 

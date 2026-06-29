@@ -42,6 +42,15 @@ TODO
 ### Standort
 sonnig
 
+### Nachbarn
+
+| gute Nachbarn | schlechte Nachbarn | 
+| ------------- |:------------------:| 
+| Bohnen        | Aubergine          |
+| Kohlrabi      | Tomaten            |
+| Mais          | Erbsen             |
+|               | Sellerie           |
+
 ### Abstand
 Zwischen den Pflanzen empfiehlt sich ein Abstand von 25 bis 40 cm, zwischen den Reihen 60 bis 75 cm.
 
