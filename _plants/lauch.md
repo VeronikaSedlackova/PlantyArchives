@@ -11,14 +11,12 @@ Liliengewächse
 
 ## __Sorte__
 
-| TODO    | 
+| Porree Avano    | 
 | -----------------------  | 
-| TODO |
-| TODO | 
-| TODO | 
-| TODO | 
-| TODO | 
-
+| Bingenheimer Saatgut |
+| Winterhart | 
+| Bewertung TODO|
+ 
 ## __Ausprobieren__
 
 - Hilari (Sommerlauch)
@@ -111,3 +109,4 @@ TODO
 
 ## __Erfahrungsbericht__
 
+- [2026]({% link _experience/2026/lauch.md %})

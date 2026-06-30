@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Rotkohl
-permalink: /rotkohl
-plant: Rotkohl
+title: Rote Beete
+permalink: /roteBeete
+plant: Rote Beete
 image: /experience/images/confused-face.svg
 ---
 
 ## __Sorte__
 
-| Rotkohl Kalibos    | 
+| Rote Rüben Robuschka    | 
 | -----------------------  | 
 | Bingenheimer Saatgut |
-| G847 P, 22263 ST Bio | 
+| lagerfähig, für Rohkost geeignet | 
 | Bewertung TODO|

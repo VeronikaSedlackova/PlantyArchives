@@ -8,7 +8,11 @@ image: experience/images/karotte/18-10-2023_OneAndOnly_karottenernte.jpeg
 
 
 ## __Sorte__
-TODO
+| Möhre Robila    | 
+| -----------------------  | 
+| Bingenheimer Saatgut |
+| 5m Saatband | 
+| Bewertung TODO|
 
 <hr>
 

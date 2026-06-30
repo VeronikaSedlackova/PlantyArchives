@@ -4,23 +4,38 @@ title: Fruchtfolge
 permalink: /roadmap/fruchtfolge
 ---
 
-## schmales Hochbeet rechts - Schule
+## schmales Hochbeet links mit linker Seite (1) - Schule
 - 2026: 
-    - März: Karotten 
-    - Mai: Paprika
+    - März: Karotten, Zwiebeln
+    - Mai: Lauch
 - 2027: 
-    - Mai: Zucchini, Buschbohnen
+    - ?
+
+ ## schmales Hochbeet links mit rechter Seite (2) - Schule
+- 2026:  
+    - Mai: Paprika, Frühlingszwiebeln, Basilikum
+    - Juni: Karotten
+- 2027: 
+    - ?
 
 
-## schmales Hochbeet links - Schule
+## schmales Hochbeet links mit linker Seite (3) - Schule
 - 2026: 
     - April: Zwiebeln
-    - Mai: Gurke
+    - Mai: Salat
+- 2027: ?
+    - 
+- 2028: ?
+    - 
+
+## schmales Hochbeet links mit rechter Seite (4) - Schule
+- 2026: 
+    - April: Rote Rüben, Zwiebeln
+    - Mai: Gurke, Basilikum
 - 2027:
-    - März: Erbsen, Möhren
-    - Juni: Rotkohl
+    - ?
 - 2028: 
-    - Mai: Paprika
+    - ?
 
 ## großes Hochbeet mit Dach - Schule
 2027: Tomate
@@ -29,8 +44,9 @@ permalink: /roadmap/fruchtfolge
 ## linkes Hochbeet Obi
 - 2025: Gurke, Erbsen, Karotten, Salat
 - 2026: 
-    - März: Erbse, Möhren
-    - Juni: Brokkoli
+    - März: Erbse, Karotten
+    - Mai: Rotkohl
+    - Juni: Erbsen, Karotten, Pastinaken
 - 2027: 
     - Mai: Paprika
     - Herbst 2026: Knobi
@@ -39,7 +55,9 @@ permalink: /roadmap/fruchtfolge
 
 ## rechtes Hochbeet Obi
 - 2025: Paprika, Zucchini, Zwiebeln
-- 2026: Bohnen
+- 2026: 
+    - Mai: Bohnen (nicht geklappt wegen Läusen)
+    - Juni: Brokkoli, Lauch, Stangenbohnen
 - 2027: Karotten
 - 2028: Gurke, Knoblauch
 
@@ -51,16 +69,22 @@ permalink: /roadmap/fruchtfolge
 ## Vor dem Kompost
 - 2027: Mais, Stangenbohnen, Sweet Dumpling/anderer Kürbis
 
+## Blumenbeet
+- Juni: Zucchini
+
+## Kräuterbeet
+- Mai: Rotkohl
+- Juni: Lauch, Brokkoli, Salat
 
 
-[x] Kohl
-[x] Tomate
-[x] Bohnen
-[x] Gurke
-[x] Zucchini
-[x] zwiebeln
-[x] knobi
-[x] karotten
-[x] erbsen
-[x] kurbis 
-[x] paprika
+[] Kohl
+[] Tomate
+[] Bohnen
+[] Gurke
+[] Zucchini
+[] zwiebeln
+[] knobi
+[] karotten
+[] erbsen
+[] kurbis 
+[] paprika

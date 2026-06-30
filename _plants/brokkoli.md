@@ -8,7 +8,12 @@ image: /experience/images/confused-face.svg
 
 
 ## __Sorte__
-TODO
+
+| Brokkoli Calinaro    | 
+| -----------------------  | 
+| Bingenheimer Saatgut |
+| Für Herbstanbau | 
+| Bewertung TODO|
 
 <hr>
  
