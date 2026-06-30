@@ -11,6 +11,10 @@ image: experience/images/zucchini/08-06-2023.jpeg
 - Diamant (noch nicht ausprobiert)
 - Golden Delight (noch nicht ausprobiert)
 
+## Ausprobieren
+- Zucchini Cocozelle von Tripolis
+- Zuboda
+
 <hr>
 
 ## __Vorkultur__
@@ -18,9 +22,15 @@ Start: Mittel April - Mitte Mai (30 Tage vor dem Eisheiligen)
 
 Direkt in einem größeren Topf vorziehen, da sie empfindlich auf pikieren reagieren.
 
+### Keimer
+Dunkel
+
 ### Saattiefe
 Samen hochkant (nicht flach!) einzeln in Anzuchttöpfe 2cm tief aussäen.
 <hr>
+
+## Staffelung
+Am besten Zucchinis gestaffelt vorziehen. Da sie meistens von Mehltau befallen werden und Jungpflanzen das besser wegstecken. Dazu am Besten die erste Mitte April vorziehen und dann Mitte Juni.
 
 ## __Auspflanzen__
 1. Pflanze ohne Topf in Wasser bis keine Luftblasen mehr aufsteigen
@@ -108,6 +118,11 @@ _Tipp: Manuelle Bestäubung_
 
 
 <hr>
+
+## Vermehrung
+Zucchini ausreifen lassen zu Riesen: Mit dem Fingernagel an der Schale kratzen, wenn das nicht mehr geht, sind sie bereit zur Samenernte. Allerdings Gefahr der Kreuzung mit Kürbis! Schmecken die Zucchini im nächsten Jahr bitter, hat es nicht geklappt.
+
+Samen sind 4-5 Jahre lagerfähig.
 
 ## __Ernte__
 Nach 6-8 Wochen nach dem Auspflanzen kann geerntet werden. Zucchini rausdrehen oder mit einem scharfen Messer 1-2 cm nach der Spitze abschneiden.

@@ -11,28 +11,28 @@ image: /experience/images/confused-face.svg
 Es wird typischerweise zwischen Buschbohnen (keine Rankhilfe) und Stangenbohnen (Rankhilfe) unterschieden.
 
 <hr>
-
-## __Vorkultur__
-Etwa 3-4 Wochen vor der Pflanzung mit dem Vorziehen beginnen. 
-
-Samen über Nacht in lauwarmes Wasser geben. 
-
-4-5 Samen in einen kleinen Topf mit Erde geben und ihn gut während der Vorkultur feucht halten. Bei 20 Grad vorziehen. Vor dem Auspflanzen muss abgehärtet werden.
-
-### Saattiefe
-Etwa 2cm tief in die Anzuchterde
-
-Bei Rankbohnen direkt einen Stab mit in den Topf stecken 
-<hr>
+<br>
 
 ## __Direktsaat__
-__Stangenbohnen__: 6-8 Bohnen um die Rankhilfe kreisförmig aussäen.
+Samen über Nacht in lauwarmes Wasser geben. Hier eignet sich eine gestaffelte Aussaat. Im Mai und Juli
 
-### Auspflanzung
-Nach dem Ausheiligen
+Stangenbohnen: 6-8 Bohnen um die Rankhilfe kreisförmig aussäen.
+
+### Saattiefe
+Etwa 2cm tief
+
+Bei Stangenbohnen direkt einen Stab mit in den Topf stecken 
+
+### Zeitpunkt
+Nach dem Ausheiligen.
 
 ### Abstand
-TODO
+
+#### Buschbohnen
+In der Reihe: ca 4cm & Reihenabstand 20cm
+
+#### Rankbohnen
+6-8 Bohnen um einen Stab pflanzen
 
 ### Erde
 TODO
@@ -42,6 +42,9 @@ Schwachzehrer
 
 ### Standort
 Buschbohnen: halbsonnig-sonnig
+
+### Düngung
+Keine
 
 ### Nachbarn
 
@@ -66,6 +69,7 @@ TODO
 <hr>
 
 ## __Pflege__
+Nach der 1. Haupternte die Pflanzen im unteren Drittel entblättern. Das bringt die Pflanze dazu, unten noch einmal Früchte zu bilden. 
 
 ### Düngen
 Nicht notwendig. Binden Stickstoff aus der Luft. 
@@ -74,6 +78,15 @@ Nicht notwendig. Binden Stickstoff aus der Luft.
 
 ## __Ernte__
 Etwa 2-3 Monate nach Aussat. Ob erntereif, Bohne einfach durchbrechen und schauen ob die Bohne glatt durchbricht und die Bruchstelle grün und saftig ist. Samen sollten nicht >1cm sein und sich nicht sichtbar in der Schote abzeichnen.
+
+Buschbohnen: Ernten sobald Schoten Kerne ausgebildet haben, sie sollten aber noch zart sein. 
+
+
+## Vermehrung
+Stangenbohnen: In der Hülse an der Pflanze trocknen lassen und dann dunkel und trocken lagern. 
+
+
+Bohnensamen sind 2-3 Jahre keimfähig
 
 ### Merkmale
 Einjähriges Bohnenkraut, zwischen den Buschbohnen Reihen ausgesät, wehrt Läuse ab und bringt das gewisse Etwas in Ihre Bohnengerichte (z.B. Bohnenkraut 'Saturn' von Bingenheimer Saatgut)

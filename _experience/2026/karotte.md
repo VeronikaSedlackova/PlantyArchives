@@ -19,7 +19,8 @@ Direktsaat ins Hochbeet. Ich habe oben drauf ein Karton gelegt und mit Steinen b
 
 
 #### <b>3. Mai</b>
-
 Man sieht etwa 1cm Kartottengrün. Die Abdeckung habe ich abgenommen. 
 
+#### <b>30. Juni</b>
+Für die Winterernte habe ich nochmal 3 Reihen Karotten ausgesät 
 

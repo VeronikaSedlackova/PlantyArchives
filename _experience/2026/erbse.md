@@ -38,12 +38,13 @@ Man sieht schon ca 2cm von den Erbsen pflanzen.
 
 #### <b>25. Juni</b>
 
-1.5 Schalen voller Erbsen geerntet. Dicke Erbsen habe ich gepullt und dünne Schotten klein geschnitten. Beides blanchiert und eingefroren.
+1.5 Schalen voller Erbsen geerntet. Dickere Erbsen habe ich gepullt und dünne Schotten klein geschnitten. Beides blanchiert und eingefroren.
 
 ![]({{ '/experience/images/erbse/2026/25-06-2026.jpeg' | relative_url }}){: width="400" }
 
-
+#### <b>30. Juni</b>
+Alte Erbsen entfernt aus dem Hochbeet, da ihre besten Zeiten vorbei waren. Für die 2. Erbsenaussaat Zuckererbse Sweet Horizon 24h in Wasser eingeweicht. Dann ca 30 Erbsensamen in einer Reihe gepflanzt. 
 
 ### Fazit
-
+- 1. Erbsenaussaat hat etwa 2.5 Schalen Erbsen eingebracht. 
 
