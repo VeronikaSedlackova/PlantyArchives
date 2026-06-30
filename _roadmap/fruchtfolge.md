@@ -56,7 +56,7 @@ permalink: /roadmap/fruchtfolge
 ## rechtes Hochbeet Obi
 - 2025: Paprika, Zucchini, Zwiebeln
 - 2026: 
-    - Mai: Bohnen (nicht geklappt wegen Läusen)
+    - Mai: Bohnen (nicht geklappt wegen Läusen), Gurke
     - Juni: Brokkoli, Lauch, Stangenbohnen
 - 2027: Karotten
 - 2028: Gurke, Knoblauch
@@ -65,6 +65,10 @@ permalink: /roadmap/fruchtfolge
 - 2025: Tomaten 
 - 2026: Tomaten, Basilikum, Knoblauch
 - 2027: Gurke, Zwiebeln 
+
+## Kartoffel Hochbeet
+- 2026:
+    - Mai: Kürbis
 
 ## Vor dem Kompost
 - 2027: Mais, Stangenbohnen, Sweet Dumpling/anderer Kürbis
