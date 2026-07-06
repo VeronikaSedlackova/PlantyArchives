@@ -6,6 +6,15 @@ permalink: /kartoffel
 image: /experience/images/kartoffeln/Merida_Sorte.jpeg
 ---
 
+## __Ausprobieren__
+
+- Granola (lagergeeignet, viel Ertrag)
+- Cara (rot-gefleckt)
+- Violetta (violett gemasert)
+- Rosa Tannenzapfen(rosarote Schale, festkochend, spätreifend)
+- Roter Erstling (Frühkartoffeln)
+
+
 ## __Kauf von Kartoffeln__
 Man kann entweder Saatkartoffeln kaufen oder Bio-Karoffeln zum Keimen verwenden. Darauf ist zu achten, dass die Kartoffeln kleine Knospen statt lange "Wurzeln" bilden. Die lange "Wurzeln" entstehen wenn die Kartoffeln in einem dunklen, kalten und trockenen Ort vorgekeimt werden. Werden sie an einem hellen und warmen Ort vorgekeimt sehen sie später so aus:
 
@@ -15,12 +24,12 @@ Man kann entweder Saatkartoffeln kaufen oder Bio-Karoffeln zum Keimen verwenden.
 ## __Selber Vorkeimen__
 Etwa vier Wochen vor dem Pflanztermin empfiehlt sich das Vorkeimen der Pflanzkartoffeln. Durch das Antreiben der Knollen wird ein Vegetationsvorsprung erzielt, der die Pflanzen widerstandsfähiger 
 
-1. Bio-Kartoffeln in einem Bio-Markt kaufen (gespritzte Kartoffeln keimen nicht)<br>
+1. Bio-Kartoffeln in einem Bio-Markt kaufen (gespritzte Kartoffeln keimen nicht) oder Saatkartoffeln kaufen<br>
     &rarr; darauf achten das genug "Augen" vorhanden sind<br>
     &rarr; keine Verletzungen (z.B. Schnitte) das kann Krankheiten später hervorbringen
 2. Kartoffeln ggfs von Erde befreien
-3. In Eierschalen legen & an einem hellen und warmen Ort platzieren (20-23°)
-4. Nach etwa 14 Tagen sollten Augen gebildet sein
+3. In Eierschalen legen & an einem hellen und warmen Ort platzieren (10-12°), kein direktes Sonnenlicht
+4. Nach etwa 14 Tagen sollten sich 2cm lange Triebe gebildet haben
 
 
 ### Auswahl gut vorgekeimter Kartoffeln
@@ -40,7 +49,7 @@ Frühkartoffeln können ab Mitte März gepflanzt werden. Mittelfrühe und späte
 TODO
 
 ### Standort
-sonnig
+sonnig und windoffen
 
 ### Nachbarn
 
@@ -49,15 +58,19 @@ sonnig
 | Bohnen        | Aubergine          |
 | Kohlrabi      | Tomaten            |
 | Mais          | Erbsen             |
-|               | Sellerie           |
+| Pfefferminze  | Sellerie           |
 
 ### Abstand
-Zwischen den Pflanzen empfiehlt sich ein Abstand von 25 bis 40 cm, zwischen den Reihen 60 bis 75 cm.
+Reihenabstand: 60 bis 75 cm
+In der Reihe: 30cm
+
+### Pflanztiefe 
+10cm 
 
 ### Pflanzung in Kübeln
 - Pro Pflanzkartoffel rechnet man etwa 10 Liter Erde. 
 - Unbedingt Löcher im Boden für den Wasserablauf einplanen, um Staunässe zu vermeiden, und am besten eine Drainageschicht aus z.B. Kies mit einarbeiten.
-- Den Topf zunächst nur halb mit einer nährstoffreichen Pflanzerde füllen und eine vorgekeimte Knolle einsetzen. Wenn das Laub etwa 15 cm hoch ist, nach und nach Erde auffüllen
+- Den Topf zunächst nur halb mit einer nährstoffreichen Pflanzerde füllen und eine vorgekeimte Knolle mit einer Hand Hornspäne einsetzen, auf die Erdoberfläche eine Schicht Urgesteinsmehl einarbeiten. Wenn das Laub etwa 15 cm hoch ist, nach und nach Erde auffüllen
 - Kartoffeln im Topf benötigen viel Wasser und Nährstoffe. Die Erde sollte nie austrocknen und im Laufe der Wachstumsperiode immer mal wieder mit einem organischen Dünger nachgedüngt werden
 
 <hr>
@@ -82,20 +95,23 @@ Wenn das Kartoffelgrün 15cm hoch gewachsen ist, kann 10cm Erde nachgehäuft wer
 Sie tritt vor allem bei feuchter Witterung und gegen Ende der Vegetationszeit auf. Erste Anzeichen sind braune Flecken auf den Blättern, die sich rasch ausbreiten. Eine wirksame Vorbeugung besteht im Vorkeimen der Knollen, dem Einhalten ausreichender Pflanzabstände und einem luftigen Standort, damit die Blätter nach Regen schnell abtrocknen können.
 
 ### Kartoffelkäfer
-Weitere Schaderreger wie der Kartoffelkäfer treten vor allem in warmen, trockenen Sommern auf. Hier hilft das regelmäßige Absammeln der Käfer und Larven sowie das Stärken der Pflanzen mit Brennnesseljauche.
+Weitere Schaderreger wie der Kartoffelkäfer treten vor allem in warmen, trockenen Sommern auf. Hier hilft das regelmäßige Absammeln der Käfer und Larven sowie das Stärken der Pflanzen mit Brennnesseljauche. Eine dicke Mulchschicht kann auch Abhilfe schaffen und das Besprühen mit Neemöl
 
 
 
 <hr>
 
 ## __Ernte__
-Wenn das Laub anfängt zu welken und braun wird. Es soll bei trocknen Wetter geerntet werden.
+Wenn das Laub anfängt zu welken und braun wird. Es soll bei trocknen Wetter geerntet werden. Ist die Schale nicht mehr papierartig sondern fest ist der beste Zeitpunkt erreicht.
 
-Nach der Ernte die Knollen zunächst einige Stunden abtrocknen lassen, bevor sie eingelagert werden. Zum Lagern eignen sich nur unverletzte, vollständig ausgereifte Kartoffeln. Ideal ist ein dunkler, kühler (4–8 °C) und luftiger Keller mit hoher Luftfeuchtigkeit. Zu niedrige Temperaturen unter 4 °C führen zur Umwandlung von Stärke in Zucker – die Knollen schmecken dann süß.
+Nach der Ernte die Knollen 2 Tage in der Sonne lager und dabei wenden, das tötet mögliche Voren. Zum Lagern eignen sich nur unverletzte, vollständig ausgereifte Kartoffeln. Ideal ist ein dunkler, kühler (4–8 °C) und luftiger Keller mit hoher Luftfeuchtigkeit. Zu niedrige Temperaturen unter 4 °C führen zur Umwandlung von Stärke in Zucker – die Knollen schmecken dann süß.
 
 **Achtung:** Wenn die Kartoffelhaut der Sonne ausgesetzt wird (z.B. schlecht eingegraben, schlecht gelagert), kann sie später Giftstoffe (Solanin) enthalten. 
 
 ### Frühkartoffeln
+
+Frühkartoffeln im April und Mai mit einem Gärtnerflies abdecken damit sie im Juli geerntet werden können und eine 2. Charge Frühkartoffeln am gleichen Ort gepflanzt werden kann. 
+
 Frühkartoffeln kommen meist frisch auf den Tisch, sie können gleich nach der Blüte nach Bedarf geerntet werden. Sie sind dann zwar noch nicht ganz ausgewachsen, dafür aber umso zarter und aromatischer.
 
 

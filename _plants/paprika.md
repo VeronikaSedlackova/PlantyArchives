@@ -6,7 +6,6 @@ permalink: /paprika
 image: /experience/images/paprika/14-10-2023_paprika.jpeg
 ---
 
-
 Nachtschattengewächse
 
 ## __Sorte__
@@ -14,17 +13,25 @@ TODO
 
 <hr>
 
+## __Ausprobieren__
+
+- Rote Augsburger 
+- Neusiedler Ideal
+- Yolo Wonder 
+
+<hr>
+
 ## __Vorkultur__
-Erde vorher anfeuchten und Samen auf Erde legen (Lichtkeimer). Ab März vorziehen im Haus.
+Erde vorher anfeuchten und Samen auf Erde legen (Lichtkeimer). Ab Februar im Haus vorziehen.
 
 2 Wochen nach dem Pikieren Paprikas stark verdünnt düngen.
 
 ### Saattiefe
-TODO
+1cm
 <hr>
 
 ## __Auspflanzen__
-Pflanze im Wasserband geben bis keine Luftblasen mehr aufsteigen. Jungpflanze tief einpflanzen. Am Besten beim Einpflanen 1-1.2m langen Stab (z.B. aus Bastfasern) 30cm in die Erde neben Paprika stecken.
+Pflanze im Wasserband geben bis keine Luftblasen mehr aufsteigen. Jungpflanze tief in ein Loch mit Hornspänen einpflanzen. Am Besten beim Einpflanen 1-1.2m langen Stab (z.B. aus Bastfasern) 30cm in die Erde neben Paprika stecken.
 
 ### Zeitpunkt
 Nach Eisheiligen
@@ -39,7 +46,7 @@ TODO
 Stark
 
 ### Standort
-Sonnig
+Sehr sonnig
 
 ### Nachbarn
 
@@ -61,14 +68,22 @@ Täglich mäßig nicht kräftig
 <hr>
 
 ## __Pflege__
+Grüne Paprika sind noch nicht reif, deswegen vertragen sie manche Leute nicht. Man kann sie so aber trd essen. 
 
 ### Düngen
 TODO
 
 <hr>
 
+## __Vermehrung__
+Samen ausscharben und auf einem Backpapier trocknen lassen. 
+
+Samen sind 3-4 Jahr keimfähig.
+
+<hr>
+
 ## __Ernte__
-August - Oktober
+Etwa 6-10 Wochen nach dem einpflanzen und je nach gewünwschten Farbe der Frucht.
 
 ### Merkmale
 Terminalknospe enternen (Königsblüte = 1. Blüte die entsteht) für höheren Ertrag

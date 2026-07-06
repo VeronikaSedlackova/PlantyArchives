@@ -130,9 +130,6 @@ Nach dem stutzen die Wassermenge in den ersten Tagen reduzieren, weil sonst die 
 ### Düngen
 TODO
 
-### Rankhilfe
-TODO
-
 <hr>
 
 ## Schädlinge

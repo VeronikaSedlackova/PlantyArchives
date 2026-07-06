@@ -8,11 +8,33 @@ permalink: /roadmap/2027
 ## Voranzucht
 
 __Januar:__
-- Ingwer
+- Ingwer vorziehen
 
 __Februar__:
-- Möhren
-- Sommerlauch 
+- Möhren säen
+- Sommerlauch vorziehen
+- Paprika vorziehen
+- Azur Star Kohlrabi vorziehen
 
 __März__:
-- Tomaten
+- Tomaten vorziehen
+- Kartoffeln vorkeimen
+- Azur Star auspflanzen
+
+__April__:
+- Kartoffeln auspflanzen
+- Kohlrabi vorziehen (ggfs andere Sorte)
+
+
+__Mai__:
+- Grünkohl vorziehen
+- Kohlrabi auspflanzen
+
+__Juni__:
+
+__Juli__:
+- Kohlrabi vorziehen (ggfs andere Sorte)
+
+
+__August__:
+- Kohlrabi auspflanzen
