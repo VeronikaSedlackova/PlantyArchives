@@ -26,8 +26,8 @@ image: /plants/images/erbse/erbsen.jpeg
 | Pal- oder Schalerbsen | Markerbsen                | Zuckererbsen |
 | --------------------- | ------------------------  | ------------- |
 | Große, runde Körner die aus Hulsen gepult werden  | Getrocknete Erbsen haben eine schrumpelige Haut | Bilden keine Innenhaut |
-| Getrocknete Palerbsen erkennt man immer an der glatten, gelben oder grünen Samenhaut | Solange sie jung sind schmecken sie süß und zart | Können mitsamt Jung geerntet können sie mit ihrer Hülse gegessen werden |
-
+| Getrocknete Palerbsen erkennt man immer an der glatten, gelben oder grünen Samenhaut | Solange sie jung sind schmecken sie süß und zart | Jung geerntet können sie mit ihrer Hülse gegessen werden |
+|| Eignen sich besonders gut zum Einkochen||
 
 <hr>
 
@@ -42,7 +42,7 @@ Man kann Erbsen auch im Topf vorziehen, bei z.B. Schneckenbefall. Dafür 2 Woche
 
 ### Saattiefe
 
-- 2-3cm tief einpflanzen
+- 4-6cm tief einpflanzen
 - 3-5cm in der Reihe
 - Reihenabstand: 30-40cm
 
@@ -67,7 +67,8 @@ Sonnig bis halbschattigen luftigen Standort
 | Rhababer      | Lauchgewächse      |
 | Spargel       | Bohnen             |
 | Karotten      | Kartoffeln         |
-|               | Tomaten            |
+| Salat         | Tomaten            |
+| Rettich ||
 
 <hr>
 
@@ -78,8 +79,18 @@ TODO
 
 ## __Pflege__
 
+### Falscher Mehltau
+4 Knoblauchzehen mit heißen Wasser übergießen und abgekühlt auf die Pflanzen sprühen.
+
 ### Düngen
-TODO
+Nicht düngen
+
+<hr>
+
+## __Vermehrung__
+Erbsen solange an der Pflanze hängen lassen, bis die Schoten ausgereift und getrocknet sind.
+
+Erbsen sind 4-6 Jahr keimfähig.
 
 <hr>
 

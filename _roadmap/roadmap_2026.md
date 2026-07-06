@@ -66,8 +66,6 @@ __März:__
 - [x] Paprika aus Samen vom letzten Jahr vorziehen 
 - [x] Phazelie vorziehen
 - [x] Bohnenkraut vorziehen
-- [ ] Beide Erbsen im Hochbeet säen -> noch zu kalt lieber im April
-- [ ] Möhren säen -> noch zu kalt lieber im April
 
 __April:__
 - [x] Frühkartoffeln Glorietta in Kübeln pflanzen (Geht auch ab März, wenn kein starker Frost mehr & Bodentemperatur bei 7-8 Grad, sonst Mitte April)
@@ -86,35 +84,30 @@ __April:__
 - [x] Feuerbohne vorziehen
 - [x] Buschbohne Purple Teepee vorziehen
 - [x] Buschbohne Helios vorziehen
-- [ ] Rotkohl Kalibos vorziehen
-- [ ] Rote Rübe säen
+- [x] Rote Rübe säen
 
 
 
 __Mai:__
-- [ ] Basilikum pflanzen (nach Eisheiligen)
-- [ ] Kopfsalat Finja vorziehen (3.)
-- [ ] Zuckererbse Sweet Horizon säen
-- [ ] Zuckererbse Ambrosia säen
-- [ ] Ggfs Möhre Robila irgendwo pflanzen für Winter
-- [ ] Alle Bohnen säen
-- [ ] Rotkohl Kalibos vorziehen
-- [ ] Brokkoli Calinaro vorziehen (Pflanzung nach 1 Monat)
+- [x] Basilikum pflanzen (nach Eisheiligen)
+- [x] Ggfs Möhre Robila irgendwo pflanzen für Winter
+- [x] Alle Bohnen säen
+- [x] Rotkohl Kalibos vorziehen
+- [x] Brokkoli Calinaro vorziehen (Pflanzung nach 1 Monat)
 
 
 __Juni:__
-- [ ] Kopfsalat Finja vorziehen (4.)
-- [ ] Zuckererbse Sweet Horizon vorziehen
-- [ ] Zuckererbse Ambrosia vorziehen
-- [ ] Ggfs nochmal alle Bohnen säen
-- [ ] Rotkohl Kalibos vorziehen
-- [ ] Brokkoli Calinaro vorziehen (Pflanzung nach 1 Monat)
-- [ ] Pastinaken säen (nach Erbsen)
+- [x] Rotkohl Kalibos auspflanzen
+- [x] Brokkoli Calinaro auspflanzen
 
 
 __Juli:__
-- [ ] Kopfsalat Finja vorziehen (5.)
 - [ ] Phazelie vorziehen (für Gründüngung im Winter)
+- [x] 2. Runde Erbsen säen
+- [x] 2. Runde Bohnen säen
+- [x] Karotten säen
+- [x] Pastinake säen
+- [x] Rote Beete säen
 
 __August:__ 
 - [ ] Feldsalat Verte de Cambrai säen
@@ -128,9 +121,9 @@ __September:__
 <br>
 
 ## Jungpflanzen kaufen 
-- [ ] 2 Zucchini (hier verschiedene Sorten)
-- [ ] weitere Paprikas nachkaufen
-- [ ] 2 Gurke kaufen (gegen Mehltau)
+- [ ] 2 Zucchini (hier verschiedene Sorten) -> von Doreen 2 Stück bekommen und Ende Juni gepflanzt
+- [x] weitere Paprikas nachkaufen
+- [x] 2 Gurke kaufen (gegen Mehltau) -> wurden 3
 
 <hr>
 <br>
