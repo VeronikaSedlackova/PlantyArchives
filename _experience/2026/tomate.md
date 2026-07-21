@@ -54,6 +54,10 @@ In Erde eingepflanzt.
 
 ![]({{ '/experience/images/knoblauch/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
 
+#### <b>21. Juli</b>
+Den meisten Tomatengeiztriebe aber auch Hauptstränge den Kopf abgeschnitten. Die Ernte ist bisher eher wenig. Ich glaube ich habe zu viel Geiztriebe drangelassen. Jedenfalls hab ich die Kontrolle über die Tomaten verloren. 
+
+Ich bezweifle das wir dieses Jahr Tomatensauce einkochen können, bei der wenigen Ernte.
 
 
 
