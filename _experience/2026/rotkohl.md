@@ -10,7 +10,11 @@ Das sind meine Erfahrungen, die ich gesammelt habe.
 
 <u>Folgende Sorten habe ich angebaut:</u>
 
-TODO 
+| Rotkohl Kalibos          | 
+| -----------------------  | 
+| Bingenheimer Saatgut     |
+| G847 P, 22263 ST Bio     | 
+| Bewertung TODO           | 
 
 
 <br>
