@@ -22,4 +22,7 @@ Hier irgendwann habe ich die Bohnen jeweils 3 in eine Topf vorgezogen. Es ist ab
 Ich habe es mal risikiert die schon vorgezogenen Bohnen einzupflanzen. Wir haben etwa 9 Grad Nachttempaterur und etwa 20 Grad am Tag. Mitte Mai würde ich dann aber nochmal im Beet Direktsäen. 
 
 
+#### <b>21. Juli</b>
+Ich musste die erste Saat Bohnen komplett entfernen weil sie voller Blattläuse waren. Anfang Juli habe ich noch eine 2. Saat nur der roten Feuerbohne gestartet. Die hat bisher auch viele Läuse aber nicht extrem viele. Man sieht jetzt die ersten roten Fruchtansätze. 
 
+Ich besprühe die Läuse beim giesen mit einem Wasserstrahl das hilft etwas. 

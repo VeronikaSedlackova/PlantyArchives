@@ -16,3 +16,7 @@ Das sind meine Erfahrungen, die ich gesammelt habe.
 Kürbis wächst. Bisher nicht gedüngt, nur umgetopft.
 
 ![]({{ '/experience/images/kuerbis/2026/03-05-2026.jpeg' | relative_url }}){: width="300" }
+
+
+#### <b>21. Juli</b>
+Der Kürbis wächst der fleißig im Hochbeet. Er hat bereits 4 Stränge und etwa 10 Früchte.
