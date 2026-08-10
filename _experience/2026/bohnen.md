@@ -26,3 +26,7 @@ Ich habe es mal risikiert die schon vorgezogenen Bohnen einzupflanzen. Wir haben
 Ich musste die erste Saat Bohnen komplett entfernen weil sie voller Blattläuse waren. Anfang Juli habe ich noch eine 2. Saat nur der roten Feuerbohne gestartet. Die hat bisher auch viele Läuse aber nicht extrem viele. Man sieht jetzt die ersten roten Fruchtansätze. 
 
 Ich besprühe die Läuse beim giesen mit einem Wasserstrahl das hilft etwas. 
+
+#### <b>09. August</b>
+
+![]({{ '/experience/images/bohnen/2026/09-08-2026.jpeg' | relative_url }}){: width="300" }

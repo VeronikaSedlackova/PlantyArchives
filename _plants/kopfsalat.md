@@ -67,6 +67,9 @@ Nach 5-7 Wochen (ab Jungpflanze)
 ## Vermehren 
 Pflanze in die Blüte gehen lassen. Von unten immer wieder mal die welkenden Blätter entfernen. Die Samen sind etwa 12-24 Tage nach der Blüte reif.
 
+![]({{ '/experience/images/kopfsalat/vermehrung.jpeg' | relative_url }}){: width="500" }
+
+
 
 <hr>
 <br>

@@ -3,7 +3,7 @@ layout: page
 title: Rotkohl
 permalink: /rotkohl
 plant: Rotkohl
-image: /experience/images/confused-face.svg
+image: /experience/images/rotkohl/2026/09-08-2026.jpeg
 ---
 
 ## __Sorte__

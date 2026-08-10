@@ -23,4 +23,8 @@ Es ist ingesamt eine gekeimt und das auch eher künmerlich. Nächstes mal mehr V
 #### <b>21. Juli</b>
 Wachsen gut vor sich hin. Bisher alle Früchte grün. Ich habe einmal im Monat mit Bokashi gedüngt. 
 
+#### <b>09. August</b>
+
+![]({{ '/experience/images/paprika/2026/09-08-2026.jpeg' | relative_url }}){: width="400" }
+
 

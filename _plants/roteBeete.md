@@ -3,7 +3,7 @@ layout: page
 title: Rote Beete
 permalink: /roteBeete
 plant: Rote Beete
-image: /experience/images/confused-face.svg
+image: /plants/images/roteBeete/22-07-2026.jpeg
 ---
 
 ## __Sorte__

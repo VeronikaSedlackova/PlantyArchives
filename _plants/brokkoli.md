@@ -3,7 +3,7 @@ layout: page
 title: Brokkoli
 permalink: /brokkoli
 plant: Brokkoli
-image: /experience/images/confused-face.svg
+image: /experience/images/brokkoli/2026/09-08-2026.jpeg
 ---
 
 

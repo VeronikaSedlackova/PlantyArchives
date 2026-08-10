@@ -3,7 +3,8 @@ layout: page
 title: Kürbis
 permalink: /kuerbis
 plant: Kürbis
-image: /experience/images/confused-face.svg
+image: /experience/images/kuerbis/2026/10-08-2026.jpeg
+
 ---
 
 ## __Sorte__

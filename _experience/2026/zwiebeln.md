@@ -19,5 +19,13 @@ Pflanzung ins Hochbeet.
 
 ![]({{ '/experience/images/zwiebeln/2026/12-04-2026_eingepflanzt.jpeg' | relative_url }}){: width="300" }
 
+#### <b>10. Juli</b>
+Die Ernte rückt immer näher.
+
+![]({{ '/experience/images/zwiebeln/2026/10-07-2026.jpeg' | relative_url }}){: width="300" }
+
+
 #### <b>14. Juli</b>
 Die Zwiebeln geerntet. Ich hab die Zwiebeln kopfüber an ein Gitter vor der Haustür gehängt. Da bleiben sie jetzt erstmal. Die Knollen sind sehr klein, aber sehr viele geworden.
+
+
