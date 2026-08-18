@@ -59,5 +59,12 @@ Den meisten Tomatengeiztriebe aber auch Hauptstränge den Kopf abgeschnitten. Di
 
 Ich bezweifle das wir dieses Jahr Tomatensauce einkochen können, bei der wenigen Ernte.
 
+#### <b>18. August</b>
+Gläser, Deckel für 10min sterilisiert. Den Gummi für 3 min. 
 
+Tomaten kleingeschnitten und das Grüne entfernt, 10min vorgekocht, dann püriert (lieber mit dem Mixer, der Pürierstab braucht lange) und dann nochmal für 15min gekocht. Denn Topf währendessen zum Kochen bringen. 
+
+In je 500g Gläser haben wir 400g eingefühlt sowie einen EL Zitronensaft am Boden. Anschließend für 40min eingekocht. 
+
+Ingesamt sind aus 3kg 2533g Tomatensauce rausgekommen. 
 
