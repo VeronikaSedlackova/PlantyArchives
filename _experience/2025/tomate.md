@@ -66,6 +66,16 @@ Black Cherry + Harzfeuertomate: Kaffeesatz
 #### <b>20. August</b>
 ![Befall]({{ '/experience/images/tomate/20-08-2025_ernte.jpeg' | relative_url }}){: width="600" }
 
+#### <b>23. August</b>
+Wir hatten 3 Durchläufe des Einkochens. 
+
+1. 1,2kg Tomaten eingekocht (vor dem 23. August)
+2. 2,4kg Tomaten eingekocht (23. August)
+3. 1,1kg gelbe Tomaten eingekocht (am 7. September)
+
+Insgesamt rot: 3,6kg
+Insgesamt alles: 4,7kg
+
 
 ### Fazit: 
 Keine Probleme mit Tieren oder sonstigen Krankheiten. Ich würde im nächsten Jahr maximal 3 Geiztriebe dranlassen und wachsen lassen. 
