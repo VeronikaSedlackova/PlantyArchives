@@ -28,14 +28,14 @@ permalink: /roadmap/fruchtfolge
 - 2027: ?
     - 
 
-## schmales Hochbeet rechts mit rechter Seite (4) - Schule
+## schmales Hochbeet rechts mit rechter Seite (4) - Schule ✅
 - 2026: 
     - April: Rote Rüben, Zwiebeln
     - Mai: Gurke, Basilikum
     - August: Feldsalat
 - 2027:
     - Herbst 2026: Knobi
-    - Kohlrabi, Mangold
+    - Mangold, Karotten
 
 
 ## linkes Hochbeet Obi
@@ -44,8 +44,9 @@ permalink: /roadmap/fruchtfolge
     - März: Erbse, Karotten
     - Mai: Rotkohl
     - Juni: Erbsen, Karotten, Pastinaken
-- 2027: 
-    - ?
+- 2027: ?
+- 2028: ?
+- 2029: Kürbis
 
 
 ## rechtes Hochbeet Obi
@@ -55,31 +56,28 @@ permalink: /roadmap/fruchtfolge
     - Juni: Brokkoli, Lauch, Stangenbohnen
 - 2027: ?
 
-## Tomatenbeet
+## 1. Tomatenbeet ✅
 - 2025: Tomaten 
 - 2026: Tomaten, Basilikum, Knoblauch
-- 2027: Gurke, Zwiebeln, ?
+- 2027: Gurke, Kohlrabi, Paprika
 
 ## Kartoffel Hochbeet
 - 2026:
     - Mai: Kürbis
     - Juli: Bohnen
+- 2027:
+    - März: Karotten, Zwiebeln
+    - August: ? (nach Zwiebeln)
 
 ## TODO Vor dem Kompost
 - 2027: Mais, Stangenbohnen, Sweet Dumpling/anderer Kürbis
 
-## Blumenbeet
-- Juni: Zucchini
 
-## Kräuterbeet
-- Mai: Rotkohl
-- Juni: Lauch, Brokkoli, Salat
-
-## Eigenes Kartoffelbeet
+## Eigenes Kartoffelbeet ✅
 - 2027:
     - Kartoffeln
 
-## Neben den Mülleimer mit Dach
+## Neben den Mülleimer mit Dach ✅
 - 2027:
     - Tomaten
 
@@ -90,20 +88,20 @@ permalink: /roadmap/fruchtfolge
 ## 2027: 
 
 - [x] Tomate -> Neben Mülleimer
-- Paprika
-- Gurke
-- Omas kleine Zwiebeln
-- Rote Zwiebeln (zum einlegen)
+- [x] Paprika
+- [x] Gurke
+- [x] Omas kleine Zwiebeln
+- [x] Rote Zwiebeln (zum einlegen)
 - [x] Knobi
-- Karotten
-- Erbsen
-- Brokkoli
+- [x] Karotten
+- [ ] Erbsen
+- [ ] Brokkoli
 - [x] Kohlrabi
 - [x] Kartoffeln (eigenes neues Beet)
 - [x] Mangold
-
-
-vermutlich auch:
-- Bohnen
-- Kürbis (Butternut oder sweet dumpling)
-- Zucchini
+- [ ] Bohnen
+- [ ] Kürbis (Butternut oder sweet dumpling)
+- [ ] Zucchini
+- [ ] Porree
+- [ ] Rote Rübe
+- [ ] Rotkohl?

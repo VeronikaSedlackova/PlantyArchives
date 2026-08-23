@@ -62,6 +62,7 @@ Buschbohnen:
 | Kürbis                ||
 | Spargel               ||
 | Rhabarber             ||
+
 <hr>
 
 ## __Gießen__

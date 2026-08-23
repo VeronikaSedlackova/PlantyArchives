@@ -89,6 +89,7 @@ Wenn sie prall aber noch nicht holzig sind.
 ### Merkmale
 
 - Unbedingt ein Kulturschutznetz verwenden
+- Kohlrabi sollte nach dem Keimen kühler gestellt werden, jedoch nicht unter 12 °C, da zu kühle Temperaturen in der Anzucht zu der sogenannten "Herzlosigkeit" führen können, dann bildet die Pflanze keine Knolle aus. Kohlrabi darf nicht zu tief gesetzt werden und bei den ersten Pflanzungen im Jahr ist ein Abhärten wichtig.
 
 ### Lagern
 TODO
