@@ -6,36 +6,54 @@ permalink: /tomate
 image: experience/images/tomate/21-07-2023_wachstum.jpeg
 ---
 
-## __Sorten__
+## __Angebaute Sorten__
 
 ### Gärtnerei HG, 1 Stück: 4,20€ (2025)
 
-| Golden Currant                | Ruthje                       | Black Cherry                     | Philamina |
-| ----------------------------- | ---------------------------  | ---------------------------      | --------------------------- 
-| gelbe Cherrytomate            | rote Cocktailtomate          | dunkle Cherrytomate              | rote Cocktailtomate an Rispen
-| Fazit: leicht säuerlich (7/10)| Fazit: (7/10)                | Fazit: (8/10)                    | Fazit: (8/10) 
+| Golden Currant                | Ruthje                       | Black Cherry                     | Philamina                     |
+| ----------------------------- | ---------------------------  | ---------------------------      | ---------------------------   |
+| gelbe Cherrytomate            | rote Cocktailtomate          | dunkle Cherrytomate              | rote Cocktailtomate an Rispen |
+| Stabtomate                    | Stabtomate                   | Stabtomate                       | Stabtomate                    |
+|                               | Früchte 3-5cm groß           | 3-4cm große Früchte              |                               |
+| bis 2m hoch                   | bis 2m hoch                  | bis 2,5m hoch                    | bis 2m hoch                   |
+| Ernte Juli - Oktober          | Ernte Juli - Oktober         | Ernte Juli - Oktober             | Ernte Juni - Oktober          |
+| 80cm Pflanzabstand            | 80cm Pflanzabstand           |||
+|                               | Braucht Regenschutz          |||
+| **Fazit 2025:** leicht säuerlich (7/10) | **Fazit 2025:** (7/10)     | **Fazit 2025:** (8/10)               | **Fazit 2025:** (8/10)            |
+| **Fazit 2026:** Samen 2025 nicht gekeimt| **Fazit 2026:** (7/10) unscheinbar, aus Samen 2025 vorgezogen | **Fazit 2026:** (6/10) eher säuerlich statt süß, enttäuschend, aus Samen 2025 vorgezogen| **Fazit 2026:** (8/10) aus Samen 2025 vorgezogen |
+
 
 ### Allesladen, 1 Stück: ~ 2€ (2025)
 
-| Partytomate - Lycopersicon esculentum  | Harzfeuertomate - Solanum lycopersicum |
-| -------------------------------------- | ---------------------------            | 
-| relativ groß                           | relativ groß                           | 
-| Fazit: (6/10)                          | Fazit: (6/10)                          | 
+| Partytomate - Lycopersicon esculentum                   | Harzfeuertomate - Solanum lycopersicum                           |
+| ------------------------------------------------------- | ---------------------------------------------------------------  | 
+| relativ groß                                            | relativ groß                                                     | 
+| **Fazit 2025:** (6/10)                                  | **Fazit 2025:** (6/10) weniger süß                               | 
+| **Fazit 2026:** wahrscheinlich Samen 2025 nicht gekeimt | **Fazit 2026:** (9/10) sehr süß, toll, aus Samen 2025 vorgezogen | 
+
+## Riesen Tomate
+
+| Green Zebra                                                               | 
+| ------------------------------------------------------------------------- | 
+| von Hannah vorgezogen bekommen (Ricos Freundin)                           |
+| tolle große Früchte                                                       | 
+| säuerlich                                                                 |
+| **Fazit 2026:** (5/10) gar nicht süß, viel Ertrag, Geschmack enttäuschend |
  
 <hr>
 
-## __Sorten__
+## __Wunschsorten__
 
 - Zuckertraube (Cherrytomate, frühreif, bis erste Fröste erntbar)
 - Matina (hell, frühreif)
 - Russische Schwarze (rotbraune bis dunkelrote Früchte mit grüner Färbung oben, reift mittelfrüh, braucht ca 65 Tage bis zur ersten Ernte)
 
 <hr>
+<br>
 
 ## __Vorkultur__
 Tomaten brauchen LED-Anzuchtlampen da man schon so früh im Jahr mit der Anzucht beginnt. Anzuchterde oder Kompost vorher anfeuchten und Samen auf Erde legen (Lichtkeimer) und 1cm mit Erde bedecken. Dann Frischhaltefolie über die Anzuchtschale spannen, denn Tomaten brauchen 20-24 Grad zum keimen. Sobald sie keimen brauchen Tomaten eine Temperatur von 17-18 Grad. 
 
-Tomaten sollten eine Höhe von ca 30cm erreicht haben, um ins Beet eingepflanzt zu werden
 
 ## __Pikieren__
 Sobald man die ersten Keimblätter sieht, kann pikiert werden.
@@ -50,6 +68,7 @@ Ca 1 Woche vor dem Auspflanzen die Tomaten abhärten. Am 1. Tag die Pflanzen fü
 <hr>
 
 ## __Auspflanzen__
+Tomaten sollten eine Höhe von ca 30cm erreicht haben, um ins Beet eingepflanzt zu werden
 
 Die unteren Blätter der Jungpflanze entfernen und ein Loch (mit handvoll Hornspänen + Urgesteinsmehl) graben das genauso tief ist wie der erste Pflanzenstiel. Die Tomate wird etwas tiefer als nur bis zum Wurzelballen gepflanzt, damit sie mehr Wurzeln bilden kann und somit stabiler ist. Anschließend kommen etwa 2 Hände voller Kompost ins Erdloch. 
 
