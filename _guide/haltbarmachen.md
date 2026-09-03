@@ -22,3 +22,8 @@ permalink: /haltbarmachen
 ### [Knoblauch]({% link _guide/fermentieren/knoblauch.md %})
 
 
+## Einkochen
+
+### [Rotkohl]({% link _guide/einkochen/rotkohl.md %})
+
+
