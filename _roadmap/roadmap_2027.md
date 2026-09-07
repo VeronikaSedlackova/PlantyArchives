@@ -26,6 +26,7 @@ __März__:
 - [ ] Erbsen aussäen
 - [ ] Rote Zwiebeln Robelja und Omas Zwiebeln pflanzen
 - [ ] Mangold vorziehen (1.)
+- [ ] TODO Stauben (Nachbars Samen) vorziehen
 
 __April__:
 - [ ] Kartoffeln auspflanzen

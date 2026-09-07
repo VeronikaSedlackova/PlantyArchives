@@ -19,6 +19,11 @@ Pflanzung ins Hochbeet.
 
 ![]({{ '/experience/images/zwiebeln/2026/12-04-2026_eingepflanzt.jpeg' | relative_url }}){: width="300" }
 
+#### <b>16. Juni</b>
+
+![]({{ '/experience/images/zwiebeln/2026/16-06-2026.jpeg' | relative_url }}){: width="300" }
+
+
 #### <b>10. Juli</b>
 Die Ernte rückt immer näher.
 

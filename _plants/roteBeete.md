@@ -12,4 +12,4 @@ image: /plants/images/roteBeete/22-07-2026.jpeg
 | -----------------------  | 
 | Bingenheimer Saatgut |
 | lagerfähig, für Rohkost geeignet | 
-| Bewertung TODO|
+| Bewertung 10/10 |
