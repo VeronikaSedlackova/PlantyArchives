@@ -27,3 +27,7 @@ Etwa 1-2 Mal in der Voranzucht mit Bokashi 1:200 gedüngt.
 Den Ingwer bei Tagestemperatur 11-12 Grad eingepflanzt. Die Ingwer Knolle ca 2cm in die Erde vergrabt.
 
 ![]({{ '/experience/images/ingwer/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
+
+#### <b>09. August</b>
+
+![]({{ '/experience/images/ingwer/2026/09-08-2026.jpeg' | relative_url }}){: width="400" }

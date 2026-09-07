@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Rotkohl einkochen
-permalink: /einkochen/rotkohl
-plant: Rotkohl einkochen
+title: Rotkohl kochen
+permalink: /kochen/rotkohl
+plant: Rotkohl kochen
 image: /experience/images/confused-face.svg
 ---
 
 ## Zutaten
 
 - 800g Rotkohl
-- 1,5 Äpfel (z.B. Boskop, Elstar oder Braeburn sollte süß-säuerlich sein)
+- 1 Apfel (z.B. Boskop, Elstar oder Braeburn sollte süß-säuerlich sein)
 - 2 kleine Zwiebel
 - 2 EL Zucker
 - 1 TL Salz
@@ -19,7 +19,7 @@ image: /experience/images/confused-face.svg
 - 1 Lorbeerblatt
 - 2 EL Balsamico Essig
 - 100ml Wasser
-- 100ml Apfelsaft
+- 100ml Apfelsaft, naturtrüb
 - 100ml Traubensaft
 
 
@@ -27,11 +27,11 @@ image: /experience/images/confused-face.svg
 
 1. Rotkohl halbieren, vierteln und die äußeren Blätter entfernen. Den Strunk entfernen und den Kohl in dünne Streifen schneiden oder hobeln. Äpfel klein würfeln. Eine Zwiebel grob zerkleinern. Eine Zwiebel schälen und mit Nelken bespiken. 
 
-2. Rotkohlstreifen in eine Schüssel geben und mit den Händen 5 Minuten mit Zucker und Salz verkneten. 
+2. Rotkohlstreifen in eine Schüssel geben und mit den Händen 5 Minuten mit Salz verkneten. 
 
-3. Butterschmalz in einem Topf erhitzen und die Zwiebeln weich dünsten. Rotkohl und Äpfel zugeben und anschwitzen. Apfelsaft, Balsamico, die mit Nelken bespikte Zwiebel, Lorbeerblätter und die Zimtstange zugeben.
+3. Ghee in einem Topf erhitzen und die Zwiebeln weich dünsten. Äpfel zugeben und anschwitzen und anschließen Zucker zugeben. Wenn der Zucker geschmolzen ist wenn Rotkohl hinzufügen. Dann den Balsamico Essig hinzufügen und umrühren. Apfelsaft, die mit Nelken bespikte Zwiebel, Lorbeerblätter und die Zimtstange zugeben.
 
-4. Rotkohl bei geringer Hitze mit Deckel ca. 45 Minuten köcheln lassen, bis die gewünschte Konsistenz erreicht ist. Zwischendurch mal umrühren. Lorbeerblätter, die mit Nelken bespickte Zwiebel und die Zimtstange entfernen. 
+4. Rotkohl bei geringer Hitze mit Deckel ca. 45 Minuten köcheln lassen, bis die gewünschte Konsistenz erreicht ist. Zwischendurch mal umrühren. Lorbeerblätter, die mit Nelken bespickte Zwiebel und die Zimtstange dann entfernen. 
 
 Wenn man mag, kann man den Rotkohl am Ende noch mit Speisestärke andicken. (1 EL Stärke mit 1 EL Wasser verrühren und unterheben.)
 

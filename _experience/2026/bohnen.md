@@ -30,3 +30,7 @@ Ich besprühe die Läuse beim giesen mit einem Wasserstrahl das hilft etwas.
 #### <b>09. August</b>
 
 ![]({{ '/experience/images/bohnen/2026/09-08-2026.jpeg' | relative_url }}){: width="300" }
+
+#### <b>11. August</b>
+
+![]({{ '/experience/images/bohnen/2026/11-08-2026.jpeg' | relative_url }}){: width="300" }

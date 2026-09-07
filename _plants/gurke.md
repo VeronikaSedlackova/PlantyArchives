@@ -9,13 +9,12 @@ image: /experience/images/gurke/02-06-2023_erste_fruechte.jpeg
 
 ## __Sorte__
 
-| Kiepenkerl Salatgurke    | Freilandgurke |
-| -----------------------  | ------------  |
-| ![]({{ '/experience/images/gurke/Sorte_Tanja.jpeg' | relative_url }}){: width="300" } | ![]({{ '/experience/images/gurke/Sorte_Freilandgurke.jpeg' | relative_url }}){: width="300" }
-| Gattung: Tanja | Gattung: Cucumus sativus |
-| Obi, Saatgut: 2,99€ | Dehner |
-| Saatmenge: ca. 40 Stück | gekaufte Pflanze |
-| Fazit: naja (zu große Kerne) | lecker
+| Kiepenkerl Salatgurke Tanja    | Freilandgurke | Freiland Snackgurke Sultan F1 |
+| ------------------------------ | ------------  | ----------------------------- |
+| ![]({{ '/experience/images/gurke/Sorte_Tanja.jpeg' | relative_url }}){: width="300" } | ![]({{ '/experience/images/gurke/Sorte_Freilandgurke.jpeg' | relative_url }}){: width="300" } | ![]({{ '/experience/images/gurke/2026/sultan.jpeg' | relative_url }}){: width="200" } ![]({{ '/experience/images/gurke/2026/sultan_rueckseite.jpeg' | relative_url }}){: width="200" } |
+| Obi, Saatgut: 2,99€ | Dehner | Hellweg, 2,79€ |
+| Saatmenge: ca. 40 Stück | gekaufte Pflanze | gekaufte Pflanze |
+| Fazit: naja (zu große Kerne) | lecker | Fazit 2026: 10/10 |
 
 <hr>
 

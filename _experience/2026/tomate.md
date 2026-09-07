@@ -67,12 +67,21 @@ In die Töpfe auch sowie eine die Erde eine Mischung 50/50 Kompost und Pflanzene
 
 #### <b>16. Juni</b>
 
-![]({{ '/experience/images/knoblauch/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
+![]({{ '/experience/images/tomate/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
+
+#### <b>27. Juli</b>
+Zu wenig ausgegeizt.
+
+![]({{ '/experience/images/tomate/2026/27-07-2026.jpeg' | relative_url }}){: width="400" }
 
 #### <b>21. Juli</b>
 Den meisten Tomatengeiztriebe aber auch Hauptstränge den Kopf abgeschnitten. Die Ernte ist bisher eher wenig. Ich glaube ich habe zu viel Geiztriebe drangelassen. Jedenfalls hab ich die Kontrolle über die Tomaten verloren. 
 
 Ich bezweifle das wir dieses Jahr Tomatensauce einkochen können, bei der wenigen Ernte.
+
+#### <b>11. August</b>
+![]({{ '/experience/images/tomate/2026/11-08-2026.jpeg' | relative_url }}){: width="300" }
+![]({{ '/experience/images/tomate/2026/11-08-2026_ernte.jpeg' | relative_url }}){: width="400" }
 
 #### <b>18. August</b>
 Gläser, Deckel für 10min sterilisiert. Den Gummi für 3 min. 
@@ -84,6 +93,7 @@ In je 500g Gläser haben wir 400g eingefühlt sowie einen EL Zitronensaft am Bod
 Ingesamt sind aus 3kg 2533g Tomatensauce rausgekommen. 
 
 #### <b>01. September</b>
+![]({{ '/experience/images/tomate/2026/01-09_ernte.jpeg' | relative_url }}){: width="300" }
 
 Diesmal direkt nach dem klein schneiden im Standmixer prüriert und dann erst aufgekocht (Favourisierte Variante). 
 

@@ -69,6 +69,8 @@ Pflanze in die Bl√ºte gehen lassen. Von unten immer wieder mal die welkenden Bl√
 
 ![]({{ '/experience/images/kopfsalat/vermehrung.jpeg' | relative_url }}){: width="500" }
 
+![]({{ '/experience/images/kopfsalat/salat_bluete.jpeg' | relative_url }}){: width="500" }
+
 
 
 <hr>

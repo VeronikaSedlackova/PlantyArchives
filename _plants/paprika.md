@@ -9,7 +9,16 @@ image: /experience/images/paprika/14-10-2023_paprika.jpeg
 Nachtschattengewächse
 
 ## __Sorte__
-TODO
+
+| **Salma Maxi Rot F1**                | **Sweet Banana**               | **Kyra**                       | **Capsicum annuum ‘Coronor’**  |
+| ------------------------------------ | ------------------------------ | ------------------------------ | ------------------------------ |
+| Jumbo-Snack-Paprika                  | Bullhornpaprika                | Spitzpaprika                   | Spitzpaprika                   |
+| Von Kiepenkerl                       | Von Plantiflor                 | Von Plantiflor                 | Von Samen 2025 vorgezogen      |
+| vorgezogen gekauft von Hellweg       | vorgezogen gekauft von Hellweg | vorgezogen gekauft von Hellweg | |
+| Preise 2026: ?                       | Preise 2026: 3,99€             | Preise 2026: 3,99€             | |
+| ![]({{ '/experience/images/paprika/2026/salma_maxi.jpeg' | relative_url }}){: width="200" } ![]({{ '/experience/images/paprika/2026/salma_maxi_rueckseite.jpeg' | relative_url }}){: width="200" }| ![]({{ '/experience/images/paprika/2026/sweet_banana.jpeg' | relative_url }}){: width="200" } ![]({{ '/experience/images/paprika/2026/sweet_banana_rueckseite.jpeg' | relative_url }}){: width="200" } | ![]({{ '/experience/images/paprika/2026/kyra.jpeg' | relative_url }}){: width="200" } ![]({{ '/experience/images/paprika/2026/kyra_rueckseite.jpeg' | relative_url }}){: width="200" } | |
+| **Fazit 2026:** TODO                 | **Fazit 2026:** TODO           | **Fazit 2026:** TODO           | **Fazit 2025:** 7/10 <br> **Fazit 2026:** TODO |
+
 
 <hr>
 

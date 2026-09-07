@@ -78,5 +78,14 @@ Ich habe die Laura Kartoffeln in kleine Stück mit einem Messer geschnitten. GRO
 
 Das übrige 1/3 habe ich in Potato Paul gepflanzt. Hier jeweils eine halbe Hand Hornspäne in die Mulde wo die Kartoffel rein kommt & jeweils eine Hand ganz oben drauf auf die Erde. 
 
+#### <b>16. Juni</b>
+![]({{ '/experience/images/kartoffeln/2026/16-06-2026.jpeg' | relative_url }}){: width="400" }
+
+#### <b>11. August</b>
+Ich denke die Kartoffeln können bald geerntet werden. Ich gieße ab jetzt nicht mehr. 
+
+![]({{ '/experience/images/kartoffeln/2026/11-08-2026.jpeg' | relative_url }}){: width="400" }
+
+
 
 

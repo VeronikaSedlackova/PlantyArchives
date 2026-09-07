@@ -12,7 +12,7 @@ image: /experience/images/rotkohl/2026/09-08-2026.jpeg
 | -----------------------  | 
 | Bingenheimer Saatgut     |
 | G847 P, 22263 ST Bio     | 
-| Bewertung TODO           |
+| Bewertung 10/10           |
 
 
 <hr>

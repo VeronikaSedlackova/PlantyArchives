@@ -15,6 +15,7 @@ permalink: /haltbarmachen
 3. Sofort in Eiswasser abschrecken 
 4. Trocknen und einfrieren
 
+### [Gekochten Rotkohl]({% link _guide/einkochen/rotkohl.md %})
 
 
 ## Fermentieren
@@ -22,8 +23,6 @@ permalink: /haltbarmachen
 ### [Knoblauch]({% link _guide/fermentieren/knoblauch.md %})
 
 
-## Einkochen
 
-### [Rotkohl]({% link _guide/einkochen/rotkohl.md %})
 
 
