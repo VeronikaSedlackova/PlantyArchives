@@ -32,18 +32,20 @@ permalink: /roadmap/familien
  # Kreuzblütler: 6 Jahre Anbaupause
 
 - Asiasalat (Mittelzehrer)
-- Kohlrabi (Mittelzehrer)
+- Blumenkohl (Starkzehrer)
+- Brokkoli (Starkzehrer)
 - Chinakohl (Mittelzehrer)
-- Rettich (Mittelzehrer) 
-- Radieschen (Schwachzehrer)
-- Rosenkohl (Starkzehrer)
+- Grünkohl (Starkzehrer)
+- Kohlrabi (Mittelzehrer)
+- Mairübe (Mittelzehrer)
 - Pak Choi (Starkzehrer)
+- Radieschen (Schwachzehrer)
+- Rettich (Mittelzehrer) 
+- Rosenkohl (Starkzehrer)
 - Rotkohl (Starkzehrer)
 - Weißkohl (Starkzehrer)
 - Wirsing (Starkzehrer)
-- Grünkohl (Starkzehrer)
-- Blumenkohl (Starkzehrer)
-- Brokkoli (Starkzehrer)
+
 
 # Doldenblütler: 3-4 Jahre Anbaupause (Mittelzehrer)
 

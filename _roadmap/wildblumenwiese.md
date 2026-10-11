@@ -9,19 +9,6 @@ Freie Fläche ~7x8m
 Auf 56 m² unbedingt mit kleinen Gruppen arbeiten (3-7).
 
 
-## Bäume
-
-- Apfel: Topaz + Rubinola Buschbaum M26 
-
-- 🍎 Apfel zu Apfel: ca. 3,5–4 m
-- 🍒 Süßkirsche zu Süßkirsche: ca. 4–5 m
-- 🍎 Apfel zu Süßkirsche: mindestens 4 m, besser 5 m
-
-50–80 cm Radius um den Stamm
-
-Süßkirsche eher nördlich (weil viel Schatten durch Baumkrone)
-Apfel eher südlich
-
 <hr>
 
 ## 🥗 1. Essbare Wildkräuter

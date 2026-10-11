@@ -4,29 +4,32 @@ title: Fruchtfolge
 permalink: /roadmap/fruchtfolge
 ---
 
-## schmales Hochbeet links mit linker Seite (1) - Schule
+<u>Fruchtfolge sowie Auspflanz/Saatzeitpunkt:</u>
+
+## schmales Hochbeet links mit linker Seite (1) - Schule ✅
 - 2026: 
     - März: Karotten, Zwiebeln
     - Mai: Lauch
 - 2027: 
-    - ?
+    - März: Erbse 
+    - Juli: Grünkohl
 
-## schmales Hochbeet links mit rechter Seite (2) - Schule
+## schmales Hochbeet links mit rechter Seite (2) - Schule ✅
 - 2026:  
     - Mai: Paprika, Frühlingszwiebeln, Basilikum
     - Juni: Karotten
 - 2027: 
-    - ?
+    - Mai: Zucchini Solara
 
 
-## schmales Hochbeet rechts mit linker Seite (3) - Schule
+## schmales Hochbeet rechts mit linker Seite (3) - Schule ✅
 - 2026: 
     - April: Zwiebeln
     - Mai: Salat
     - Juli: Mangold, Spinat
     - August: Rote Rübe
-- 2027: ?
-    - 
+- 2027: 
+    - Mai: Bohnen
 
 ## schmales Hochbeet rechts mit rechter Seite (4) - Schule ✅
 - 2026: 
@@ -34,52 +37,60 @@ permalink: /roadmap/fruchtfolge
     - Mai: Gurke, Basilikum
     - August: Feldsalat
 - 2027:
-    - Herbst 2026: Knobi
-    - Mangold, Karotten
+    - November 2026: Knobi
+    - Juni: Karotten, Mangold
 
 
 ## linkes Hochbeet Obi
 - 2025: Gurke, Erbsen, Karotten, Salat
 - 2026: 
-    - März: Erbse, Karotten
+    - März: Erbse, Karotten (fail)
     - Mai: Rotkohl
-    - Juni: Erbsen, Karotten, Pastinaken
-- 2027: ?
-- 2028: ?
-- 2029: Kürbis
+    - Juni: Erbsen (fail), Karotten (fail), Pastinaken (fail)
+    - September: Feldsalat, Spinat
+- 2027: 
+    - Feburar: Radieschen 
+    - Mai: Freilandtomate oder Aubergine 
 
 
-## rechtes Hochbeet Obi
+## rechtes Hochbeet Obi ✅
 - 2025: Paprika, Zucchini, Zwiebeln
 - 2026: 
     - Mai: Bohnen (nicht geklappt wegen Läusen), Gurke
     - Juni: Brokkoli, Lauch, Stangenbohnen
-- 2027: ?
+- 2027: 
+    - März: Sommerporree
+    - April: Rote Rübe
+    - Juni: Winterporree
 
 ## 1. Tomatenbeet ✅
 - 2025: Tomaten 
 - 2026: Tomaten, Basilikum, Knoblauch
-- 2027: Gurke, Kohlrabi, Paprika
+- 2027: 
+    - März: Kohlrabi
+    - Mai: Gurke, Paprika
 
-## Kartoffel Hochbeet
+## Kartoffel Hochbeet  ✅
 - 2026:
     - Mai: Kürbis
     - Juli: Bohnen
 - 2027:
     - März: Karotten, Zwiebeln
-    - August: ? (nach Zwiebeln)
+    - August: Radieschen (nach Zwiebeln)
 
 ## TODO Vor dem Kompost
-- 2027: Mais, Stangenbohnen, Sweet Dumpling/anderer Kürbis
+- 2027: 
+    - Mai: Mais, Stangenbohnen, Sweet Dumpling/anderer Kürbis
 
 
-## Eigenes Kartoffelbeet ✅
+## Eigenes Kohlbeet ✅
 - 2027:
-    - Kartoffeln
+    - März & Juni: Rotkohl
+    - April & Juli: Brokkoli
 
 ## Neben den Mülleimer mit Dach ✅
 - 2027:
-    - Tomaten
+    - Mai: Tomaten
 
 
 <hr>
@@ -94,14 +105,16 @@ permalink: /roadmap/fruchtfolge
 - [x] Rote Zwiebeln (zum einlegen)
 - [x] Knobi
 - [x] Karotten
-- [ ] Erbsen
-- [ ] Brokkoli
+- [x] Erbsen
+- [x] Brokkoli
 - [x] Kohlrabi
-- [x] Kartoffeln (eigenes neues Beet)
+- [x] Kartoffeln (in Kübeln)
 - [x] Mangold
-- [ ] Bohnen
+- [x] Bohnen
 - [ ] Kürbis (Butternut oder sweet dumpling)
-- [ ] Zucchini
-- [ ] Porree
-- [ ] Rote Rübe
-- [ ] Rotkohl?
+- [x] Zucchini
+- [x] Porree
+- [x] Rote Rübe
+- [x] Rotkohl
+- [ ] Aubergine
+- [x] Grünkohl
