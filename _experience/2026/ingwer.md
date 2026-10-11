@@ -31,3 +31,7 @@ Den Ingwer bei Tagestemperatur 11-12 Grad eingepflanzt. Die Ingwer Knolle ca 2cm
 #### <b>09. August</b>
 
 ![]({{ '/experience/images/ingwer/2026/09-08-2026.jpeg' | relative_url }}){: width="400" }
+
+
+#### <b>11. Oktober</b>
+Ingwer und Kurkuma geerntet. Ich werde sie mit der Schale einfrieren. 

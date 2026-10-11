@@ -31,3 +31,6 @@ Es sind ungefähr 4 gut ausgereifte und 5 kleinere Früchte dran. Rund 20% sind 
 
 ![]({{ '/experience/images/kuerbis/2026/10-08-2026.jpeg' | relative_url }}){: width="300" }
 
+#### <b>11. Oktober</b>
+4 Hokkaidos geerntet. Sie werden jetzte 1 Woche im EG auf der Treppe gelagert (> 20 Grad), damit sie eine härtere Schale bilden
+

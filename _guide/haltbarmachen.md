@@ -22,6 +22,10 @@ permalink: /haltbarmachen
 
 ### [Knoblauch]({% link _guide/fermentieren/knoblauch.md %})
 
+## Cremes
+
+### [Ajvar]({% link _guide/cremes/ajvar.md %})
+
 
 
 

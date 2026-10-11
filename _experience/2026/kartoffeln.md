@@ -86,6 +86,8 @@ Ich denke die Kartoffeln können bald geerntet werden. Ich gieße ab jetzt nicht
 
 ![]({{ '/experience/images/kartoffeln/2026/11-08-2026.jpeg' | relative_url }}){: width="400" }
 
+#### <b>11. Oktober</b>
+Alle Kartoffeln geerntet. 
 
 
 

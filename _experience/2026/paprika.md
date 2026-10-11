@@ -51,5 +51,8 @@ Wachsen gut vor sich hin. Bisher alle Früchte grün. Ich habe einmal im Monat m
 
 ![]({{ '/experience/images/paprika/2026/25-08-2026.jpeg' | relative_url }}){: width="300" }
 
+#### <b>11. Oktober</b>
+Alle Paprikas geerntet. Aus den roten habe ich Ajvar hergestellt
+
 
 
